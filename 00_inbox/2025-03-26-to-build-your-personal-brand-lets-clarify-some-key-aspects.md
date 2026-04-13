@@ -1,5 +1,5 @@
 ---
-title: To build your personal brand, let's clarify some key aspects:
+title: "To build your personal brand, let's clarify some key aspects:"
 date: 2025-03-26
 source-folder: Notes
 tags: []

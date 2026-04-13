@@ -1,8 +1,10 @@
 ---
-title: Got it — I'm reviewing your remix now. Give me a moment to listen…
+title: "Got it — I'm reviewing your remix now. Give me a moment to listen…"
 date: 2025-04-20
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Got it — I'm reviewing your remix now. Give me a moment to listen…

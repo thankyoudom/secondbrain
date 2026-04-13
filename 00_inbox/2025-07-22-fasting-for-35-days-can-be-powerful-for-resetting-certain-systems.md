@@ -1,5 +1,5 @@
 ---
-title: Fasting for 3–5 days can be powerful for resetting certain systems…
+title: "Fasting for 3–5 days can be powerful for resetting certain systems…"
 date: 2025-07-22
 source-folder: Notes
 tags: []

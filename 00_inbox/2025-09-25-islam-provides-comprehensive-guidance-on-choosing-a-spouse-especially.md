@@ -1,5 +1,5 @@
 ---
-title: Islam provides comprehensive guidance on choosing a spouse, especially…
+title: "Islam provides comprehensive guidance on choosing a spouse, especially…"
 date: 2025-09-25
 source-folder: Notes
 tags: []

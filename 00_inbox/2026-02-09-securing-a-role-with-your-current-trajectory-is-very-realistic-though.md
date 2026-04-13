@@ -1,8 +1,10 @@
 ---
-title: Securing a role with your current trajectory is very realistic, though…
+title: "Securing a role with your current trajectory is very realistic, though…"
 date: 2026-02-09
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Securing a role with your current trajectory is very realistic, though…

@@ -1,5 +1,5 @@
 ---
-title: Certainly! Let’s dive deeper into the **Data Science** role and explore…
+title: "Certainly! Let’s dive deeper into the **Data Science** role and explore…"
 date: 2025-02-05
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: ?i?turn0image0?Absolutely, let's delve into Ivy Lab's track "Curves…
+title: "?i?turn0image0?Absolutely, let's delve into Ivy Lab's track "Curves…"
 date: 2025-04-20
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # ?i?turn0image0?Absolutely, let's delve into Ivy Lab's track "Curves…

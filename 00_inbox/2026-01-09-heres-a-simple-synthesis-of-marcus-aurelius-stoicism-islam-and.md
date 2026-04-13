@@ -1,5 +1,5 @@
 ---
-title: Here’s a simple synthesis of Marcus Aurelius, Stoicism, Islam, and…
+title: "Here’s a simple synthesis of Marcus Aurelius, Stoicism, Islam, and…"
 date: 2026-01-09
 source-folder: Notes
 tags: []

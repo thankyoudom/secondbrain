@@ -1,5 +1,5 @@
 ---
-title: Surah Takeaways:
+title: "Surah Takeaways:"
 date: 2025-08-02
 source-folder: Notes
 tags: []

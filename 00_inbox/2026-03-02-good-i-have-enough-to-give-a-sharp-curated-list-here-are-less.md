@@ -1,8 +1,10 @@
 ---
-title: Good — I have enough to give a sharp, curated list. Here are less…
+title: "Good — I have enough to give a sharp, curated list. Here are less…"
 date: 2026-03-02
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Good — I have enough to give a sharp, curated list. Here are less…

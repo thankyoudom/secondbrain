@@ -1,8 +1,10 @@
 ---
-title: You're absolutely right — #5–13 are still squarely in the tech ecosystem…
+title: "You're absolutely right — #5–13 are still squarely in the tech ecosystem…"
 date: 2025-07-22
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

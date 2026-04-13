@@ -1,5 +1,5 @@
 ---
-title: high profile
+title: "high profile"
 date: 2025-06-19
 source-folder: Notes
 tags: []

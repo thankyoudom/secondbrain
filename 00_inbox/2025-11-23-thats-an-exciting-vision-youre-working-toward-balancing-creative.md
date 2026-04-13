@@ -1,5 +1,5 @@
 ---
-title: That’s an exciting vision you’re working toward! Balancing creative…
+title: "That’s an exciting vision you’re working toward! Balancing creative…"
 date: 2025-11-23
 source-folder: Notes
 tags: []

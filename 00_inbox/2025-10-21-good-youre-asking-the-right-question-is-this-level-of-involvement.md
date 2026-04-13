@@ -1,5 +1,5 @@
 ---
-title: Good — you’re asking the right question: is this level of involvement…
+title: "Good — you’re asking the right question: is this level of involvement…"
 date: 2025-10-21
 source-folder: Notes
 tags: []

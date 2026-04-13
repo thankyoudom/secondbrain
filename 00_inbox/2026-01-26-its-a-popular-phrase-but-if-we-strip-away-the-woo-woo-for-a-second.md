@@ -1,8 +1,10 @@
 ---
-title: It’s a popular phrase, but if we strip away the "woo-woo" for a second…
+title: "It’s a popular phrase, but if we strip away the "woo-woo" for a second…"
 date: 2026-01-26
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # It’s a popular phrase, but if we strip away the "woo-woo" for a second…

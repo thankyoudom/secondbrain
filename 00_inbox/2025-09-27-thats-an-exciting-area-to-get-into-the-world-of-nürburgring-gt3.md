@@ -1,5 +1,5 @@
 ---
-title: That’s an exciting area to get into! The world of Nürburgring GT3…
+title: "That’s an exciting area to get into! The world of Nürburgring GT3…"
 date: 2025-09-27
 source-folder: Notes
 tags: []

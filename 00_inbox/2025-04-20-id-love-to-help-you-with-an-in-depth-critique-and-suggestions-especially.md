@@ -1,5 +1,5 @@
 ---
-title: I'd love to help you with an in-depth critique and suggestions, especially…
+title: "I'd love to help you with an in-depth critique and suggestions, especially…"
 date: 2025-04-20
 source-folder: Notes
 tags: []

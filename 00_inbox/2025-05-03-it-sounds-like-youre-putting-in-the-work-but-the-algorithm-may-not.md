@@ -1,5 +1,5 @@
 ---
-title: It sounds like you’re putting in the work, but the algorithm may not…
+title: "It sounds like you’re putting in the work, but the algorithm may not…"
 date: 2025-05-03
 source-folder: Notes
 tags: []

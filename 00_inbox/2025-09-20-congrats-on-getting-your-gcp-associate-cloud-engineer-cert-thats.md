@@ -1,5 +1,5 @@
 ---
-title: Congrats on getting your GCP Associate Cloud Engineer cert — that’s…
+title: "Congrats on getting your GCP Associate Cloud Engineer cert — that’s…"
 date: 2025-09-20
 source-folder: Notes
 tags: []

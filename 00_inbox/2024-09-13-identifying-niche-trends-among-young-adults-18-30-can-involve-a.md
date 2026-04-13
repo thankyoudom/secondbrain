@@ -1,5 +1,5 @@
 ---
-title: Identifying niche trends among young adults (18-30) can involve a…
+title: "Identifying niche trends among young adults (18-30) can involve a…"
 date: 2024-09-13
 source-folder: Notes
 tags: []

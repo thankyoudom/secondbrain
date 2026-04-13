@@ -1,8 +1,10 @@
 ---
-title: Color isn't just a visual experience; it’s the way our brains translate…
+title: "Color isn't just a visual experience; it’s the way our brains translate…"
 date: 2026-02-08
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Color isn't just a visual experience; it’s the way our brains translate…

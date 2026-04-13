@@ -1,5 +1,5 @@
 ---
-title: future/thought experiment
+title: "future/thought experiment"
 date: 2025-08-25
 source-folder: Notes
 tags: []

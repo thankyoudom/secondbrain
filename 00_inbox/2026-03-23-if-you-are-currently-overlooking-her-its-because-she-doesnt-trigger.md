@@ -1,5 +1,5 @@
 ---
-title: If you are currently overlooking her, it’s because she doesn’t trigger…
+title: "If you are currently overlooking her, it’s because she doesn’t trigger…"
 date: 2026-03-23
 source-folder: Notes
 tags: []

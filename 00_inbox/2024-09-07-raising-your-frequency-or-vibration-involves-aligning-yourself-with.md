@@ -1,5 +1,5 @@
 ---
-title: Raising your frequency or vibration involves aligning yourself with…
+title: "Raising your frequency or vibration involves aligning yourself with…"
 date: 2024-09-07
 source-folder: Notes
 tags: []

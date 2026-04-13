@@ -1,8 +1,10 @@
 ---
-title: This is a fascinating "under the hood" look at human psychology. You’re…
+title: "This is a fascinating "under the hood" look at human psychology. You’re…"
 date: 2026-01-23
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # This is a fascinating "under the hood" look at human psychology. You’re…

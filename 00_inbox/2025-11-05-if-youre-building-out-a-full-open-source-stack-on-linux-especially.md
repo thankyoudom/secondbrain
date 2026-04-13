@@ -1,8 +1,10 @@
 ---
-title: If you’re building out a full-open-source stack on Linux (especially…
+title: "If you’re building out a full-open-source stack on Linux (especially…"
 date: 2025-11-05
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

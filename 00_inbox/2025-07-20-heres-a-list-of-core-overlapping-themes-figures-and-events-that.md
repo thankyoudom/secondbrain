@@ -1,8 +1,10 @@
 ---
-title: Here's a list of core overlapping themes, figures, and events that…
+title: "Here's a list of core overlapping themes, figures, and events that…"
 date: 2025-07-20
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

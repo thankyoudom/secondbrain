@@ -1,5 +1,5 @@
 ---
-title: 1. Mandarin Chinese: The Economic Powerhouse
+title: "1. Mandarin Chinese: The Economic Powerhouse"
 date: 2026-02-16
 source-folder: Notes
 tags: []

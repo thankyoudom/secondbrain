@@ -1,8 +1,10 @@
 ---
-title: Got it — that extra context changes things in a good way ?. You’re…
+title: "Got it — that extra context changes things in a good way ?. You’re…"
 date: 2025-09-20
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

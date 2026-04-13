@@ -1,5 +1,5 @@
 ---
-title: Great question! Your unique perspective comes from how you combine…
+title: "Great question! Your unique perspective comes from how you combine…"
 date: 2025-03-26
 source-folder: Notes
 tags: []

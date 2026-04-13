@@ -1,8 +1,10 @@
 ---
-title: Perfect — Ivy Lab’s mellow halftime style is a masterclass in **space…
+title: "Perfect — Ivy Lab’s mellow halftime style is a masterclass in **space…"
 date: 2025-04-20
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Perfect — Ivy Lab’s mellow halftime style is a masterclass in **space…

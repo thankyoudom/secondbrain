@@ -1,5 +1,5 @@
 ---
-title: Creatine is fascinating because it’s one of the few supplements that…
+title: "Creatine is fascinating because it’s one of the few supplements that…"
 date: 2026-01-26
 source-folder: Notes
 tags: []

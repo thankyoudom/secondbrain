@@ -1,8 +1,10 @@
 ---
-title: That’s a very thoughtful and mature question — and it shows sincerity…
+title: "That’s a very thoughtful and mature question — and it shows sincerity…"
 date: 2025-10-26
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

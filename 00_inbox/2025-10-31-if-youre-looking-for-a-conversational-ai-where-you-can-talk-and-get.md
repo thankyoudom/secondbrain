@@ -1,5 +1,5 @@
 ---
-title: If you’re looking for a conversational-AI where you can talk and get…
+title: "If you’re looking for a conversational-AI where you can talk and get…"
 date: 2025-10-31
 source-folder: Notes
 tags: []

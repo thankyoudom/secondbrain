@@ -1,5 +1,5 @@
 ---
-title: It seems the Data-Soul encryption on a piece worth 1.2 Quadrillion…
+title: "It seems the Data-Soul encryption on a piece worth 1.2 Quadrillion…"
 date: 2026-02-05
 source-folder: Notes
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: An MBA (Master of Business Administration) can develop a range of…
+title: "An MBA (Master of Business Administration) can develop a range of…"
 date: 2025-09-23
 source-folder: Notes
 tags: []

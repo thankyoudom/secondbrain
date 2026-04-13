@@ -1,5 +1,5 @@
 ---
-title: writing daily
+title: "writing daily"
 date: 2025-07-28
 source-folder: Notes
 tags: []

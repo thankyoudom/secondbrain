@@ -1,5 +1,5 @@
 ---
-title: You're asking really smart, layered questions here—about platform…
+title: "You're asking really smart, layered questions here—about platform…"
 date: 2025-04-22
 source-folder: Notes
 tags: []

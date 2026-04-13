@@ -1,5 +1,5 @@
 ---
-title: You're absolutely right—folks who study machine learning and work…
+title: "You're absolutely right—folks who study machine learning and work…"
 date: 2025-09-17
 source-folder: Notes
 tags: []

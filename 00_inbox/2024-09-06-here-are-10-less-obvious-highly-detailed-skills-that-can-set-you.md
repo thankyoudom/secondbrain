@@ -1,5 +1,5 @@
 ---
-title: Here are 10 less obvious, highly detailed skills that can set you…
+title: "Here are 10 less obvious, highly detailed skills that can set you…"
 date: 2024-09-06
 source-folder: Notes
 tags: []

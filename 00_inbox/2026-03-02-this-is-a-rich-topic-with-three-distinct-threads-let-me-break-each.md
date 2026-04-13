@@ -1,8 +1,10 @@
 ---
-title: This is a rich topic with three distinct threads. Let me break each…
+title: "This is a rich topic with three distinct threads. Let me break each…"
 date: 2026-03-02
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # This is a rich topic with three distinct threads. Let me break each…

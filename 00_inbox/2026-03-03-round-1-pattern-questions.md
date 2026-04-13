@@ -1,8 +1,10 @@
 ---
-title: ? Round 1 — Pattern Questions
+title: "? Round 1 — Pattern Questions"
 date: 2026-03-03
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # ? Round 1 — Pattern Questions

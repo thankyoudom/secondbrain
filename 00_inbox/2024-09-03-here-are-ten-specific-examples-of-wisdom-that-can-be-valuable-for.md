@@ -1,5 +1,5 @@
 ---
-title: Here are ten specific examples of wisdom that can be valuable for…
+title: "Here are ten specific examples of wisdom that can be valuable for…"
 date: 2024-09-03
 source-folder: Notes
 tags: []

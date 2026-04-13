@@ -1,5 +1,5 @@
 ---
-title: add A1c as device
+title: "add A1c as device"
 date: 2025-03-07
 source-folder: Notes
 tags: []

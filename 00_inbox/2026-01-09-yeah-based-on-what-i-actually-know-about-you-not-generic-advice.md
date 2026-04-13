@@ -1,5 +1,5 @@
 ---
-title: Yeah — based on what I actually know about you (not generic advice…
+title: "Yeah — based on what I actually know about you (not generic advice…"
 date: 2026-01-09
 source-folder: Notes
 tags: []

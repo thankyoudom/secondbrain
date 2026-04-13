@@ -1,5 +1,5 @@
 ---
-title: That’s a beautiful experience — seeing raptors or even hearing blue…
+title: "That’s a beautiful experience — seeing raptors or even hearing blue…"
 date: 2025-10-21
 source-folder: Notes
 tags: []

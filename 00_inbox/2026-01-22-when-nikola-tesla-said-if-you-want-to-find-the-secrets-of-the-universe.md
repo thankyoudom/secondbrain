@@ -1,8 +1,10 @@
 ---
-title: When Nikola Tesla said, "If you want to find the secrets of the universe…
+title: "When Nikola Tesla said, "If you want to find the secrets of the universe…"
 date: 2026-01-22
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # When Nikola Tesla said, "If you want to find the secrets of the universe…

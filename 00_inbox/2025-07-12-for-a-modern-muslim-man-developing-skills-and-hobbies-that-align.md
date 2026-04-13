@@ -1,5 +1,5 @@
 ---
-title: For a modern Muslim man, developing skills and hobbies that align…
+title: "For a modern Muslim man, developing skills and hobbies that align…"
 date: 2025-07-12
 source-folder: Notes
 tags: []

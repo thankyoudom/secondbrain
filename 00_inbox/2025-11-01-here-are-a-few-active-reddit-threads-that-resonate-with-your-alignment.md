@@ -1,5 +1,5 @@
 ---
-title: Here are a few active Reddit threads that resonate with your alignment…
+title: "Here are a few active Reddit threads that resonate with your alignment…"
 date: 2025-11-01
 source-folder: Notes
 tags: []

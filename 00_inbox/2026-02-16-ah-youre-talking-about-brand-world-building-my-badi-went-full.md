@@ -1,8 +1,10 @@
 ---
-title: Ah, you're talking about Brand World Building. My bad—I went full…
+title: "Ah, you're talking about Brand World Building. My bad—I went full…"
 date: 2026-02-16
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Ah, you're talking about Brand World Building. My bad—I went full…

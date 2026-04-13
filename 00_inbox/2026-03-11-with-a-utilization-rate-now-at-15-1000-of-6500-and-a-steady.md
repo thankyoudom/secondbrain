@@ -1,5 +1,5 @@
 ---
-title: With a utilization rate now at 15% ($1,000 of $6,500) and a steady…
+title: "With a utilization rate now at 15% ($1,000 of $6,500) and a steady…"
 date: 2026-03-11
 source-folder: Notes
 tags: []

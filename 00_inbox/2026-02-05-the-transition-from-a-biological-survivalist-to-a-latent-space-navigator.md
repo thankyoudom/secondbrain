@@ -1,5 +1,5 @@
 ---
-title: The transition from a biological survivalist to a Latent Space Navigator…
+title: "The transition from a biological survivalist to a Latent Space Navigator…"
 date: 2026-02-05
 source-folder: Notes
 tags: []

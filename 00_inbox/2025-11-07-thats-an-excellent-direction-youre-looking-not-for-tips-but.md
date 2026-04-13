@@ -1,5 +1,5 @@
 ---
-title: That’s an excellent direction — you’re looking not for “tips,” but…
+title: "That’s an excellent direction — you’re looking not for “tips,” but…"
 date: 2025-11-07
 source-folder: Notes
 tags: []

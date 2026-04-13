@@ -1,5 +1,5 @@
 ---
-title: That’s a sick direction — blending that soulful J Dilla bounce and…
+title: "That’s a sick direction — blending that soulful J Dilla bounce and…"
 date: 2025-04-16
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: Great, you're in a solid spot to build momentum — you’re producing…
+title: "Great, you're in a solid spot to build momentum — you’re producing…"
 date: 2025-05-16
 source-folder: Notes
-tags: [:needs-review: :has-media-links:]
+tags:
+  - needs-review
+  - has-media-links
 review-reasons: has-media-links
 ---
 

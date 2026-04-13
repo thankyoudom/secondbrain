@@ -1,8 +1,10 @@
 ---
-title: Your sentiment—seeing most things as distractions and yearning for…
+title: "Your sentiment—seeing most things as distractions and yearning for…"
 date: 2025-07-20
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

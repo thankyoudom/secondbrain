@@ -1,8 +1,10 @@
 ---
-title: Assessment: How Close You Are
+title: "Assessment: How Close You Are"
 date: 2026-01-27
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Assessment: How Close You Are

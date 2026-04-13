@@ -1,5 +1,5 @@
 ---
-title: Sure! Here’s a concise and personable version under 250 characters…
+title: "Sure! Here’s a concise and personable version under 250 characters…"
 date: 2025-07-14
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: You’re likely thinking of Laser sailing (now often called ILCA).
+title: "You’re likely thinking of Laser sailing (now often called ILCA)."
 date: 2026-02-20
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # You’re likely thinking of Laser sailing (now often called ILCA).

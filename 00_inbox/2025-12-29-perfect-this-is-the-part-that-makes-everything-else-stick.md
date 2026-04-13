@@ -1,5 +1,5 @@
 ---
-title: Perfect. This is the part that makes everything else stick.
+title: "Perfect. This is the part that makes everything else stick."
 date: 2025-12-29
 source-folder: Notes
 tags: []

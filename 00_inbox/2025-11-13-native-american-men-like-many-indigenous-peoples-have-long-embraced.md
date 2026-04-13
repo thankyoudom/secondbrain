@@ -1,5 +1,5 @@
 ---
-title: Native American men, like many Indigenous peoples, have long embraced…
+title: "Native American men, like many Indigenous peoples, have long embraced…"
 date: 2025-11-13
 source-folder: Notes
 tags: []

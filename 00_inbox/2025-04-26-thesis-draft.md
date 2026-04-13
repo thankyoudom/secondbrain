@@ -1,5 +1,5 @@
 ---
-title: Thesis draft
+title: "Thesis draft"
 date: 2025-04-26
 source-folder: Notes
 tags: []

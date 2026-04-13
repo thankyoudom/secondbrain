@@ -1,8 +1,10 @@
 ---
-title: shells & bones studios
+title: "shells & bones studios"
 date: 2026-03-25
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # shells & bones studios

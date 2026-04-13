@@ -1,8 +1,10 @@
 ---
-title: Alberto mielgo
+title: "Alberto mielgo"
 date: 2025-07-19
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

@@ -1,8 +1,10 @@
 ---
-title: old content
+title: "old content"
 date: 2025-08-24
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

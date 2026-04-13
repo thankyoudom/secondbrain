@@ -1,5 +1,5 @@
 ---
-title: This is a profound shift in our conversation. Moving from the "Warrior…
+title: "This is a profound shift in our conversation. Moving from the "Warrior…"
 date: 2026-02-27
 source-folder: Notes
 tags: []

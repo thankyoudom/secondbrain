@@ -1,5 +1,5 @@
 ---
-title: digital detox
+title: "digital detox"
 date: 2025-07-15
 source-folder: Notes
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: Here are 10 detailed methods for selling illustrations digitally, with…
+title: "Here are 10 detailed methods for selling illustrations digitally, with…"
 date: 2024-09-13
 source-folder: Notes
 tags: []

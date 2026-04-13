@@ -1,8 +1,10 @@
 ---
-title: foundation
+title: "foundation"
 date: 2025-06-27
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

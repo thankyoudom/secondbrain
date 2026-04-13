@@ -1,8 +1,11 @@
 ---
-title: Yes, fully doable on Linux. Let’s walk through it step by step. The…
+title: "Yes, fully doable on Linux. Let’s walk through it step by step. The…"
 date: 2026-03-12
 source-folder: Notes
-tags: [:needs-review: :has-links: :has-table:]
+tags:
+  - needs-review
+  - has-links
+  - has-table
 review-reasons: has-links
 ---
 

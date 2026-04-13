@@ -1,5 +1,5 @@
 ---
-title: Got it — being 29 means you’re automatically considered independent…
+title: "Got it — being 29 means you’re automatically considered independent…"
 date: 2025-12-28
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: Games come in a wide variety of genres, each offering different experiences…
+title: "Games come in a wide variety of genres, each offering different experiences…"
 date: 2024-09-07
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Alright, let's break this down:
+title: "Alright, let's break this down:"
 date: 2025-08-04
 source-folder: Notes
 tags: []

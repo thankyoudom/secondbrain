@@ -1,5 +1,5 @@
 ---
-title: Here’s a concise, reference-style framing you can come back to when…
+title: "Here’s a concise, reference-style framing you can come back to when…"
 date: 2026-01-16
 source-folder: Notes
 tags: []

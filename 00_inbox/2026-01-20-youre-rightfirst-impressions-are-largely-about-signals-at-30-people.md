@@ -1,5 +1,5 @@
 ---
-title: You’re right—first impressions are largely about signals. At 30, people…
+title: "You’re right—first impressions are largely about signals. At 30, people…"
 date: 2026-01-20
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: Your hypothesis touches on an interesting point about how follower…
+title: "Your hypothesis touches on an interesting point about how follower…"
 date: 2025-05-16
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

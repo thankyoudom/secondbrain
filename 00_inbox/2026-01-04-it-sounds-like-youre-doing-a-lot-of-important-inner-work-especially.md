@@ -1,5 +1,5 @@
 ---
-title: It sounds like you're doing a lot of important inner work, especially…
+title: "It sounds like you're doing a lot of important inner work, especially…"
 date: 2026-01-04
 source-folder: Notes
 tags: []

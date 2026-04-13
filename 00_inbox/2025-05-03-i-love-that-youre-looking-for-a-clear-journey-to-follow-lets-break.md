@@ -1,5 +1,5 @@
 ---
-title: I love that you're looking for a clear journey to follow. Let’s break…
+title: "I love that you're looking for a clear journey to follow. Let’s break…"
 date: 2025-05-03
 source-folder: Notes
 tags: []

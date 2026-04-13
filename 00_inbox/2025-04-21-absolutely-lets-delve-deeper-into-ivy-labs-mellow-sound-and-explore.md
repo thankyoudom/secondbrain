@@ -1,8 +1,10 @@
 ---
-title: Absolutely, let's delve deeper into Ivy Lab's mellow sound and explore…
+title: "Absolutely, let's delve deeper into Ivy Lab's mellow sound and explore…"
 date: 2025-04-21
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Absolutely, let's delve deeper into Ivy Lab's mellow sound and explore…

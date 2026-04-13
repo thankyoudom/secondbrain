@@ -1,5 +1,5 @@
 ---
-title: If you’re looking to fill a full 24-hour window without a single screen…
+title: "If you’re looking to fill a full 24-hour window without a single screen…"
 date: 2026-02-07
 source-folder: Notes
 tags: []

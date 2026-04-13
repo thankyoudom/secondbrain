@@ -1,5 +1,5 @@
 ---
-title: Growing organically and rapidly on Instagram in 2024 requires a strategic…
+title: "Growing organically and rapidly on Instagram in 2024 requires a strategic…"
 date: 2024-12-16
 source-folder: Notes
 tags: []

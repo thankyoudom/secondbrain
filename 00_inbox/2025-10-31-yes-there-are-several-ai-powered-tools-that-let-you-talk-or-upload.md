@@ -1,5 +1,5 @@
 ---
-title: Yes — there are several AI-powered tools that let you talk (or upload…
+title: "Yes — there are several AI-powered tools that let you talk (or upload…"
 date: 2025-10-31
 source-folder: Notes
 tags: []

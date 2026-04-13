@@ -1,5 +1,5 @@
 ---
-title: If you're aiming to develop a sound similar to **Ivy Lab** — that…
+title: "If you're aiming to develop a sound similar to **Ivy Lab** — that…"
 date: 2025-04-26
 source-folder: Notes
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: Including Half marathon
+title: "Including Half marathon"
 date: 2025-01-14
 source-folder: Chicago Marathon - 26 miles - 2026 ????
 tags: []

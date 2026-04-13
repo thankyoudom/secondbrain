@@ -1,8 +1,10 @@
 ---
-title: What you described is actually a very important realization:
+title: "What you described is actually a very important realization:"
 date: 2026-03-06
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # What you described is actually a very important realization:

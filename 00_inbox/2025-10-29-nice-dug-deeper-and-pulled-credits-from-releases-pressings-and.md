@@ -1,5 +1,5 @@
 ---
-title: Nice — dug deeper and pulled credits from releases, pressings and…
+title: "Nice — dug deeper and pulled credits from releases, pressings and…"
 date: 2025-10-29
 source-folder: Notes
 tags: []

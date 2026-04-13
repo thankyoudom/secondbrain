@@ -1,8 +1,10 @@
 ---
-title: physics/devops
+title: "physics/devops"
 date: 2025-08-08
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

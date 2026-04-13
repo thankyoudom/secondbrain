@@ -1,5 +1,5 @@
 ---
-title: Here's a rough timeline of how storytelling and media have evolved…
+title: "Here's a rough timeline of how storytelling and media have evolved…"
 date: 2025-01-22
 source-folder: Notes
 tags: []

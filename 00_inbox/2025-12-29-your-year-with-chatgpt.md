@@ -1,8 +1,10 @@
 ---
-title: Your Year with ChatGPT
+title: "Your Year with ChatGPT"
 date: 2025-12-29
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

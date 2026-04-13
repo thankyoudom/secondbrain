@@ -1,8 +1,11 @@
 ---
-title: pluggnb.io
+title: "pluggnb.io"
 date: 2024-05-25
 source-folder: Notes
-tags: [:needs-review: :has-attachments: :has-links:]
+tags:
+  - needs-review
+  - has-attachments
+  - has-links
 review-reasons: has-attachments, has-links
 ---
 

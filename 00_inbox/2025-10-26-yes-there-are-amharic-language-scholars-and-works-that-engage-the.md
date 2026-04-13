@@ -1,5 +1,5 @@
 ---
-title: Yes — there are Amharic-language scholars and works that engage the…
+title: "Yes — there are Amharic-language scholars and works that engage the…"
 date: 2025-10-26
 source-folder: Notes
 tags: []

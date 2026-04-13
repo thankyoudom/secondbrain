@@ -1,5 +1,5 @@
 ---
-title: When it comes to treating a healthy scalp with candida overgrowth…
+title: "When it comes to treating a healthy scalp with candida overgrowth…"
 date: 2025-11-23
 source-folder: Notes
 tags: []

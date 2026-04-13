@@ -1,5 +1,5 @@
 ---
-title: Perfect — here’s a **Mix Template** tailored to your production style…
+title: "Perfect — here’s a **Mix Template** tailored to your production style…"
 date: 2025-04-16
 source-folder: Notes
 tags: []

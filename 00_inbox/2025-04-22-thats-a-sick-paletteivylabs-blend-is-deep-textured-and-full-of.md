@@ -1,8 +1,10 @@
 ---
-title: That's a sick palette—Ivylab’s blend is deep, textured, and full of…
+title: "That's a sick palette—Ivylab’s blend is deep, textured, and full of…"
 date: 2025-04-22
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

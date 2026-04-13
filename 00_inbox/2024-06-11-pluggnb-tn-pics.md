@@ -1,8 +1,11 @@
 ---
-title: pluggnb TN pics
+title: "pluggnb TN pics"
 date: 2024-06-11
 source-folder: Notes
-tags: [:needs-review: :has-attachments: :has-links:]
+tags:
+  - needs-review
+  - has-attachments
+  - has-links
 review-reasons: has-attachments, has-links
 ---
 

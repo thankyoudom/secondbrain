@@ -1,8 +1,10 @@
 ---
-title: Here are accessible, high-potential platforms and strategies for a…
+title: "Here are accessible, high-potential platforms and strategies for a…"
 date: 2025-06-24
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

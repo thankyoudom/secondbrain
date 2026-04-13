@@ -1,8 +1,10 @@
 ---
-title: Perfect—let’s break this down in two parts:
+title: "Perfect—let’s break this down in two parts:"
 date: 2025-04-07
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Perfect—let’s break this down in two parts:

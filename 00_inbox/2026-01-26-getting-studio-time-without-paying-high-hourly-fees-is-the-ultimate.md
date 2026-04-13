@@ -1,8 +1,10 @@
 ---
-title: Getting studio time without paying high hourly fees is the ultimate…
+title: "Getting studio time without paying high hourly fees is the ultimate…"
 date: 2026-01-26
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Getting studio time without paying high hourly fees is the ultimate…

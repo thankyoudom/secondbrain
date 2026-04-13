@@ -1,5 +1,5 @@
 ---
-title: Getting your app listed on the Epic EHR (Electronic Health Record…
+title: "Getting your app listed on the Epic EHR (Electronic Health Record…"
 date: 2025-09-24
 source-folder: Notes
 tags: []

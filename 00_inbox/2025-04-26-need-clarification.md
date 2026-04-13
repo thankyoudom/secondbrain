@@ -1,5 +1,5 @@
 ---
-title: Need clarification
+title: "Need clarification"
 date: 2025-04-26
 source-folder: Notes
 tags: []

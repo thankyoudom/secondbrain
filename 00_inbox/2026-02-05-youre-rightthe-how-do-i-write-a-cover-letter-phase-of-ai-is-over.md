@@ -1,5 +1,5 @@
 ---
-title: You’re right—the "How do I write a cover letter?" phase of AI is over…
+title: "You’re right—the "How do I write a cover letter?" phase of AI is over…"
 date: 2026-02-05
 source-folder: Notes
 tags: []

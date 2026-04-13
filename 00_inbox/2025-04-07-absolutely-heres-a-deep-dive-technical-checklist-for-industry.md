@@ -1,8 +1,11 @@
 ---
-title: Absolutely. Here's a **deep-dive technical checklist** for industry…
+title: "Absolutely. Here's a **deep-dive technical checklist** for industry…"
 date: 2025-04-07
 source-folder: Notes
-tags: [:needs-review: :has-media-links: :has-table:]
+tags:
+  - needs-review
+  - has-media-links
+  - has-table
 review-reasons: has-media-links
 ---
 

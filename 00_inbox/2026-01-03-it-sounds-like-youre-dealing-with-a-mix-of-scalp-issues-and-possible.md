@@ -1,5 +1,5 @@
 ---
-title: It sounds like you’re dealing with a mix of scalp issues and possible…
+title: "It sounds like you’re dealing with a mix of scalp issues and possible…"
 date: 2026-01-03
 source-folder: Notes
 tags: []

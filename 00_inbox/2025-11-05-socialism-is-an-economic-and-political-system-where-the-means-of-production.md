@@ -1,5 +1,5 @@
 ---
-title: Socialism is an economic and political system where the means of production…
+title: "Socialism is an economic and political system where the means of production…"
 date: 2025-11-05
 source-folder: Notes
 tags: []

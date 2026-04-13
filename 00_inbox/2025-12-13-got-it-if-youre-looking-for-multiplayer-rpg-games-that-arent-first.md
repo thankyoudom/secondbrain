@@ -1,8 +1,11 @@
 ---
-title: Got it! If you're looking for multiplayer RPG games that aren’t first…
+title: "Got it! If you're looking for multiplayer RPG games that aren’t first…"
 date: 2025-12-13
 source-folder: Notes
-tags: [:needs-review: :has-attachments: :has-table:]
+tags:
+  - needs-review
+  - has-attachments
+  - has-table
 review-reasons: has-attachments
 ---
 

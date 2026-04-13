@@ -1,5 +1,5 @@
 ---
-title: That’s a really thoughtful question — and it makes sense that the…
+title: "That’s a really thoughtful question — and it makes sense that the…"
 date: 2025-10-23
 source-folder: Notes
 tags: []

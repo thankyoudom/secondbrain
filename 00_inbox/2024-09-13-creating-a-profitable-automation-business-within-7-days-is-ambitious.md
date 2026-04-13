@@ -1,5 +1,5 @@
 ---
-title: Creating a profitable automation business within 7 days is ambitious…
+title: "Creating a profitable automation business within 7 days is ambitious…"
 date: 2024-09-13
 source-folder: Notes
 tags: []

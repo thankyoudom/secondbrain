@@ -1,5 +1,5 @@
 ---
-title: That’s a beautiful aesthetic you're chasing — J Dilla’s swing and…
+title: "That’s a beautiful aesthetic you're chasing — J Dilla’s swing and…"
 date: 2025-04-29
 source-folder: Notes
 tags: []

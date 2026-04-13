@@ -1,8 +1,10 @@
 ---
-title: Blending Stoicism and Islam creates a powerful framework for a 30…
+title: "Blending Stoicism and Islam creates a powerful framework for a 30…"
 date: 2026-01-23
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Blending Stoicism and Islam creates a powerful framework for a 30…

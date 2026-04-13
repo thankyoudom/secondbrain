@@ -1,5 +1,5 @@
 ---
-title: card.thankyoudom.com
+title: "card.thankyoudom.com"
 date: 2024-02-01
 source-folder: Notes
 tags: []

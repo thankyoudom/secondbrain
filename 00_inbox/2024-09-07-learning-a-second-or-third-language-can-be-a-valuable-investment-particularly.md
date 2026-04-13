@@ -1,5 +1,5 @@
 ---
-title: Learning a second or third language can be a valuable investment, particularly…
+title: "Learning a second or third language can be a valuable investment, particularly…"
 date: 2024-09-07
 source-folder: Notes
 tags: []

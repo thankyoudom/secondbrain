@@ -1,5 +1,5 @@
 ---
-title: That’s a really thoughtful question — and a deep one. You’re talking…
+title: "That’s a really thoughtful question — and a deep one. You’re talking…"
 date: 2025-11-07
 source-folder: Notes
 tags: []

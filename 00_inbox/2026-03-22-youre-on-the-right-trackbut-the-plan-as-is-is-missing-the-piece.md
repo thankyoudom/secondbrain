@@ -1,8 +1,10 @@
 ---
-title: You’re on the right track—but the plan as-is is missing the piece…
+title: "You’re on the right track—but the plan as-is is missing the piece…"
 date: 2026-03-22
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # You’re on the right track—but the plan as-is is missing the piece…

@@ -1,5 +1,5 @@
 ---
-title: It looks like you're starting the process of setting up a home server…
+title: "It looks like you're starting the process of setting up a home server…"
 date: 2025-12-25
 source-folder: Notes
 tags: []

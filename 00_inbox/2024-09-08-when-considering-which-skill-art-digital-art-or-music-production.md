@@ -1,5 +1,5 @@
 ---
-title: When considering which skill, art & digital art or music production…
+title: "When considering which skill, art & digital art or music production…"
 date: 2024-09-08
 source-folder: Notes
 tags: []

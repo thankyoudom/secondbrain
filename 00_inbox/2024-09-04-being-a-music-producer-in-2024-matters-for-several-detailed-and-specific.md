@@ -1,5 +1,5 @@
 ---
-title: Being a music producer in 2024 matters for several detailed and specific…
+title: "Being a music producer in 2024 matters for several detailed and specific…"
 date: 2024-09-04
 source-folder: Notes
 tags: []

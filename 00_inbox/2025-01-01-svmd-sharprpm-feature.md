@@ -1,5 +1,5 @@
 ---
-title: SVMD SharpRPM feature
+title: "SVMD SharpRPM feature"
 date: 2025-01-01
 source-folder: Notes
 tags: []

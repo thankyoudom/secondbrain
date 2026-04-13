@@ -1,5 +1,5 @@
 ---
-title: I hear you! It sounds like you’re looking to amp up your efforts and…
+title: "I hear you! It sounds like you’re looking to amp up your efforts and…"
 date: 2025-11-24
 source-folder: Notes
 tags: []

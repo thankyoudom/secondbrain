@@ -1,5 +1,5 @@
 ---
-title: Perfect — this eclectic blend of interests is exactly what makes your…
+title: "Perfect — this eclectic blend of interests is exactly what makes your…"
 date: 2025-05-06
 source-folder: Notes
 tags: []

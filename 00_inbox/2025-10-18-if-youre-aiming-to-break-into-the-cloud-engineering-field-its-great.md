@@ -1,8 +1,10 @@
 ---
-title: If you're aiming to break into the cloud engineering field, it's great…
+title: "If you're aiming to break into the cloud engineering field, it's great…"
 date: 2025-10-18
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

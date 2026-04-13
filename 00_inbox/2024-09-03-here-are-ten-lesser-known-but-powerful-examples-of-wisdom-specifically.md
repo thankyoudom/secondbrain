@@ -1,5 +1,5 @@
 ---
-title: Here are ten lesser-known but powerful examples of wisdom, specifically…
+title: "Here are ten lesser-known but powerful examples of wisdom, specifically…"
 date: 2024-09-03
 source-folder: Notes
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: recent readings as of today
+title: "recent readings as of today"
 date: 2025-02-25
 source-folder: Notes
 tags: []

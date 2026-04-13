@@ -1,5 +1,5 @@
 ---
-title: Discipline and Honor: Discipline and respect in your actions make…
+title: "Discipline and Honor: Discipline and respect in your actions make…"
 date: 2025-02-10
 source-folder: Notes
 tags: []

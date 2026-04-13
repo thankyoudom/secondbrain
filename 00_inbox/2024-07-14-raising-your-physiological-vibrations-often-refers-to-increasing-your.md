@@ -1,5 +1,5 @@
 ---
-title: Raising your physiological vibrations often refers to increasing your…
+title: "Raising your physiological vibrations often refers to increasing your…"
 date: 2024-07-14
 source-folder: Notes
 tags: []

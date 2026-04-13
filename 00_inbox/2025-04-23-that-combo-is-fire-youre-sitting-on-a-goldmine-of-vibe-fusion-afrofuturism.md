@@ -1,8 +1,10 @@
 ---
-title: That combo is fire. You’re sitting on a goldmine of vibe fusion: Afrofuturism…
+title: "That combo is fire. You’re sitting on a goldmine of vibe fusion: Afrofuturism…"
 date: 2025-04-23
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

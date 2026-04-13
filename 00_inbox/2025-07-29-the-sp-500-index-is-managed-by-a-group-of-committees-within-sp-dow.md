@@ -1,5 +1,5 @@
 ---
-title: The S&P 500 index is managed by a group of committees within S&P Dow…
+title: "The S&P 500 index is managed by a group of committees within S&P Dow…"
 date: 2025-07-29
 source-folder: Notes
 tags: []

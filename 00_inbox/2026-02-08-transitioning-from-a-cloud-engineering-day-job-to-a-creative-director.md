@@ -1,5 +1,5 @@
 ---
-title: Transitioning from a Cloud Engineering day job to a Creative Director…
+title: "Transitioning from a Cloud Engineering day job to a Creative Director…"
 date: 2026-02-08
 source-folder: Notes
 tags: []

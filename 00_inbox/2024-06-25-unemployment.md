@@ -1,8 +1,10 @@
 ---
-title: unemployment
+title: "unemployment"
 date: 2024-06-25
 source-folder: Notes
-tags: [:needs-review: :has-links:]
+tags:
+  - needs-review
+  - has-links
 review-reasons: has-links
 ---
 

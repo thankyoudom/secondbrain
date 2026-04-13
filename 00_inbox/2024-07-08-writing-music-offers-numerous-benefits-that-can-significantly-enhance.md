@@ -1,5 +1,5 @@
 ---
-title: Writing music offers numerous benefits that can significantly enhance…
+title: "Writing music offers numerous benefits that can significantly enhance…"
 date: 2024-07-08
 source-folder: Notes
 tags: []

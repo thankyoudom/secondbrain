@@ -1,5 +1,5 @@
 ---
-title: According to Marcus Aurelius, the key to living a meaningful and fulfilled…
+title: "According to Marcus Aurelius, the key to living a meaningful and fulfilled…"
 date: 2024-12-27
 source-folder: Notes
 tags: []

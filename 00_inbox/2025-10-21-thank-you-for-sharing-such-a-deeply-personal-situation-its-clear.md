@@ -1,5 +1,5 @@
 ---
-title: Thank you for sharing such a deeply personal situation. It’s clear…
+title: "Thank you for sharing such a deeply personal situation. It’s clear…"
 date: 2025-10-21
 source-folder: Notes
 tags: []

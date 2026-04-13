@@ -1,5 +1,5 @@
 ---
-title: In Islam, seeking wisdom is highly encouraged for Muslim men, as it…
+title: "In Islam, seeking wisdom is highly encouraged for Muslim men, as it…"
 date: 2024-09-03
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: Balanced Life
+title: "Balanced Life"
 date: 2025-08-04
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

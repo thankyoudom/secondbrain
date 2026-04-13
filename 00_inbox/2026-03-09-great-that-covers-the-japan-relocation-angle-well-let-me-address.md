@@ -1,8 +1,10 @@
 ---
-title: Great, that covers the Japan relocation angle well. Let me address…
+title: "Great, that covers the Japan relocation angle well. Let me address…"
 date: 2026-03-09
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Great, that covers the Japan relocation angle well. Let me address…

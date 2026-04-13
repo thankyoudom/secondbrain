@@ -1,8 +1,10 @@
 ---
-title: The intersection of technical logic and creative expression is actually…
+title: "The intersection of technical logic and creative expression is actually…"
 date: 2026-03-08
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # The intersection of technical logic and creative expression is actually…

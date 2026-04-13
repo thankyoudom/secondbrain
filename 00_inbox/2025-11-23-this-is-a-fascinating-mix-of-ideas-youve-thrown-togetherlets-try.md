@@ -1,5 +1,5 @@
 ---
-title: This is a fascinating mix of ideas you’ve thrown together—let’s try…
+title: "This is a fascinating mix of ideas you’ve thrown together—let’s try…"
 date: 2025-11-23
 source-folder: Notes
 tags: []

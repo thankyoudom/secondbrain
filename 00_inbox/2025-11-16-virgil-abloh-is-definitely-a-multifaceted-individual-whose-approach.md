@@ -1,5 +1,5 @@
 ---
-title: Virgil Abloh is definitely a multifaceted individual whose approach…
+title: "Virgil Abloh is definitely a multifaceted individual whose approach…"
 date: 2025-11-16
 source-folder: Notes
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: It’s easy to get cynical and see every image as a "brand asset," but…
+title: "It’s easy to get cynical and see every image as a "brand asset," but…"
 date: 2026-02-08
 source-folder: Notes
 tags: []

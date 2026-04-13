@@ -1,8 +1,10 @@
 ---
-title: Ian Connor
+title: "Ian Connor"
 date: 2025-11-07
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

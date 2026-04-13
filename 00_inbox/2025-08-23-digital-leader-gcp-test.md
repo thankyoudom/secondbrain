@@ -1,8 +1,10 @@
 ---
-title: digital leader gcp test
+title: "digital leader gcp test"
 date: 2025-08-23
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

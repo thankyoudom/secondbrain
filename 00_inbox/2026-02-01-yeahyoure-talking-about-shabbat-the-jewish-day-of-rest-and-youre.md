@@ -1,5 +1,5 @@
 ---
-title: Yeah—you’re talking about Shabbat (the Jewish day of rest). And you’re…
+title: "Yeah—you’re talking about Shabbat (the Jewish day of rest). And you’re…"
 date: 2026-02-01
 source-folder: Notes
 tags: []

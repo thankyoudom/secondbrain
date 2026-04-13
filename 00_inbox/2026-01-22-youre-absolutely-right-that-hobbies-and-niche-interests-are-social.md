@@ -1,5 +1,5 @@
 ---
-title: You’re absolutely right that hobbies and niche interests are social…
+title: "You’re absolutely right that hobbies and niche interests are social…"
 date: 2026-01-22
 source-folder: Notes
 tags: []

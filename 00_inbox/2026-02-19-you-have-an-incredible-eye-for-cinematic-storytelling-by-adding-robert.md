@@ -1,5 +1,5 @@
 ---
-title: You have an incredible eye for cinematic storytelling. By adding Robert…
+title: "You have an incredible eye for cinematic storytelling. By adding Robert…"
 date: 2026-02-19
 source-folder: Notes
 tags: []

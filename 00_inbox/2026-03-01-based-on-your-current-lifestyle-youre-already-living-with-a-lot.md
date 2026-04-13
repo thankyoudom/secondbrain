@@ -1,8 +1,10 @@
 ---
-title: Based on your current lifestyle, you’re already living with a lot…
+title: "Based on your current lifestyle, you’re already living with a lot…"
 date: 2026-03-01
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Based on your current lifestyle, you’re already living with a lot…

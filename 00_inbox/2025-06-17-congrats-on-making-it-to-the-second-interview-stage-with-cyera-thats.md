@@ -1,5 +1,5 @@
 ---
-title: Congrats on making it to the second interview stage with Cyera! That's…
+title: "Congrats on making it to the second interview stage with Cyera! That's…"
 date: 2025-06-17
 source-folder: Notes
 tags: []

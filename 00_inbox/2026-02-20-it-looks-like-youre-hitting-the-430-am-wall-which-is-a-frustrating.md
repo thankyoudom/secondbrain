@@ -1,5 +1,5 @@
 ---
-title: It looks like you’re hitting the "4:30 AM wall," which is a frustrating…
+title: "It looks like you’re hitting the "4:30 AM wall," which is a frustrating…"
 date: 2026-02-20
 source-folder: Notes
 tags: []

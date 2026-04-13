@@ -1,5 +1,5 @@
 ---
-title: Systems thinking is a powerful approach that can help you understand…
+title: "Systems thinking is a powerful approach that can help you understand…"
 date: 2024-09-07
 source-folder: Notes
 tags: []

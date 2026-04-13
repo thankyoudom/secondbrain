@@ -1,8 +1,10 @@
 ---
-title: It sounds like the girl you're describing is creating a very layered…
+title: "It sounds like the girl you're describing is creating a very layered…"
 date: 2025-11-24
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

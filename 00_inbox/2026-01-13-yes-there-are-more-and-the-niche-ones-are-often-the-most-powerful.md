@@ -1,5 +1,5 @@
 ---
-title: Yes — there are more, and the niche ones are often the most powerful…
+title: "Yes — there are more, and the niche ones are often the most powerful…"
 date: 2026-01-13
 source-folder: Notes
 tags: []

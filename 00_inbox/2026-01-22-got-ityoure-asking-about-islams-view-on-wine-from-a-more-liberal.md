@@ -1,5 +1,5 @@
 ---
-title: Got it—you’re asking about Islam’s view on wine from a more liberal…
+title: "Got it—you’re asking about Islam’s view on wine from a more liberal…"
 date: 2026-01-22
 source-folder: Notes
 tags: []

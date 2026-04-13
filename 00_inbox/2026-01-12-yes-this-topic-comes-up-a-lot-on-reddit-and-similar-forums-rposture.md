@@ -1,5 +1,5 @@
 ---
-title: Yes — this topic comes up a lot on Reddit and similar forums (r/Posture…
+title: "Yes — this topic comes up a lot on Reddit and similar forums (r/Posture…"
 date: 2026-01-12
 source-folder: Notes
 tags: []

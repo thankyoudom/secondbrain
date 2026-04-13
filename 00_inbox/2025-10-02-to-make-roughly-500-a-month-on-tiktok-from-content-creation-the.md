@@ -1,5 +1,5 @@
 ---
-title: To make roughly $500 a month on TikTok from content creation, the…
+title: "To make roughly $500 a month on TikTok from content creation, the…"
 date: 2025-10-02
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: Fluid Female Counterpart Aesthetics
+title: "Fluid Female Counterpart Aesthetics"
 date: 2026-01-28
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Fluid Female Counterpart Aesthetics

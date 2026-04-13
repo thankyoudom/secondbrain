@@ -1,5 +1,5 @@
 ---
-title: The NoSurf Reddit community encourages reducing or eliminating mindless…
+title: "The NoSurf Reddit community encourages reducing or eliminating mindless…"
 date: 2024-09-07
 source-folder: Notes
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: It sounds like you’re dealing with a classic case of "silent" irritation…
+title: "It sounds like you’re dealing with a classic case of "silent" irritation…"
 date: 2026-02-09
 source-folder: Notes
 tags: []

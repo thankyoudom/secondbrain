@@ -1,5 +1,5 @@
 ---
-title: Here's a detailed, practical plan for earning your first $500 in digital…
+title: "Here's a detailed, practical plan for earning your first $500 in digital…"
 date: 2024-09-15
 source-folder: Notes
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: I would like two new files. first lets convert sharprpm3 to javascript…
+title: "I would like two new files. first lets convert sharprpm3 to javascript…"
 date: 2024-12-19
 source-folder: Notes
 tags: []

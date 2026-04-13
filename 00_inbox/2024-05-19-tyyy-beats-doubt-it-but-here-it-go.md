@@ -1,8 +1,10 @@
 ---
-title: tyyy beats - doubt it , but here it go
+title: "tyyy beats - doubt it , but here it go"
 date: 2024-05-19
 source-folder: Notes
-tags: [:needs-review: :has-media-links:]
+tags:
+  - needs-review
+  - has-media-links
 review-reasons: has-media-links
 ---
 

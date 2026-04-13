@@ -1,8 +1,10 @@
 ---
-title: cloud stuff
+title: "cloud stuff"
 date: 2025-08-07
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

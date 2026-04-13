@@ -1,5 +1,5 @@
 ---
-title: It sounds like you're diving into the rich world of niche communities…
+title: "It sounds like you're diving into the rich world of niche communities…"
 date: 2025-12-01
 source-folder: Notes
 tags: []

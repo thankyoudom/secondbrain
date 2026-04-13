@@ -1,5 +1,5 @@
 ---
-title: This is a rich collection to work with. Let me lay out what we have…
+title: "This is a rich collection to work with. Let me lay out what we have…"
 date: 2026-03-16
 source-folder: Notes
 tags: []

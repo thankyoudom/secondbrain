@@ -1,5 +1,5 @@
 ---
-title: Leaning into your Gemini Ascendant at 25° in the First House as a…
+title: "Leaning into your Gemini Ascendant at 25° in the First House as a…"
 date: 2025-05-06
 source-folder: Notes
 tags: []

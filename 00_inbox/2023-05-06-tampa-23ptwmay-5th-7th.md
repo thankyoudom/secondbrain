@@ -1,8 +1,10 @@
 ---
-title: Tampa ‘23PTW:MAY 5TH-7TH
+title: "Tampa ‘23PTW:MAY 5TH-7TH"
 date: 2023-05-06
 source-folder: ptw
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

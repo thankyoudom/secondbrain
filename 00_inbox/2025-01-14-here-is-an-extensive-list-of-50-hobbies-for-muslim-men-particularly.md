@@ -1,5 +1,5 @@
 ---
-title: Here is an extensive list of 50 hobbies for Muslim men, particularly…
+title: "Here is an extensive list of 50 hobbies for Muslim men, particularly…"
 date: 2025-01-14
 source-folder: Notes
 tags: []

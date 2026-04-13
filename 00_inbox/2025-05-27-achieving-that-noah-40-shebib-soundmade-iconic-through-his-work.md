@@ -1,5 +1,5 @@
 ---
-title: Achieving that Noah “40” Shebib sound—made iconic through his work…
+title: "Achieving that Noah “40” Shebib sound—made iconic through his work…"
 date: 2025-05-27
 source-folder: Notes
 tags: []

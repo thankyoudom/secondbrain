@@ -1,5 +1,5 @@
 ---
-title: For a full-stack developer or senior DevOps engineer making $100k…
+title: "For a full-stack developer or senior DevOps engineer making $100k…"
 date: 2025-11-14
 source-folder: Notes
 tags: []

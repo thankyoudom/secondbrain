@@ -1,8 +1,10 @@
 ---
-title: The guidance from Islam—particularly from the Hadith—strongly emphasizes…
+title: "The guidance from Islam—particularly from the Hadith—strongly emphasizes…"
 date: 2025-09-25
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

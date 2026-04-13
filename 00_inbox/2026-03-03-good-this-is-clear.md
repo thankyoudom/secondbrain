@@ -1,8 +1,10 @@
 ---
-title: Good. This is clear.
+title: "Good. This is clear."
 date: 2026-03-03
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Good. This is clear.

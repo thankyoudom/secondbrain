@@ -1,8 +1,10 @@
 ---
-title: Aesthetics That Match This Vibe More Fluidly
+title: "Aesthetics That Match This Vibe More Fluidly"
 date: 2026-01-28
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Aesthetics That Match This Vibe More Fluidly

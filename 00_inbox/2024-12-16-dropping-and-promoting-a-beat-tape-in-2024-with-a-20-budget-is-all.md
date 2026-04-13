@@ -1,5 +1,5 @@
 ---
-title: Dropping and promoting a beat tape in 2024 with a $20 budget is all…
+title: "Dropping and promoting a beat tape in 2024 with a $20 budget is all…"
 date: 2024-12-16
 source-folder: Notes
 tags: []

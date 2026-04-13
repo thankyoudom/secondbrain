@@ -1,5 +1,5 @@
 ---
-title: #coffee #coffeelover #coffeetiktok #meanttobe #quoteoftheday
+title: "#coffee #coffeelover #coffeetiktok #meanttobe #quoteoftheday"
 date: 2025-06-13
 source-folder: Notes
 tags: []

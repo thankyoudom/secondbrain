@@ -1,5 +1,5 @@
 ---
-title: You’ve got a lot of questions packed into one, but all of them are…
+title: "You’ve got a lot of questions packed into one, but all of them are…"
 date: 2025-11-05
 source-folder: Notes
 tags: []

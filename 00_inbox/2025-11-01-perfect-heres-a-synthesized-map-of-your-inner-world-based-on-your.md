@@ -1,5 +1,5 @@
 ---
-title: Perfect — here’s a synthesized map of your inner world based on your…
+title: "Perfect — here’s a synthesized map of your inner world based on your…"
 date: 2025-11-01
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: Here’s a rundown of some of the most promising emerging tech hubs…
+title: "Here’s a rundown of some of the most promising emerging tech hubs…"
 date: 2025-09-14
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

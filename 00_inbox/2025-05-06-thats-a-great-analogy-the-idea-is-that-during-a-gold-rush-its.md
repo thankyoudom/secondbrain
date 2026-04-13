@@ -1,5 +1,5 @@
 ---
-title: That’s a great analogy. The idea is that during a gold rush, it's…
+title: "That’s a great analogy. The idea is that during a gold rush, it's…"
 date: 2025-05-06
 source-folder: Notes
 tags: []

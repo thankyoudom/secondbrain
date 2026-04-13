@@ -1,8 +1,10 @@
 ---
-title: Here’s a polished guide to help you make the leap from entry-level…
+title: "Here’s a polished guide to help you make the leap from entry-level…"
 date: 2025-08-23
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

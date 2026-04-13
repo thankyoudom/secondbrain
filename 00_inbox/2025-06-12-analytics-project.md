@@ -1,8 +1,11 @@
 ---
-title: analytics project
+title: "analytics project"
 date: 2025-06-12
 source-folder: Notes
-tags: [:needs-review: :has-attachments: :has-media-links:]
+tags:
+  - needs-review
+  - has-attachments
+  - has-media-links
 review-reasons: has-attachments, has-media-links
 ---
 

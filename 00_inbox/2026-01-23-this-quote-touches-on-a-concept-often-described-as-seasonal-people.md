@@ -1,5 +1,5 @@
 ---
-title: This quote touches on a concept often described as "Seasonal People…
+title: "This quote touches on a concept often described as "Seasonal People…"
 date: 2026-01-23
 source-folder: Notes
 tags: []

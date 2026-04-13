@@ -1,5 +1,5 @@
 ---
-title: That's a great idea. To make this framework truly effective, we need…
+title: "That's a great idea. To make this framework truly effective, we need…"
 date: 2025-12-15
 source-folder: Notes
 tags: []

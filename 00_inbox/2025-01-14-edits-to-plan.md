@@ -1,5 +1,5 @@
 ---
-title: Edits to plan
+title: "Edits to plan"
 date: 2025-01-14
 source-folder: Chicago Marathon - 26 miles - 2026 ????
 tags: []

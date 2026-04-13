@@ -1,8 +1,10 @@
 ---
-title: Ohhh—**Ivy Lab** instead of Ilan Bluestone? Yeah, that’s a whole *different…
+title: "Ohhh—**Ivy Lab** instead of Ilan Bluestone? Yeah, that’s a whole *different…"
 date: 2025-04-21
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Ohhh—**Ivy Lab** instead of Ilan Bluestone? Yeah, that’s a whole *different…

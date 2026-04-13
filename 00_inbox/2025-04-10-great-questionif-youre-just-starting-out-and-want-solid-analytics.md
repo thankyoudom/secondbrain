@@ -1,5 +1,5 @@
 ---
-title: Great question—if you're just starting out and want solid analytics…
+title: "Great question—if you're just starting out and want solid analytics…"
 date: 2025-04-10
 source-folder: Notes
 tags: []

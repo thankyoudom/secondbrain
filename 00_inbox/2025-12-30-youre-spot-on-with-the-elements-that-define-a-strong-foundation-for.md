@@ -1,5 +1,5 @@
 ---
-title: You're spot on with the elements that define a strong foundation for…
+title: "You're spot on with the elements that define a strong foundation for…"
 date: 2025-12-30
 source-folder: Notes
 tags: []

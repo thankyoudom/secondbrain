@@ -1,8 +1,10 @@
 ---
-title: League of Legends has actually been free-to-play since it launched…
+title: "League of Legends has actually been free-to-play since it launched…"
 date: 2026-01-27
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # League of Legends has actually been free-to-play since it launched…

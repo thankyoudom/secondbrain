@@ -1,5 +1,5 @@
 ---
-title: Alright, let’s do gentle feng shui (I like “gent shui” actually — very…
+title: "Alright, let’s do gentle feng shui (I like “gent shui” actually — very…"
 date: 2026-02-01
 source-folder: Notes
 tags: []

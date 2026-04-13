@@ -1,6 +1,7 @@
 ---
-title: prettyclose
-tags: [test]
+title: "prettyclose"
+tags:
+  - test
 ---
 
 # prettyclose

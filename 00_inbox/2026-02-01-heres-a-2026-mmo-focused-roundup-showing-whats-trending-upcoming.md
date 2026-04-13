@@ -1,5 +1,5 @@
 ---
-title: Here’s a 2026 MMO-focused roundup showing what’s trending, upcoming…
+title: "Here’s a 2026 MMO-focused roundup showing what’s trending, upcoming…"
 date: 2026-02-01
 source-folder: Notes
 tags: []

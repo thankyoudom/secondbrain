@@ -1,5 +1,5 @@
 ---
-title: Your Venus in Taurus is indeed a "power placement" because it is in…
+title: "Your Venus in Taurus is indeed a "power placement" because it is in…"
 date: 2026-01-25
 source-folder: Notes
 tags: []

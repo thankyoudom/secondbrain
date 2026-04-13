@@ -1,5 +1,5 @@
 ---
-title: As an independent music producer looking to submit your beat tapes…
+title: "As an independent music producer looking to submit your beat tapes…"
 date: 2024-12-16
 source-folder: Notes
 tags: []

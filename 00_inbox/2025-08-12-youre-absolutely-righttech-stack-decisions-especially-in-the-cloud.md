@@ -1,8 +1,10 @@
 ---
-title: You're absolutely right—tech stack decisions, especially in the cloud…
+title: "You're absolutely right—tech stack decisions, especially in the cloud…"
 date: 2025-08-12
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

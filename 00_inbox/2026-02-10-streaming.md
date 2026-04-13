@@ -1,8 +1,10 @@
 ---
-title: streaming
+title: "streaming"
 date: 2026-02-10
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # streaming

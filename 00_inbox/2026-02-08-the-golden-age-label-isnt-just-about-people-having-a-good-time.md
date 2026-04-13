@@ -1,8 +1,10 @@
 ---
-title: The "Golden Age" label isn't just about people having a good time…
+title: "The "Golden Age" label isn't just about people having a good time…"
 date: 2026-02-08
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # The "Golden Age" label isn't just about people having a good time…

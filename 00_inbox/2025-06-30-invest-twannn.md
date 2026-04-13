@@ -1,8 +1,10 @@
 ---
-title: invest twannn
+title: "invest twannn"
 date: 2025-06-30
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

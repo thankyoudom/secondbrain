@@ -1,8 +1,10 @@
 ---
-title: That’s dope—you’re sitting on a goldmine of content if you approach…
+title: "That’s dope—you’re sitting on a goldmine of content if you approach…"
 date: 2025-04-15
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # That’s dope—you’re sitting on a goldmine of content if you approach…

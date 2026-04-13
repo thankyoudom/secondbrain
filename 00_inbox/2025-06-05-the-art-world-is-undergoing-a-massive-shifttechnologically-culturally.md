@@ -1,8 +1,10 @@
 ---
-title: The art world is undergoing a massive shift—technologically, culturally…
+title: "The art world is undergoing a massive shift—technologically, culturally…"
 date: 2025-06-05
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: This is a very grounded answer. What you’re articulating now isn’t…
+title: "This is a very grounded answer. What you’re articulating now isn’t…"
 date: 2026-01-20
 source-folder: Notes
 tags: []

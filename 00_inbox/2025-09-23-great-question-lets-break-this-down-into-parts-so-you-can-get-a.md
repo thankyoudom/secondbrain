@@ -1,5 +1,5 @@
 ---
-title: Great question! Let's break this down into parts so you can get a…
+title: "Great question! Let's break this down into parts so you can get a…"
 date: 2025-09-23
 source-folder: Notes
 tags: []

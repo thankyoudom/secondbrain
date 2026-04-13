@@ -1,8 +1,10 @@
 ---
-title: To find a male counterpart to this specific "Soft Baddie" aesthetic…
+title: "To find a male counterpart to this specific "Soft Baddie" aesthetic…"
 date: 2026-01-25
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # To find a male counterpart to this specific "Soft Baddie" aesthetic…

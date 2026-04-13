@@ -1,5 +1,5 @@
 ---
-title: twitch irl
+title: "twitch irl"
 date: 2025-09-15
 source-folder: Notes
 tags: []

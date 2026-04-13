@@ -1,8 +1,11 @@
 ---
-title: virgil abloh
+title: "virgil abloh"
 date: 2025-04-29
 source-folder: Notes
-tags: [:needs-review: :has-attachments: :has-media-links:]
+tags:
+  - needs-review
+  - has-attachments
+  - has-media-links
 review-reasons: has-attachments, has-media-links
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Awesome — you’ve got a great mindset, and you’re already doing more…
+title: "Awesome — you’ve got a great mindset, and you’re already doing more…"
 date: 2025-05-12
 source-folder: Notes
 tags: []

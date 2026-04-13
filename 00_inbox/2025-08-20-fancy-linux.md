@@ -1,5 +1,5 @@
 ---
-title: fancy Linux
+title: "fancy Linux"
 date: 2025-08-20
 source-folder: Notes
 tags: []

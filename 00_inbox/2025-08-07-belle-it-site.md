@@ -1,5 +1,5 @@
 ---
-title: Belle IT site
+title: "Belle IT site"
 date: 2025-08-07
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: I read your resume carefully. First — you’re doing better than you…
+title: "I read your resume carefully. First — you’re doing better than you…"
 date: 2026-03-16
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # I read your resume carefully. First — you’re doing better than you…

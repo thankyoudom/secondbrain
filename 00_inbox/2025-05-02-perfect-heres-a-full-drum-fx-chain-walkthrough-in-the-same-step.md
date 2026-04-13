@@ -1,5 +1,5 @@
 ---
-title: Perfect — here’s a full drum FX chain walkthrough in the same step…
+title: "Perfect — here’s a full drum FX chain walkthrough in the same step…"
 date: 2025-05-02
 source-folder: Notes
 tags: []

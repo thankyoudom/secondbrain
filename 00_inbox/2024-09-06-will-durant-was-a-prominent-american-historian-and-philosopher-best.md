@@ -1,5 +1,5 @@
 ---
-title: Will Durant was a prominent American historian and philosopher, best…
+title: "Will Durant was a prominent American historian and philosopher, best…"
 date: 2024-09-06
 source-folder: Notes
 tags: []

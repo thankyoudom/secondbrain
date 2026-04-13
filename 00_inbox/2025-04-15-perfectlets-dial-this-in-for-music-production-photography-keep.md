@@ -1,5 +1,5 @@
 ---
-title: Perfect—let’s dial this in for **music production + photography**, keep…
+title: "Perfect—let’s dial this in for **music production + photography**, keep…"
 date: 2025-04-15
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: It sounds like you’ve been building a powerhouse profile, and honestly…
+title: "It sounds like you’ve been building a powerhouse profile, and honestly…"
 date: 2026-03-01
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # It sounds like you’ve been building a powerhouse profile, and honestly…

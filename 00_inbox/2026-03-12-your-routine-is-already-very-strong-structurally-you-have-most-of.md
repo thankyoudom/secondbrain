@@ -1,8 +1,10 @@
 ---
-title: Your routine is already very strong structurally. You have most of…
+title: "Your routine is already very strong structurally. You have most of…"
 date: 2026-03-12
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Your routine is already very strong structurally. You have most of…

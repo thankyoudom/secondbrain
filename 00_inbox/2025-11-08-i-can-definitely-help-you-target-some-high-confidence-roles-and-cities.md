@@ -1,8 +1,10 @@
 ---
-title: I can definitely help you target some high-confidence roles and cities…
+title: "I can definitely help you target some high-confidence roles and cities…"
 date: 2025-11-08
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

@@ -1,8 +1,10 @@
 ---
-title: This is a fire goal and you’re asking all the right questions—getting…
+title: "This is a fire goal and you’re asking all the right questions—getting…"
 date: 2025-04-21
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # This is a fire goal and you’re asking all the right questions—getting…

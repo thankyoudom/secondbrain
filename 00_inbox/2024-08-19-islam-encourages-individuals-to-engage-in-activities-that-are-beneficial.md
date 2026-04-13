@@ -1,5 +1,5 @@
 ---
-title: Islam encourages individuals to engage in activities that are beneficial…
+title: "Islam encourages individuals to engage in activities that are beneficial…"
 date: 2024-08-19
 source-folder: Notes
 tags: []

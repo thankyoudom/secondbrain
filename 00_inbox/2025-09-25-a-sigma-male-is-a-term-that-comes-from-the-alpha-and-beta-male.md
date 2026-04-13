@@ -1,5 +1,5 @@
 ---
-title: A sigma male is a term that comes from the "alpha" and "beta" male…
+title: "A sigma male is a term that comes from the "alpha" and "beta" male…"
 date: 2025-09-25
 source-folder: Notes
 tags: []

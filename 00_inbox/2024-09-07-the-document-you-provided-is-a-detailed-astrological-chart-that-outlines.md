@@ -1,5 +1,5 @@
 ---
-title: The document you provided is a detailed astrological chart that outlines…
+title: "The document you provided is a detailed astrological chart that outlines…"
 date: 2024-09-07
 source-folder: Notes
 tags: []

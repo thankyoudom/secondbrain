@@ -1,5 +1,5 @@
 ---
-title: Arab wisdom, rooted in centuries of philosophical, scientific, and…
+title: "Arab wisdom, rooted in centuries of philosophical, scientific, and…"
 date: 2024-09-07
 source-folder: Notes
 tags: []

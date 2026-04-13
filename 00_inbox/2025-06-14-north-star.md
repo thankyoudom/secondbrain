@@ -1,8 +1,10 @@
 ---
-title: North Star
+title: "North Star"
 date: 2025-06-14
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

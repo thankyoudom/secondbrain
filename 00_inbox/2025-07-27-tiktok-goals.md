@@ -1,8 +1,10 @@
 ---
-title: tiktok goals
+title: "tiktok goals"
 date: 2025-07-27
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

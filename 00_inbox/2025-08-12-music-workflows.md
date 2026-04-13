@@ -1,5 +1,5 @@
 ---
-title: music workflows
+title: "music workflows"
 date: 2025-08-12
 source-folder: Notes
 tags: []

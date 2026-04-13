@@ -1,8 +1,10 @@
 ---
-title: Great technical question. Sampling drum breaks (especially for that…
+title: "Great technical question. Sampling drum breaks (especially for that…"
 date: 2025-05-05
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

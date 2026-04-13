@@ -1,5 +1,5 @@
 ---
-title: In typical Killer Bee fashion, the names of his techniques are a mix…
+title: "In typical Killer Bee fashion, the names of his techniques are a mix…"
 date: 2026-02-08
 source-folder: Notes
 tags: []

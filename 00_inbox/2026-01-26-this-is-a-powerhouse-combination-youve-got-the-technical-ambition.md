@@ -1,8 +1,10 @@
 ---
-title: This is a powerhouse combination. You’ve got the technical ambition…
+title: "This is a powerhouse combination. You’ve got the technical ambition…"
 date: 2026-01-26
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # This is a powerhouse combination. You’ve got the technical ambition…

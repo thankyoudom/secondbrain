@@ -1,5 +1,5 @@
 ---
-title: Perfect — here’s a curated list of **free FL Studio-compatible tools…
+title: "Perfect — here’s a curated list of **free FL Studio-compatible tools…"
 date: 2025-04-26
 source-folder: Notes
 tags: []

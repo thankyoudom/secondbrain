@@ -1,8 +1,10 @@
 ---
-title: You're asking a powerful, multi-layered question: how to build a strong…
+title: "You're asking a powerful, multi-layered question: how to build a strong…"
 date: 2025-06-27
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

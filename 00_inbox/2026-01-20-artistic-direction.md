@@ -1,5 +1,5 @@
 ---
-title: Artistic Direction
+title: "Artistic Direction"
 date: 2026-01-20
 source-folder: Notes
 tags: []

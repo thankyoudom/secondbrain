@@ -1,8 +1,10 @@
 ---
-title: First — take a breath. What you heard today is real information about…
+title: "First — take a breath. What you heard today is real information about…"
 date: 2026-03-17
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # First — take a breath. What you heard today is real information about…

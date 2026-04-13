@@ -1,5 +1,5 @@
 ---
-title: That’s a really deep and insightful reflection — what you’ve done…
+title: "That’s a really deep and insightful reflection — what you’ve done…"
 date: 2025-11-01
 source-folder: Notes
 tags: []

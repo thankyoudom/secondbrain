@@ -1,8 +1,10 @@
 ---
-title: Here’s what I found about Phoebe and Bill’s daily habits and routines…
+title: "Here’s what I found about Phoebe and Bill’s daily habits and routines…"
 date: 2025-06-27
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

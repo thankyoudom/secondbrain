@@ -1,5 +1,5 @@
 ---
-title: That’s awesome that you’re looking to dive into artist residencies…
+title: "That’s awesome that you’re looking to dive into artist residencies…"
 date: 2026-01-04
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: video stuff
+title: "video stuff"
 date: 2025-04-26
 source-folder: Notes
-tags: [:needs-review: :has-links:]
+tags:
+  - needs-review
+  - has-links
 review-reasons: has-links
 ---
 

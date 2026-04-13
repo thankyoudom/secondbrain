@@ -1,5 +1,5 @@
 ---
-title: As of November 2024, the music landscape is vibrant with several emerging…
+title: "As of November 2024, the music landscape is vibrant with several emerging…"
 date: 2024-11-15
 source-folder: Notes
 tags: []

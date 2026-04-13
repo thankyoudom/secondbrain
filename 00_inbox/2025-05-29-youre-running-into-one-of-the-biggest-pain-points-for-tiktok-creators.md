@@ -1,8 +1,11 @@
 ---
-title: You're running into one of the biggest pain points for TikTok creators…
+title: "You're running into one of the biggest pain points for TikTok creators…"
 date: 2025-05-29
 source-folder: Notes
-tags: [:needs-review: :has-attachments: :has-media-links:]
+tags:
+  - needs-review
+  - has-attachments
+  - has-media-links
 review-reasons: has-attachments, has-media-links
 ---
 

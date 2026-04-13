@@ -1,5 +1,5 @@
 ---
-title: Absolutely — let’s dive into a condensed but rich journey through…
+title: "Absolutely — let’s dive into a condensed but rich journey through…"
 date: 2025-06-12
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: Your intuition actually has some strong historical backing. Many historians…
+title: "Your intuition actually has some strong historical backing. Many historians…"
 date: 2026-03-10
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Your intuition actually has some strong historical backing. Many historians…

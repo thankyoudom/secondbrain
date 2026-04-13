@@ -1,5 +1,5 @@
 ---
-title: Modern signing deals for newer music producers can vary a lot depending…
+title: "Modern signing deals for newer music producers can vary a lot depending…"
 date: 2025-05-07
 source-folder: Notes
 tags: []

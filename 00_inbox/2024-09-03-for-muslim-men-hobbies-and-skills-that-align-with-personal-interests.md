@@ -1,5 +1,5 @@
 ---
-title: For Muslim men, hobbies and skills that align with personal interests…
+title: "For Muslim men, hobbies and skills that align with personal interests…"
 date: 2024-09-03
 source-folder: Notes
 tags: []

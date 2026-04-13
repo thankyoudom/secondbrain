@@ -1,5 +1,5 @@
 ---
-title: Good question — and it’s a smart time to think about this strategically…
+title: "Good question — and it’s a smart time to think about this strategically…"
 date: 2025-10-28
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: That’s a great instinct—digging into the roots of 40’s sound helps…
+title: "That’s a great instinct—digging into the roots of 40’s sound helps…"
 date: 2025-05-27
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

@@ -1,8 +1,11 @@
 ---
-title: Yep, there **are** a few legit free music distributors that let you…
+title: "Yep, there **are** a few legit free music distributors that let you…"
 date: 2025-04-16
 source-folder: Notes
-tags: [:needs-review: :has-links: :has-table:]
+tags:
+  - needs-review
+  - has-links
+  - has-table
 review-reasons: has-links
 ---
 

@@ -1,8 +1,10 @@
 ---
-title: At 30, you’re in the "sweet spot" for side hustles. You likely have…
+title: "At 30, you’re in the "sweet spot" for side hustles. You likely have…"
 date: 2026-02-25
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # At 30, you’re in the "sweet spot" for side hustles. You likely have…

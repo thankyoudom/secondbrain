@@ -1,5 +1,5 @@
 ---
-title: Not my first digital, but the oldest I could find. Drew this by hand…
+title: "Not my first digital, but the oldest I could find. Drew this by hand…"
 date: 2025-06-30
 source-folder: Notes
 tags: []

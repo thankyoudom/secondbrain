@@ -1,8 +1,10 @@
 ---
-title: The reason the Vitruvian Man resonates centuries later isn't just…
+title: "The reason the Vitruvian Man resonates centuries later isn't just…"
 date: 2026-02-08
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # The reason the Vitruvian Man resonates centuries later isn't just…

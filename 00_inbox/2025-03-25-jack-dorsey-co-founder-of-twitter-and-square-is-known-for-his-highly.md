@@ -1,5 +1,5 @@
 ---
-title: Jack Dorsey, co-founder of Twitter and Square, is known for his highly…
+title: "Jack Dorsey, co-founder of Twitter and Square, is known for his highly…"
 date: 2025-03-25
 source-folder: Notes
 tags: []

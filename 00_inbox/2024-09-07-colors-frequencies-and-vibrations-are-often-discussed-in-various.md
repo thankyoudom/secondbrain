@@ -1,5 +1,5 @@
 ---
-title: Colors, frequencies, and vibrations are often discussed in various…
+title: "Colors, frequencies, and vibrations are often discussed in various…"
 date: 2024-09-07
 source-folder: Notes
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: Modern producer contracts in 2026 are a far cry from the "handshake…
+title: "Modern producer contracts in 2026 are a far cry from the "handshake…"
 date: 2026-02-16
 source-folder: Notes
 tags: []

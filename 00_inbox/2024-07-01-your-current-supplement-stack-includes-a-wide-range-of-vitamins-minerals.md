@@ -1,5 +1,5 @@
 ---
-title: Your current supplement stack includes a wide range of vitamins, minerals…
+title: "Your current supplement stack includes a wide range of vitamins, minerals…"
 date: 2024-07-01
 source-folder: Notes
 tags: []

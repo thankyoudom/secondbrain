@@ -1,6 +1,7 @@
 ---
-title: maybellama
-tags: [test]
+title: "maybellama"
+tags:
+  - test
 ---
 
 # maybellama

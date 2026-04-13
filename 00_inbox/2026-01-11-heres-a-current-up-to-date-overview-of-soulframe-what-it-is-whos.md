@@ -1,8 +1,10 @@
 ---
-title: Here’s a current, up-to-date overview of Soulframe — what it is, who’s…
+title: "Here’s a current, up-to-date overview of Soulframe — what it is, who’s…"
 date: 2026-01-11
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

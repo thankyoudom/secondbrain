@@ -1,5 +1,5 @@
 ---
-title: Here are 10 skills that can set you up for sustainable success, taking…
+title: "Here are 10 skills that can set you up for sustainable success, taking…"
 date: 2024-09-06
 source-folder: Notes
 tags: []

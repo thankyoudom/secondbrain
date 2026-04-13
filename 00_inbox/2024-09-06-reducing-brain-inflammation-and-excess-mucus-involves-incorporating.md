@@ -1,5 +1,5 @@
 ---
-title: Reducing brain inflammation and excess mucus involves incorporating…
+title: "Reducing brain inflammation and excess mucus involves incorporating…"
 date: 2024-09-06
 source-folder: Notes
 tags: []

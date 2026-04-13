@@ -1,8 +1,10 @@
 ---
-title: Got it — you want social games with strong design philosophy/world…
+title: "Got it — you want social games with strong design philosophy/world…"
 date: 2026-03-02
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Got it — you want social games with strong design philosophy/world…

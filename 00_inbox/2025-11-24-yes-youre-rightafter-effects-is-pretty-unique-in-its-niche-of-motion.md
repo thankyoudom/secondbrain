@@ -1,5 +1,5 @@
 ---
-title: Yes, you're right—After Effects is pretty unique in its niche of motion…
+title: "Yes, you're right—After Effects is pretty unique in its niche of motion…"
 date: 2025-11-24
 source-folder: Notes
 tags: []

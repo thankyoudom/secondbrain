@@ -1,5 +1,5 @@
 ---
-title: Spain is a great place to live, especially if you're in your 30s, tech…
+title: "Spain is a great place to live, especially if you're in your 30s, tech…"
 date: 2025-11-08
 source-folder: Notes
 tags: []

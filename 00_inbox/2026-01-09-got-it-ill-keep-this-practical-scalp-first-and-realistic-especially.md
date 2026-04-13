@@ -1,5 +1,5 @@
 ---
-title: Got it — I’ll keep this practical, scalp-first, and realistic, especially…
+title: "Got it — I’ll keep this practical, scalp-first, and realistic, especially…"
 date: 2026-01-09
 source-folder: Notes
 tags: []

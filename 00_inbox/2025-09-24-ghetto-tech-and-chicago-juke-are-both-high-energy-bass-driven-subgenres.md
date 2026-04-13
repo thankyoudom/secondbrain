@@ -1,5 +1,5 @@
 ---
-title: Ghetto Tech and Chicago Juke are both high-energy, bass-driven subgenres…
+title: "Ghetto Tech and Chicago Juke are both high-energy, bass-driven subgenres…"
 date: 2025-09-24
 source-folder: Notes
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: That’s an awesome way to learn ? — running Arch Linux forces you…
+title: "That’s an awesome way to learn ? — running Arch Linux forces you…"
 date: 2025-08-20
 source-folder: Notes
 tags: []

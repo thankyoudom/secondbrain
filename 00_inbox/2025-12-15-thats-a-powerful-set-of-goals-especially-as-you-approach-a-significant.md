@@ -1,8 +1,10 @@
 ---
-title: That's a powerful set of goals, especially as you approach a significant…
+title: "That's a powerful set of goals, especially as you approach a significant…"
 date: 2025-12-15
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

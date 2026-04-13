@@ -1,5 +1,5 @@
 ---
-title: This style is a curated blend often referred to as the "Soft Baddie…
+title: "This style is a curated blend often referred to as the "Soft Baddie…"
 date: 2026-01-25
 source-folder: Notes
 tags: []

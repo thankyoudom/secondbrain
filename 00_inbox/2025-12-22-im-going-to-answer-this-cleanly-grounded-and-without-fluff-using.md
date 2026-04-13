@@ -1,8 +1,10 @@
 ---
-title: I’m going to answer this cleanly, grounded, and without fluff, using…
+title: "I’m going to answer this cleanly, grounded, and without fluff, using…"
 date: 2025-12-22
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

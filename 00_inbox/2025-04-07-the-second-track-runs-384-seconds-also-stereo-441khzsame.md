@@ -1,5 +1,5 @@
 ---
-title: The second track runs **38.4 seconds**, also stereo, 44.1kHz—same…
+title: "The second track runs **38.4 seconds**, also stereo, 44.1kHz—same…"
 date: 2025-04-07
 source-folder: Notes
 tags: []

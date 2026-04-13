@@ -1,5 +1,5 @@
 ---
-title: Good — this is the right moment to go deeper and colder.
+title: "Good — this is the right moment to go deeper and colder."
 What you’re…
 date: 2026-01-19
 source-folder: Notes

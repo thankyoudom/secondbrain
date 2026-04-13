@@ -1,8 +1,10 @@
 ---
-title: This is actually a very powerful moment to do something like this…
+title: "This is actually a very powerful moment to do something like this…"
 date: 2026-03-16
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # This is actually a very powerful moment to do something like this…

@@ -1,5 +1,5 @@
 ---
-title: This is a really thoughtful self-observation already. I’ll offer a…
+title: "This is a really thoughtful self-observation already. I’ll offer a…"
 date: 2026-01-20
 source-folder: Notes
 tags: []

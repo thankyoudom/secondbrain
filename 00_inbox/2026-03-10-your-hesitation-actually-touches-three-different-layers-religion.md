@@ -1,8 +1,10 @@
 ---
-title: Your hesitation actually touches three different layers: religion…
+title: "Your hesitation actually touches three different layers: religion…"
 date: 2026-03-10
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Your hesitation actually touches three different layers: religion…

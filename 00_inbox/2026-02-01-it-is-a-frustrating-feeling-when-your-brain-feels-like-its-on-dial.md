@@ -1,8 +1,10 @@
 ---
-title: It is a frustrating feeling when your brain feels like it’s on dial…
+title: "It is a frustrating feeling when your brain feels like it’s on dial…"
 date: 2026-02-01
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # It is a frustrating feeling when your brain feels like it’s on dial…

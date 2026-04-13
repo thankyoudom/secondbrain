@@ -1,5 +1,5 @@
 ---
-title: Personal eugenics and healing at the cellular or DNA level are complex…
+title: "Personal eugenics and healing at the cellular or DNA level are complex…"
 date: 2024-09-06
 source-folder: Notes
 tags: []

@@ -1,8 +1,10 @@
 ---
-title: The concept of "thinking in frequency" sounds like something you’d…
+title: "The concept of "thinking in frequency" sounds like something you’d…"
 date: 2026-02-02
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # The concept of "thinking in frequency" sounds like something you’d…

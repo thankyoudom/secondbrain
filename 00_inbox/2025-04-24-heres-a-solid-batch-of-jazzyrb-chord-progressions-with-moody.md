@@ -1,5 +1,5 @@
 ---
-title: Here’s a solid batch of **jazzy/R&B chord progressions** with **moody…
+title: "Here’s a solid batch of **jazzy/R&B chord progressions** with **moody…"
 date: 2025-04-24
 source-folder: Notes
 tags: []

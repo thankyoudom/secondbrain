@@ -1,8 +1,10 @@
 ---
-title: forza & asseto corsa
+title: "forza & asseto corsa"
 date: 2026-01-27
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # forza & asseto corsa

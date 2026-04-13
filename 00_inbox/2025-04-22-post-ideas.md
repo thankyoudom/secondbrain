@@ -1,8 +1,11 @@
 ---
-title: Post Ideas
+title: "Post Ideas"
 date: 2025-04-22
 source-folder: Notes
-tags: [:needs-review: :has-attachments: :has-media-links:]
+tags:
+  - needs-review
+  - has-attachments
+  - has-media-links
 review-reasons: has-attachments, has-media-links
 ---
 

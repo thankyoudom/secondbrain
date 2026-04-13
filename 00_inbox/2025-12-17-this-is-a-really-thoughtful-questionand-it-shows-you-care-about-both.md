@@ -1,5 +1,5 @@
 ---
-title: This is a really thoughtful question—and it shows you care about both…
+title: "This is a really thoughtful question—and it shows you care about both…"
 date: 2025-12-17
 source-folder: Notes
 tags: []

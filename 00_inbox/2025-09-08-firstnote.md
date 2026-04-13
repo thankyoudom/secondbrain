@@ -1,6 +1,7 @@
 ---
-title: FirstNote
-tags: [test]
+title: "FirstNote"
+tags:
+  - test
 ---
 
 # FirstNote

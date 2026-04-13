@@ -1,5 +1,5 @@
 ---
-title: gaming ,future skills
+title: "gaming ,future skills"
 date: 2025-07-19
 source-folder: Notes
 tags: []

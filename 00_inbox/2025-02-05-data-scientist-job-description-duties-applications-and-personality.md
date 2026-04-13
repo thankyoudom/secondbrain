@@ -1,5 +1,5 @@
 ---
-title: **Data Scientist: Job Description, Duties, Applications, and Personality…
+title: "**Data Scientist: Job Description, Duties, Applications, and Personality…"
 date: 2025-02-05
 source-folder: Notes
 tags: []

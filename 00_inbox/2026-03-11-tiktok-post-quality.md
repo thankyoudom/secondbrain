@@ -1,8 +1,10 @@
 ---
-title: TikTok post quality
+title: "TikTok post quality"
 date: 2026-03-11
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # TikTok post quality

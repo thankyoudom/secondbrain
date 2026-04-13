@@ -1,5 +1,5 @@
 ---
-title: curriculum
+title: "curriculum"
 date: 2025-08-10
 source-folder: Notes
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: You're on the right track! Strengthening the mind, especially in your…
+title: "You're on the right track! Strengthening the mind, especially in your…"
 date: 2025-08-03
 source-folder: Notes
 tags: []

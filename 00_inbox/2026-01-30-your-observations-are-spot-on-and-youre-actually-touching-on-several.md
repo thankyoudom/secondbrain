@@ -1,8 +1,10 @@
 ---
-title: Your observations are spot on, and you’re actually touching on several…
+title: "Your observations are spot on, and you’re actually touching on several…"
 date: 2026-01-30
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Your observations are spot on, and you’re actually touching on several…

@@ -1,5 +1,5 @@
 ---
-title: This is a fascinating way to look at history. We often get "chronological…
+title: "This is a fascinating way to look at history. We often get "chronological…"
 date: 2026-02-02
 source-folder: Notes
 tags: []

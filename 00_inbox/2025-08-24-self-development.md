@@ -1,5 +1,5 @@
 ---
-title: self development
+title: "self development"
 date: 2025-08-24
 source-folder: Notes
 tags: []

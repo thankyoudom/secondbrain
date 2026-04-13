@@ -1,8 +1,10 @@
 ---
-title: Getting into streaming in 2026 is a different beast than it was a…
+title: "Getting into streaming in 2026 is a different beast than it was a…"
 date: 2026-02-28
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Getting into streaming in 2026 is a different beast than it was a…

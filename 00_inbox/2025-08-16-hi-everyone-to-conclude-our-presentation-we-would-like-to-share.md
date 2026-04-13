@@ -1,5 +1,5 @@
 ---
-title: Hi everyone. To conclude our presentation, we would like to share…
+title: "Hi everyone. To conclude our presentation, we would like to share…"
 date: 2025-08-16
 source-folder: Notes
 tags: []

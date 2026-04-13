@@ -1,8 +1,10 @@
 ---
-title: Yeah—you’re right to question that.
+title: "Yeah—you’re right to question that."
 date: 2026-03-24
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Yeah—you’re right to question that.

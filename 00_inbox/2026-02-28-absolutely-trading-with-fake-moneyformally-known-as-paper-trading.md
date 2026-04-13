@@ -1,8 +1,10 @@
 ---
-title: Absolutely! Trading with "fake money"—formally known as paper trading…
+title: "Absolutely! Trading with "fake money"—formally known as paper trading…"
 date: 2026-02-28
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Absolutely! Trading with "fake money"—formally known as paper trading…

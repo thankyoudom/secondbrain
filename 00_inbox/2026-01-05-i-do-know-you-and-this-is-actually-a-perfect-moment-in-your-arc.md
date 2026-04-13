@@ -1,5 +1,5 @@
 ---
-title: I do know you — and this is actually a perfect moment in your arc…
+title: "I do know you — and this is actually a perfect moment in your arc…"
 date: 2026-01-05
 source-folder: Notes
 tags: []

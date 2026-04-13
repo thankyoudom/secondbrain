@@ -1,5 +1,5 @@
 ---
-title: Stepping into the world of nootropics (often called "smart drugs") is…
+title: "Stepping into the world of nootropics (often called "smart drugs") is…"
 date: 2026-01-26
 source-folder: Notes
 tags: []

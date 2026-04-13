@@ -1,5 +1,5 @@
 ---
-title: Thanks—this gives a clear picture of your creative direction. Here…
+title: "Thanks—this gives a clear picture of your creative direction. Here…"
 date: 2025-05-05
 source-folder: Notes
 tags: []

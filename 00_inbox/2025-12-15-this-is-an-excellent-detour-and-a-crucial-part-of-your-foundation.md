@@ -1,8 +1,10 @@
 ---
-title: This is an excellent detour and a crucial part of your foundation…
+title: "This is an excellent detour and a crucial part of your foundation…"
 date: 2025-12-15
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

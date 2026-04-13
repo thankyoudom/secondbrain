@@ -1,8 +1,10 @@
 ---
-title: More melody stuff:
+title: "More melody stuff:"
 date: 2025-04-26
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

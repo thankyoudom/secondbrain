@@ -1,5 +1,5 @@
 ---
-title: This is very you — and honestly a perfect synthesis of your background…
+title: "This is very you — and honestly a perfect synthesis of your background…"
 date: 2026-01-03
 source-folder: Notes
 tags: []

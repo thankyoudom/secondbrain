@@ -1,8 +1,11 @@
 ---
-title: Python Client for Cloud Vision
+title: "Python Client for Cloud Vision"
 date: 2024-05-13
 source-folder: Notes
-tags: [:needs-review: :has-attachments: :has-media-links:]
+tags:
+  - needs-review
+  - has-attachments
+  - has-media-links
 review-reasons: has-attachments, has-media-links
 ---
 

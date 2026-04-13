@@ -1,5 +1,5 @@
 ---
-title: Here are some of the largest-grossing soccer clubs, along with their…
+title: "Here are some of the largest-grossing soccer clubs, along with their…"
 date: 2024-09-24
 source-folder: Notes
 tags: []

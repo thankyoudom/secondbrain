@@ -1,5 +1,5 @@
 ---
-title: It sounds like you’ve already done a lot of the hard work with LaunchCode…
+title: "It sounds like you’ve already done a lot of the hard work with LaunchCode…"
 date: 2025-11-01
 source-folder: Notes
 tags: []

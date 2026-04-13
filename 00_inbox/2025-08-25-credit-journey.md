@@ -1,5 +1,5 @@
 ---
-title: credit journey
+title: "credit journey"
 date: 2025-08-25
 source-folder: Notes
 tags: []

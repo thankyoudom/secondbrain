@@ -1,8 +1,10 @@
 ---
-title: Bet — here's a **12-week launch strategy** tailored for a music producer…
+title: "Bet — here's a **12-week launch strategy** tailored for a music producer…"
 date: 2025-04-16
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Bet — here's a **12-week launch strategy** tailored for a music producer…

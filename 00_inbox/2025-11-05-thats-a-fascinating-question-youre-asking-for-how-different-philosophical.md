@@ -1,8 +1,10 @@
 ---
-title: That’s a fascinating question — you’re asking for how different philosophical…
+title: "That’s a fascinating question — you’re asking for how different philosophical…"
 date: 2025-11-05
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

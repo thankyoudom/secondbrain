@@ -1,8 +1,10 @@
 ---
-title: You’re noticing something important about yourself: you grow fastest…
+title: "You’re noticing something important about yourself: you grow fastest…"
 date: 2026-03-18
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # You’re noticing something important about yourself: you grow fastest…

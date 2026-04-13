@@ -1,8 +1,10 @@
 ---
-title: This style is often referred to as "Old Money Equestrian" or "Quiet…
+title: "This style is often referred to as "Old Money Equestrian" or "Quiet…"
 date: 2026-01-26
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # This style is often referred to as "Old Money Equestrian" or "Quiet…

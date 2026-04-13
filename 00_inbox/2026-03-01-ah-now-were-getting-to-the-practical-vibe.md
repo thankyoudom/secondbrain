@@ -1,8 +1,10 @@
 ---
-title: Ah — now we’re getting to the practical vibe.
+title: "Ah — now we’re getting to the practical vibe."
 date: 2026-03-01
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Ah — now we’re getting to the practical vibe.

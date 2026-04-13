@@ -1,5 +1,5 @@
 ---
-title: Great questions! Geneva and Zurich are two of Switzerland's largest…
+title: "Great questions! Geneva and Zurich are two of Switzerland's largest…"
 date: 2025-11-21
 source-folder: Notes
 tags: []

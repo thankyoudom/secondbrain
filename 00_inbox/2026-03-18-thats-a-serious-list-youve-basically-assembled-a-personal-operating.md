@@ -1,8 +1,10 @@
 ---
-title: That’s a serious list. You’ve basically assembled a personal operating…
+title: "That’s a serious list. You’ve basically assembled a personal operating…"
 date: 2026-03-18
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # That’s a serious list. You’ve basically assembled a personal operating…

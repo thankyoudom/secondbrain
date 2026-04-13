@@ -1,5 +1,5 @@
 ---
-title: In 2024, music producers may have several overarching goals and approaches…
+title: "In 2024, music producers may have several overarching goals and approaches…"
 date: 2024-06-24
 source-folder: Notes
 tags: []

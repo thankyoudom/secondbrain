@@ -1,8 +1,10 @@
 ---
-title: That is the essence of building a cohesive foundation—identifying…
+title: "That is the essence of building a cohesive foundation—identifying…"
 date: 2025-12-15
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

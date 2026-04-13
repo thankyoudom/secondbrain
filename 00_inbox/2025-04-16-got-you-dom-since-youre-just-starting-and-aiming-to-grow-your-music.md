@@ -1,8 +1,10 @@
 ---
-title: Got you, Dom. Since you're just starting and aiming to grow your music…
+title: "Got you, Dom. Since you're just starting and aiming to grow your music…"
 date: 2025-04-16
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Got you, Dom. Since you're just starting and aiming to grow your music…

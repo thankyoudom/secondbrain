@@ -1,5 +1,5 @@
 ---
-title: invention
+title: "invention"
 date: 2026-02-08
 source-folder: Notes
 tags: []

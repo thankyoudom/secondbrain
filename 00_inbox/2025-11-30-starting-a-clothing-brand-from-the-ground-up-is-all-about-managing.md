@@ -1,8 +1,10 @@
 ---
-title: Starting a clothing brand from the ground up is all about managing…
+title: "Starting a clothing brand from the ground up is all about managing…"
 date: 2025-11-30
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

@@ -1,8 +1,10 @@
 ---
-title: Here’s a realistic example of a monthly income stream for an aspiring…
+title: "Here’s a realistic example of a monthly income stream for an aspiring…"
 date: 2025-05-29
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Haiti fashion
+title: "Haiti fashion"
 date: 2025-08-02
 source-folder: Notes
 tags: []

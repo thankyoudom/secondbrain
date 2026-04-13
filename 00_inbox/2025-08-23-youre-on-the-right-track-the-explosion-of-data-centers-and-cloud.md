@@ -1,5 +1,5 @@
 ---
-title: You're on the right track! The explosion of data centers and cloud…
+title: "You're on the right track! The explosion of data centers and cloud…"
 date: 2025-08-23
 source-folder: Notes
 tags: []

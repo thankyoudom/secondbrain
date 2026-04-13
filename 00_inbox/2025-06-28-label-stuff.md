@@ -1,8 +1,10 @@
 ---
-title: label stuff
+title: "label stuff"
 date: 2025-06-28
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

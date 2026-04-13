@@ -1,8 +1,10 @@
 ---
-title: You're in a great niche for growth — beats + art time-lapses = double…
+title: "You're in a great niche for growth — beats + art time-lapses = double…"
 date: 2025-05-29
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: You’re not confused—you’re actually circling a very precise ethical…
+title: "You’re not confused—you’re actually circling a very precise ethical…"
 date: 2026-01-20
 source-folder: Notes
 tags: []

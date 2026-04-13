@@ -1,8 +1,10 @@
 ---
-title: Great! Let’s dive deeper into the Islamic history in Ethiopia and…
+title: "Great! Let’s dive deeper into the Islamic history in Ethiopia and…"
 date: 2025-06-07
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

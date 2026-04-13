@@ -1,5 +1,5 @@
 ---
-title: Creating a profitable automation business in 7 days with tools like…
+title: "Creating a profitable automation business in 7 days with tools like…"
 date: 2024-09-13
 source-folder: Notes
 tags: []

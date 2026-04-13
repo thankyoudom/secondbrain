@@ -1,8 +1,10 @@
 ---
-title: That’s a fantastic and very achievable dream — digital decluttering…
+title: "That’s a fantastic and very achievable dream — digital decluttering…"
 date: 2025-08-21
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

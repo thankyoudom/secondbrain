@@ -1,5 +1,5 @@
 ---
-title: Yes, Ableton Live offers a free version called Ableton Live Lite. It's…
+title: "Yes, Ableton Live offers a free version called Ableton Live Lite. It's…"
 date: 2025-11-24
 source-folder: Notes
 tags: []

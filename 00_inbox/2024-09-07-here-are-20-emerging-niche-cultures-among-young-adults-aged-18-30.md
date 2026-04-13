@@ -1,5 +1,5 @@
 ---
-title: Here are 20 emerging niche cultures among young adults aged 18-30…
+title: "Here are 20 emerging niche cultures among young adults aged 18-30…"
 date: 2024-09-07
 source-folder: Notes
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: Alright—let’s focus on **Part 2: Stereo Field & Clarity**—specifically…
+title: "Alright—let’s focus on **Part 2: Stereo Field & Clarity**—specifically…"
 date: 2025-04-16
 source-folder: Notes
 tags: []

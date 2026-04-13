@@ -1,8 +1,10 @@
 ---
-title: The male counterpart to the “soft baddie” aesthetic is often called…
+title: "The male counterpart to the “soft baddie” aesthetic is often called…"
 date: 2026-01-27
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # The male counterpart to the “soft baddie” aesthetic is often called…

@@ -1,8 +1,10 @@
 ---
-title: This sounds like a solid, aesthetic-driven plan. The "Study with Me…
+title: "This sounds like a solid, aesthetic-driven plan. The "Study with Me…"
 date: 2026-02-15
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # This sounds like a solid, aesthetic-driven plan. The "Study with Me…

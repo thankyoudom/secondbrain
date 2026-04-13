@@ -1,8 +1,10 @@
 ---
-title: growth tiktok
+title: "growth tiktok"
 date: 2025-06-24
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

@@ -1,8 +1,10 @@
 ---
-title: If you’re 30+ and looking to sign a Producer Deal with a record label…
+title: "If you’re 30+ and looking to sign a Producer Deal with a record label…"
 date: 2026-02-16
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # If you’re 30+ and looking to sign a Producer Deal with a record label…

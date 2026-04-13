@@ -1,5 +1,5 @@
 ---
-title: Sure, here’s a list of 50 important things that have withstood the…
+title: "Sure, here’s a list of 50 important things that have withstood the…"
 date: 2025-02-01
 source-folder: Notes
 tags: []

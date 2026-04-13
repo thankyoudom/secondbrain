@@ -1,8 +1,10 @@
 ---
-title: You’re thinking about this correctly — leverage is not a “creative…
+title: "You’re thinking about this correctly — leverage is not a “creative…"
 date: 2026-01-19
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: To widen your melody layer and enhance its harmonics, you can experiment…
+title: "To widen your melody layer and enhance its harmonics, you can experiment…"
 date: 2025-04-27
 source-folder: Notes
 tags: []

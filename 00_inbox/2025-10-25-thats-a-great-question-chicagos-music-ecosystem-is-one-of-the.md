@@ -1,5 +1,5 @@
 ---
-title: That’s a great question — Chicago’s music ecosystem is one of the…
+title: "That’s a great question — Chicago’s music ecosystem is one of the…"
 date: 2025-10-25
 source-folder: Notes
 tags: []

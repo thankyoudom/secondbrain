@@ -1,5 +1,5 @@
 ---
-title: These are genuinely fascinating questions — let me think through them…
+title: "These are genuinely fascinating questions — let me think through them…"
 date: 2026-03-04
 source-folder: Notes
 tags: []

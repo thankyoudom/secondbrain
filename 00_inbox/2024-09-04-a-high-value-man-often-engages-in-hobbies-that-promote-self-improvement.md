@@ -1,5 +1,5 @@
 ---
-title: A high-value man often engages in hobbies that promote self-improvement…
+title: "A high-value man often engages in hobbies that promote self-improvement…"
 date: 2024-09-04
 source-folder: Notes
 tags: []

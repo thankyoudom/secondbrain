@@ -1,5 +1,5 @@
 ---
-title: Thank you — this is really thoughtful and clear. Based on everything…
+title: "Thank you — this is really thoughtful and clear. Based on everything…"
 date: 2025-10-21
 source-folder: Notes
 tags: []

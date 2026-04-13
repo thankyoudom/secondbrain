@@ -1,8 +1,11 @@
 ---
-title: Building a music producer brand on social media (and beyond) is all…
+title: "Building a music producer brand on social media (and beyond) is all…"
 date: 2025-04-16
 source-folder: Notes
-tags: [:needs-review: :has-links: :has-table:]
+tags:
+  - needs-review
+  - has-links
+  - has-table
 review-reasons: has-links
 ---
 

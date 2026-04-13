@@ -1,8 +1,10 @@
 ---
-title: ### Roadmap to an Entry-Level Job at Google as a Data Scientist…
+title: "### Roadmap to an Entry-Level Job at Google as a Data Scientist…"
 date: 2025-03-25
 source-folder: Notes
-tags: [:needs-review: :has-links:]
+tags:
+  - needs-review
+  - has-links
 review-reasons: has-links
 ---
 

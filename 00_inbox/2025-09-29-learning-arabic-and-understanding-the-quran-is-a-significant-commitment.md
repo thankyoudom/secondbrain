@@ -1,5 +1,5 @@
 ---
-title: Learning Arabic and understanding the Quran is a significant commitment…
+title: "Learning Arabic and understanding the Quran is a significant commitment…"
 date: 2025-09-29
 source-folder: Notes
 tags: []

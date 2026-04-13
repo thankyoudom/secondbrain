@@ -1,5 +1,5 @@
 ---
-title: That’s a potent professional cocktail. Being a CTO/Creative Director…
+title: "That’s a potent professional cocktail. Being a CTO/Creative Director…"
 date: 2026-02-20
 source-folder: Notes
 tags: []

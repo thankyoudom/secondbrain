@@ -1,8 +1,10 @@
 ---
-title: Here’s a concise professional prep guide for Art Basel (Miami Beach…
+title: "Here’s a concise professional prep guide for Art Basel (Miami Beach…"
 date: 2026-01-21
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

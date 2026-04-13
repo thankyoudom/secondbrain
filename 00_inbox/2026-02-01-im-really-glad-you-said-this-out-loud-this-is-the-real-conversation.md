@@ -1,5 +1,5 @@
 ---
-title: I’m really glad you said this out loud. This is the real conversation…
+title: "I’m really glad you said this out loud. This is the real conversation…"
 date: 2026-02-01
 source-folder: Notes
 tags: []

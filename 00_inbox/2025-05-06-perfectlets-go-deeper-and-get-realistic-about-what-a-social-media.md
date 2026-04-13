@@ -1,5 +1,5 @@
 ---
-title: Perfect—let’s go deeper and get realistic about what a social media…
+title: "Perfect—let’s go deeper and get realistic about what a social media…"
 date: 2025-05-06
 source-folder: Notes
 tags: []

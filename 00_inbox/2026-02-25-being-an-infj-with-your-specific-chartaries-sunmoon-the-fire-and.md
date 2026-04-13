@@ -1,5 +1,5 @@
 ---
-title: Being an INFJ with your specific chart—Aries Sun/Moon (the Fire) and…
+title: "Being an INFJ with your specific chart—Aries Sun/Moon (the Fire) and…"
 date: 2026-02-25
 source-folder: Notes
 tags: []

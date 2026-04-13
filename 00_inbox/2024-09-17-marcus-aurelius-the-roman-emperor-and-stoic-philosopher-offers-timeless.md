@@ -1,5 +1,5 @@
 ---
-title: Marcus Aurelius, the Roman Emperor and Stoic philosopher, offers timeless…
+title: "Marcus Aurelius, the Roman Emperor and Stoic philosopher, offers timeless…"
 date: 2024-09-17
 source-folder: Notes
 tags: []

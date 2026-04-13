@@ -1,8 +1,10 @@
 ---
-title: Rebuilding your credit from a score of 400 with $6,000 owed can take…
+title: "Rebuilding your credit from a score of 400 with $6,000 owed can take…"
 date: 2025-07-26
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

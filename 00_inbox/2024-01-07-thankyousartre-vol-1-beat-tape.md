@@ -1,8 +1,10 @@
 ---
-title: THANKYOUSARTRE VOL. 1 beat tape
+title: "THANKYOUSARTRE VOL. 1 beat tape"
 date: 2024-01-07
 source-folder: Ptw
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

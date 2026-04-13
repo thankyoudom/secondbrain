@@ -1,5 +1,5 @@
 ---
-title: Below is a structured, clear explanation that ties together Marcus…
+title: "Below is a structured, clear explanation that ties together Marcus…"
 date: 2025-12-01
 source-folder: Notes
 tags: []

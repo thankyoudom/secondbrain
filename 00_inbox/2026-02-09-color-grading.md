@@ -1,5 +1,5 @@
 ---
-title: color grading
+title: "color grading"
 date: 2026-02-09
 source-folder: Notes
 tags: []

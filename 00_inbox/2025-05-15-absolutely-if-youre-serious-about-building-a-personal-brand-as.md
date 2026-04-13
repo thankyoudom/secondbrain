@@ -1,5 +1,5 @@
 ---
-title: Absolutely — if you're serious about building a personal brand as…
+title: "Absolutely — if you're serious about building a personal brand as…"
 date: 2025-05-15
 source-folder: Notes
 tags: []

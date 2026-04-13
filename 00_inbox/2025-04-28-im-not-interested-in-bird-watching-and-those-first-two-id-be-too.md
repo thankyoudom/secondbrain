@@ -1,5 +1,5 @@
 ---
-title: I’m not interested in bird watching and those first two I’d be too…
+title: "I’m not interested in bird watching and those first two I’d be too…"
 date: 2025-04-28
 source-folder: Notes
 tags: []

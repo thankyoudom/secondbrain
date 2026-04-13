@@ -1,5 +1,5 @@
 ---
-title: As of 2024, the top American industries by revenue are typically as…
+title: "As of 2024, the top American industries by revenue are typically as…"
 date: 2024-09-03
 source-folder: Notes
 tags: []

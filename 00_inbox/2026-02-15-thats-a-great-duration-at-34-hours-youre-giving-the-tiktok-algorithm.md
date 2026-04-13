@@ -1,8 +1,10 @@
 ---
-title: That’s a great duration. At 3–4 hours, you’re giving the TikTok algorithm…
+title: "That’s a great duration. At 3–4 hours, you’re giving the TikTok algorithm…"
 date: 2026-02-15
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # That’s a great duration. At 3–4 hours, you’re giving the TikTok algorithm…

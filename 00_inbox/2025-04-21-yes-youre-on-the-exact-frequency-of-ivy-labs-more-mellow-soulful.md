@@ -1,8 +1,10 @@
 ---
-title: Yes! You're on the exact frequency of Ivy Lab’s more **mellow, soulful…
+title: "Yes! You're on the exact frequency of Ivy Lab’s more **mellow, soulful…"
 date: 2025-04-21
 source-folder: Notes
-tags: [:needs-review: :has-table:]
+tags:
+  - needs-review
+  - has-table
 ---
 
 # Yes! You're on the exact frequency of Ivy Lab’s more **mellow, soulful…

@@ -1,5 +1,5 @@
 ---
-title: Choosing between focusing on music production and illustration depends…
+title: "Choosing between focusing on music production and illustration depends…"
 date: 2025-04-07
 source-folder: Notes
 tags: []

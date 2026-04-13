@@ -1,8 +1,10 @@
 ---
-title: Posting remixes on all streaming platforms without proper clearance…
+title: "Posting remixes on all streaming platforms without proper clearance…"
 date: 2025-05-30
 source-folder: Notes
-tags: [:needs-review: :has-attachments:]
+tags:
+  - needs-review
+  - has-attachments
 review-reasons: has-attachments
 ---
 

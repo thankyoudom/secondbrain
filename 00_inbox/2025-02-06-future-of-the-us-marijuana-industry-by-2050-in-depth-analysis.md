@@ -1,5 +1,5 @@
 ---
-title: ## **Future of the U.S. Marijuana Industry by 2050: In-Depth Analysis…
+title: "## **Future of the U.S. Marijuana Industry by 2050: In-Depth Analysis…"
 date: 2025-02-06
 source-folder: Notes
 tags: []

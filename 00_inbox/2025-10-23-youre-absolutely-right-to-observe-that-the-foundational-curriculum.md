@@ -1,5 +1,5 @@
 ---
-title: You’re absolutely right to observe that the foundational curriculum…
+title: "You’re absolutely right to observe that the foundational curriculum…"
 date: 2025-10-23
 source-folder: Notes
 tags: []
