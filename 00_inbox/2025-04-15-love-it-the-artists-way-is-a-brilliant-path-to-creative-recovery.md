@@ -2,7 +2,7 @@
 title: "Love it. *The Artist's Way* is a brilliant path to creative recovery…"
 date: 2025-04-15
 source-folder: Notes
-tags: []
+tags: ["creative-recovery", "artist's-way"]
 ---
 
 # Love it. *The Artist's Way* is a brilliant path to creative recovery…
@@ -11,7 +11,7 @@ Love it. *The Artist's Way* is a brilliant path to creative recovery and express
 
 ---
 
-### **Overall Weekly Structure (Artist’s Way Enhanced)**
+## Overall Weekly Structure (Artist’s Way Enhanced)
 
 - **Morning Pages** *(daily, non-negotiable)*: 3 pages of longhand, stream-of-consciousness writing.
 - **Artist Date** *(1x per week)*: 1–2 solo hours doing something playful or curiosity-sparking.
@@ -20,9 +20,9 @@ Love it. *The Artist's Way* is a brilliant path to creative recovery and express
 
 ---
 
-## **Week 1 Plan: "Excavation + Permission to Play"**
+## Week 1 Plan: "Excavation + Permission to Play"
 
-### **Daily Exercises**
+### Daily Exercises
 Each takes 15–45 minutes, max. You can scale up/down.
 
 **Day 1 – Sensory Walk & Sketch**
@@ -55,14 +55,15 @@ Each takes 15–45 minutes, max. You can scale up/down.
 
 **Day 7 – Reflection + Taste Audit**
 - **Task**: Journal:
-- What did I *love* doing this week?
-- What bored/drained me?
-- What kind of art do I *want* to make more of?
+  - What did I *love* doing this week?
+  - What bored/drained me?
+  - What kind of art do I *want* to make more of?
 - **Bonus**: Write a letter *from* your inner artist to yourself.
 
 ---
 
-### **Taste-Building Without Over-Consuming**
+## Taste-Building Without Over-Consuming
+
 ### Instead of watching tons of content
 - **Taste Notebook**: Keep a section in your journal where you jot *specifics* you admire (e.g., “I love how this painter uses white space”).
 - **Micro Reviews**: After consuming something, write 2–3 lines of critique—what worked, what didn’t, what you’d try.
@@ -71,3 +72,4 @@ Each takes 15–45 minutes, max. You can scale up/down.
 ---
 
 Want me to keep building this out for the next few weeks or shape it toward a specific medium (writing, music, visual art, etc.)?
+---

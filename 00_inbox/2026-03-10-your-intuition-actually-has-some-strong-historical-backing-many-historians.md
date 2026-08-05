@@ -3,246 +3,220 @@ title: "Your intuition actually has some strong historical backing. Many histori
 date: 2026-03-10
 source-folder: Notes
 tags:
-  - needs-review
-  - has-table
+  - intuition
+  - history-of-technology
 ---
 
-# Your intuition actually has some strong historical backing. Many historians…
+# Your Intuition Actually Has Some Strong Historical Backing
 
-Your intuition actually has some strong historical backing. Many historians and sociologists argue that life before smartphones (and even before portable cameras) naturally pushed people toward deeper engagement with the world rather than performance for an audience.
+Many historians and sociologists argue that life before smartphones—and even before portable cameras—naturally pushed people toward deeper engagement with the world rather than performance for an audience.
 
 Let’s build the case.
 
-?
-
-1. Without cameras, moments were lived—not documented
+## 1. Without Cameras, Moments Were Lived—Not Documented
 
 Today, people often experience events through a recording mindset:
-|  | • | “Should I film this?” |
-| --- | --- | --- |
-|  | • | “Will this look good on Instagram?” |
-|  | • | “How will people react?” |
-### Before ubiquitous cameras (roughly pre-2005)
-|  | • | Most moments couldn’t be easily captured |
-| --- | --- | --- |
-|  | • | Memory and storytelling were the main record |
-|  | • | Experiences were internalized instead of broadcast |
-Psychologists call this self-presentation theory: when people know they’re being observed or recorded, they adjust behavior.
+- “Should I film this?”
+- “Will this look good on Instagram?”
+- “How will people react?”
 
-### Without that constant possibility of recording
-|  | • | social interactions were more relaxed |
-| --- | --- | --- |
-|  | • | fewer incentives existed to perform identity |
-You could go to a party, say something weird, dance badly, and it disappeared into the night.
+**Before ubiquitous cameras (roughly pre-2005):**
+- Most moments couldn’t be easily captured
+- Memory and storytelling were the main record
+- Experiences were internalized instead of broadcast
 
-?
+Psychologists call this *self-presentation theory*: when people know they’re being observed or recorded, they adjust their behavior.
 
-2. Reading filled the idle mental space
+**Without that constant possibility of recording:**
+- Social interactions were more relaxed
+- Fewer incentives existed to perform identity
+- You could go to a party, say something weird, dance badly, and it disappeared into the night.
+
+## 2. Reading Filled the Idle Mental Space
 
 Before smartphones, there was a lot more dead time:
-|  | • | waiting rooms |
-| --- | --- | --- |
-|  | • | bus rides |
-|  | • | lunch breaks |
-|  | • | evenings without TV or gaming |
-### Historically people filled that space with
-|  | • | books |
-| --- | --- | --- |
-|  | • | newspapers |
-|  | • | magazines |
-|  | • | journals |
-### Some statistics illustrate the shift
-|  | • | Americans read significantly more long-form print before the internet era. |
-| --- | --- | --- |
-|  | • | Average attention span for uninterrupted reading has dropped dramatically since smartphones. |
-### The phone replaced
-|  | • | the pocket paperback |
-| --- | --- | --- |
-|  | • | the sketch notebook |
-|  | • | the idea journal |
-with the infinite scroll feed.
+- Waiting rooms
+- Bus rides
+- Lunch breaks
+- Evenings without TV or gaming
 
-?
+**Historically, people filled that space with:**
+- Books
+- Newspapers
+- Magazines
+- Journals
 
-3. Artists drew more because drawing was a recording tool
+**Some statistics illustrate the shift:**
+- Americans read significantly more long-form print before the internet era
+- The average attention span for uninterrupted reading has dropped dramatically since smartphones
+
+The phone replaced:
+- The pocket paperback
+- The sketch notebook
+- The idea journal
+
+With the infinite scroll feed.
+
+## 3. Artists Drew More Because Drawing Was a Recording Tool
 
 Before cameras were everywhere, drawing was documentation.
 
-### Artists used sketchbooks to capture
-|  | • | landscapes |
-| --- | --- | --- |
-|  | • | architecture |
-|  | • | strangers on trains |
-|  | • | street scenes |
-|  | • | anatomy studies |
-### Many famous artists carried sketchbooks constantly
-|  | • | Leonardo da Vinci |
-| --- | --- | --- |
-|  | • | Vincent van Gogh |
-|  | • | Egon Schiele |
+**Artists used sketchbooks to capture:**
+- Landscapes
+- Architecture
+- Strangers on trains
+- Street scenes
+- Anatomy studies
+
+**Many famous artists carried sketchbooks constantly:**
+- Leonardo da Vinci
+- Vincent van Gogh
+- Egon Schiele
+
 They produced thousands of observational sketches because drawing was:
-|  | • | memory |
-| --- | --- | --- |
-|  | • | study |
-|  | • | exploration |
-|  | • | visual journaling |
-Today, a phone camera replaced that impulse.
+- Memory
+- Study
+- Exploration
+- Visual journaling
+
+Today, a phone camera replaces that impulse.
 
 Instead of sketching a cafe scene, people take a photo.
 
-?
+## 4. Less Digital Stimulation Meant More Outdoor Time
 
-4. Less digital stimulation meant more outdoor time
+**Before smartphones:**
+- Boredom happened more often
+- There were fewer indoor digital distractions
 
-### Before smartphones
-|  | • | boredom happened more often |
-| --- | --- | --- |
-|  | • | there were fewer indoor digital distractions |
-### When bored people often
-|  | • | went outside |
-| --- | --- | --- |
-|  | • | walked around |
-|  | • | visited friends |
-|  | • | played sports |
-|  | • | explored neighborhoods |
+When bored, people often:
+- Went outside
+- Walked around
+- Visited friends
+- Played sports
+- Explored neighborhoods
+
 This is why older generations often recall:
-|  | • | biking for hours |
-| --- | --- | --- |
-|  | • | hanging out outside until dark |
-|  | • | spontaneous socializing |
+- Biking for hours
+- Hanging out outside until dark
+- Spontaneous socializing
+
 The friction of communication actually encouraged physical interaction.
 
-You couldn’t just text someone.
+**You had to:**
+- Knock on their door
+- Call the house phone
+- Meet at a location
 
-### You had to
-|  | • | knock on their door |
-| --- | --- | --- |
-|  | • | call the house phone |
-|  | • | meet at a location |
-?
-
-5. Identity developed more privately
+## 5. Identity Developed More Privately
 
 Modern social media makes identity public and iterative.
 
-### People constantly broadcast
-|  | • | opinions |
-| --- | --- | --- |
-|  | • | aesthetics |
-|  | • | lifestyle |
-|  | • | beliefs |
-### Before that system existed
+**People constantly broadcast:**
+- Opinions
+- Aesthetics
+- Lifestyle
+- Beliefs
 
-### Identity developed through
-|  | • | private journaling |
-| --- | --- | --- |
-|  | • | close friend conversations |
-|  | • | experimentation without audience feedback |
+**Before that system existed:**
+- Identity developed through:
+  - Private journaling
+  - Close friend conversations
+  - Experimentation without audience feedback
+
 This meant people had more psychological space to evolve without needing approval metrics.
 
-### No
-|  | • | likes |
-| --- | --- | --- |
-|  | • | views |
-|  | • | follower counts |
-|  | • | algorithmic reinforcement |
-?
+**No:**
+- Likes
+- Views
+- Follower counts
+- Algorithmic reinforcement
 
-6. Creativity thrived in boredom
+## 6. Creativity Thrived in Boredom
 
 One of the most important differences: boredom existed.
 
 Neuroscience research shows boredom activates the brain’s default mode network, which drives:
-|  | • | imagination |
-| --- | --- | --- |
-|  | • | memory consolidation |
-|  | • | creative insight |
+- Imagination
+- Memory consolidation
+- Creative insight
+
 Smartphones eliminate boredom instantly.
 
-### But historically boredom produced
-|  | • | drawing |
-| --- | --- | --- |
-|  | • | writing |
-|  | • | music practice |
-|  | • | daydreaming |
-|  | • | tinkering |
+**But historically, boredom produced:**
+- Drawing
+- Writing
+- Music practice
+- Daydreaming
+- Tinkering
+
 Many creative breakthroughs come from that mental wandering.
 
-?
+## 7. Social Comparison Was Limited
 
-7. Social comparison was limited
+**Before social media:**
+- You mainly compared yourself to:
+  - Classmates
+  - Coworkers
+  - Neighbors
 
-### Before social media
-
-### You mainly compared yourself to
-|  | • | classmates |
-| --- | --- | --- |
-|  | • | coworkers |
-|  | • | neighbors |
 Now you compare yourself to millions of curated lives.
 
-This creates pressure to perform a lifestyle, not just live it.
+This creates pressure to perform a lifestyle—not just live it.
 
-?
-
-8. Technology changed the feedback loop
+## 等 Technology Changed the Feedback Loop
 
 The real shift isn’t cameras alone.
 
-### It’s the instant feedback loop
+**It’s the instant feedback loop:**
+Post → Likes → Dopamine → Post again
 
-Post ? Likes ? Dopamine ? Post again.
+**That loop encourages:**
+- Spectacle
+- Exaggeration
+- Branding of the self
 
-### That loop encourages
-|  | • | spectacle |
-| --- | --- | --- |
-|  | • | exaggeration |
-|  | • | branding of the self |
-### Without that loop, expression was often
-|  | • | slower |
-| --- | --- | --- |
-|  | • | more private |
-|  | • | less optimized for reaction. |
-?
+**Without that loop, expression was often:**
+- Slower
+- More private
+- Less optimized for reaction
 
-The paradox
+## The Paradox
 
 Interestingly, the modern era also democratized creativity.
 
-### Now anyone can
-|  | • | publish art |
-| --- | --- | --- |
-|  | • | release music |
-|  | • | build an audience |
-### So the tradeoff is
+**Now anyone can:**
+- Publish art
+- Release music
+- Build an audience
 
-Old world
-|  | • | deeper focus |
-| --- | --- | --- |
-|  | • | more private creativity |
-|  | • | less performative pressure |
-Modern world
-|  | • | massive creative distribution |
-| --- | --- | --- |
-|  | • | audience access |
-|  | • | but constant distraction |
-?
+**So the tradeoff is:**
 
-The hybrid approach (the best of both worlds)
+**Old world:**
+- Deeper focus
+- More private creativity
+- Less performative pressure
+
+**Modern world:**
+- Massive creative distribution
+- Audience access
+- But constant distraction
+
+## The Hybrid Approach (The Best of Both Worlds)
 
 Some creatives intentionally recreate the pre-phone environment:
-|  | • | carry sketchbooks |
-| --- | --- | --- |
-|  | • | read physical books |
-|  | • | take phone-free walks |
-|  | • | use cameras intentionally rather than reflexively |
-### Ironically, this often increases
-|  | • | originality |
-| --- | --- | --- |
-|  | • | observation |
-|  | • | artistic output |
-Which aligns with something you mentioned earlier about doing gesture drawing and a 90-day art practice—that’s actually very similar to how artists trained before digital tools existed.
+- Carry sketchbooks
+- Read physical books
+- Take phone-free walks
+- Use cameras intentionally rather than reflexively
 
-?
+**Ironically, this often increases:**
+- Originality
+- Observation
+- Artistic output
+
+This aligns with something you mentioned earlier about doing gesture drawing and a 90-day art practice—that’s actually very similar to how artists trained before digital tools existed.
+
+---
 
 If you want, I can also show you why many great musicians, writers, and programmers deliberately recreate “pre-internet environments” today—because it massively boosts creative output. It’s a fascinating pattern.

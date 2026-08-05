@@ -1,15 +1,16 @@
 ---
-title: "#coffee #coffeelover #coffeetiktok #meanttobe #quoteoftheday"
+title: "#coffee #coffeelover #coffeetiktok #meanttobe"
 date: 2025-06-13
 source-folder: Notes
-tags: []
+tags: ["coffee", "art", "tiktok"]
 ---
 
-# #coffee #coffeelover #coffeetiktok #meanttobe #quoteoftheday
+# #coffee #coffeelover #coffeetiktok #meanttobe
 
-#coffee ? #coffeetiktok #meanttobe ?
+#coffee? #coffeetiktok #meanttobe?
 
-like comment share & ill draw you
-? #drawing #artistsoftiktok ?
+Like, comment, share — and I'll draw you.  
+? #drawing #artistsoftiktok?
 
-? ?  ? ? #drawing #artistsoftiktok ?
+? ? ? ? #drawing #artistsoftiktok?
+---

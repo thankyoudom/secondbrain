@@ -2,21 +2,34 @@
 title: "elevating to Doctor script"
 date: 2024-06-23
 source-folder: Notes
-tags: []
+tags: [firebase, doctor-elevation]
 ---
 
-# elevating to Doctor script
+# Elevating to Doctor Script
 
-how to automate creating firebase proj initial setup
-what are all those starts in package json - https localhost test
-graphana twillio - monitor paitient alerts
-graphana firebase - doctor elevation alerts
-setup dev.smartviewmd.com
-What all metrics would we like for admins SVMD
+## Automate Firebase Project Initial Setup
+- How to automate creating Firebase project initial setup
 
-——
+## Package JSON Configuration
+- Understand what all the `start` scripts in `package.json` do
+- Example: `https`, `localhost`, `test`
 
-talk to Dr. Lawrence about alerts/messages that halted July 4, 2023
+## Monitoring Tools
+- Graphana with Twilio: Monitor patient alerts
+- Graphana with Firebase: Monitor doctor elevation alerts
 
-who is going to get the blood pressure monitors. Welch Alleyn. BelleIT should get credit for bulk orders.
-we need to
+## Development Environment
+- Setup `dev.smartviewmd.com`
+
+## Admin Metrics
+- What metrics would we like for admins at SVMD?
+
+## Communication with Dr. Lawrence
+- Discuss alerts and messages that halted on July 4, 2023
+
+## Blood Pressure Monitors
+- Assign to: Welch Alleyn
+- BelleIT should receive credit for bulk orders
+
+## Action Items
+- List all required actions

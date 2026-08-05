@@ -2,13 +2,20 @@
 title: "interview"
 date: 2025-11-24
 source-folder: Notes
-tags: []
+tags: [vpc-peering, vpn, cloud-networking]
 ---
 
-# interview
+# Interview
 
-vpc peering
-connecting different cloud resources
-open vpn - dns
-vpn - routing traffic / blocking / manage bandwidth
-what are your challenges these days
+## VPC Peering
+- Connecting different cloud resources
+
+## VPN
+- OpenVPN - DNS configuration
+- Routing traffic
+- Blocking specific traffic
+- Managing bandwidth
+
+## Current Challenges
+- What are your challenges these days
+---

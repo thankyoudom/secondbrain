@@ -2,56 +2,67 @@
 title: "card.thankyoudom.com"
 date: 2024-02-01
 source-folder: Notes
-tags: []
+tags: ["soundcloud", "website-projects"]
 ---
 
 # card.thankyoudom.com
 
-soundcloud
-youtube
-beatstar/buymeacoffee
-twitter
-insta
-tumblr
+- soundcloud
+- youtube
+- beatstar/buymeacoffee
+- twitter
+- insta
+- tumblr
 
-thankyoudom.com
+## ThankyouDom.com Projects
+
 ### proj
-smartviewmd - update text w/ chatgpt
-perspectivebfa - update text w/ chatgpt
-clima - “” attempt a v1 app demo
-add new proj (belleit ocr pro)
-______
-belleit.net - revamp / new contact form
-smartviewmd.com - revamp / new contact form
-perspectivebfa.com - revamp as much as possible
-faugalleries.com revamp as much as possible (might delete)
-______
-update contact form
+- smartviewmd - update text with chatgpt
+- perspectivebfa - update text with chatgpt
+- clima - “” attempt a v1 app demo
+- add new project (belleit ocr pro)
 
-sharpviewrpm.com
-launch V1 for a demo
-create a landing page with info
+## Website Revamps
 
-belleit.com
-short one page of projects in que for JCTHC
-consolidate all projects on GitHub
-work with dad to get a working version of all live
-get back to cadence of updating notion / slack / google calendar (weekly calls)
-instagram/twitter/linkedin
+- belleit.net - revamp / new contact form
+- smartviewmd.com - revamp / new contact form
+- perspectivebfa.com - revamp as much as possible
+- faugalleries.com - revamp as much as possible (might delete)
 
-linkedin.com/TYYY
-update
-confirm all links and contact info
-one new blog post after listening to Chamaths bit on essay writing
-lock in on connections (you are who you surround yourself with)
+## Contact Form Updates
 
-TYYYWRLD.com
-personal expense notes/ start budgeting spreadsheet
-plan for 5 track beat tape (full moon ep)
-cover art - raffnation x tyyy
-ft. sartre & subzeroswiz
-executive producer @deisofresh
-soundcloud mix for vday
-make sure all items for sale are posted
-resume updates
-start applying folk
+- Update contact form across all projects
+
+## Other Projects
+
+- sharpviewrpm.com
+  - Launch V1 for a demo
+  - Create a landing page with information
+
+- belleit.com
+  - Short one-page project list for JCTHC
+  - Consolidate all projects on GitHub
+  - Work with dad to get a working version of all live features
+  - Return to cadence of updating notion / slack / google calendar (weekly calls)
+  - Post on Instagram, Twitter, LinkedIn
+
+## LinkedIn Updates
+
+- linkedin.com/TYYY
+  - Update profile
+  - Confirm all links and contact information
+  - Write one new blog post after listening to Chamaths' bit on essay writing
+  - Lock in on connections (you are who you surround yourself with)
+
+## TYYYWRLD.com
+
+- Personal expense notes / start budgeting spreadsheet
+- Plan for 5-track beat tape (full moon EP)
+- Cover art - raffnation x tyyy
+  - ft. sartre & subzeroswiz
+- Executive producer @deisofresh
+- Soundcloud mix for vday
+- Ensure all items for sale are posted
+- Resume updates
+- Start applying to folk jobs
+---

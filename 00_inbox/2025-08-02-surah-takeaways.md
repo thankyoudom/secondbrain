@@ -2,38 +2,36 @@
 title: "Surah Takeaways:"
 date: 2025-08-02
 source-folder: Notes
-tags: []
+tags: ["quran", "reflection"]
 ---
 
-# Surah Takeaways:
+# Surah Takeaways
 
-### Surah Takeaways
+## Surah Naziat (79)
 
-### Surah Naziat (79)
+- **DJ**: (79:40–41) Powerful reassurance of your daily efforts  
+- **Drizzy**: *Ihsaan*: Keep the long-term plan in perspective and study the stars.
 
-DJ: (79:40-41) powerful reassurance of your daily efforts
-### Drizzy
-Ihsaan: Keep the long-term plan in perspective & study the stars.
+## Surah Naba (78)
 
-### Surah Naba (78)
-DJ: Insurmountable peace is awarded for those who strive for the straight path
-Drizzy: and made your sleep for rest (78:9) sleep is mentioned and so should be had to appreciate and lack there of (being locked out) brings in the feeling of thislbeinh
-Ihsaan: In paradise, there will be no more idle talk & brainrot
+- **DJ**: Insurmountable peace is awarded for those who strive for the straight path  
+- **Drizzy**: Sleep is mentioned in verse (78:9) — it should be appreciated. Lack of sleep (being locked out) brings the feeling of being disconnected.  
+- **Ihsaan**: In paradise, there will be no more idle talk or brainrot.
 
-### Surah Mursalat (77)
-DJ: Just as sure as Allahs divine design is the consequence of denying his words.s q
-Drizzy: asaba pattern based on ayat 47
-Ihsaan: Don’t be one of the deniers.d
+## Surah Mursalat (77)
 
-### Surah Insan (76)
-DJ: The path is clear as day , paved since the beginning of humanity . Follow the word of Allah but don’t forget to listen to your orheart .
-Drizzy: Verily this is a Reward for you, and your Endeavour is accepted and recognised all the efforts recognized through the greatest of materials and uaksrecognized
-Ihsaan: Allah will appreciate all your efforts. Nothing is in vain, if your intention is pure
+- **DJ**: Just as sure as Allah’s divine design is the consequence of denying His words.  
+- **Drizzy**: The "asaba" pattern is based on ayat 47.  
+- **Ihsaan**: Don’t be one of the deniers.
 
-Surah Qiyama (75)
+## Surah Insan (76)
 
-DJ: “Do people not think we cannot reassemble their bones?” 2002 humans cloned a cat, although this direction is touchy, provides a lot of validity to the description of the final days
+- **DJ**: The path is clear as day, paved since the beginning of humanity. Follow the word of Allah, but don’t forget to listen to your heart.  
+- **Drizzy**: Verily, this is a reward for you. Your endeavour is accepted and recognised — all efforts are recognised through the greatest of materials and uaksrecognized.  
+- **Ihsaan**: Allah will appreciate all your efforts. Nothing is in vain, if your intention is pure.
 
-Dorizabelle: life continues in cycles maintained thrugh hisory and in the same way it mirrors to nature and other beings which allows us to be grounded and interconnected with all aspects of the world
+## Surah Qiyama (75)
 
-Ihsaan: Dont rush in your memorization of Quran, stay present in the moment.
+- **DJ**: “Do people not think we cannot reassemble their bones?” — In 2002, humans cloned a cat. Although this direction is touchy, it provides a lot of validity to the description of the final days.  
+- **Dorizabelle**: Life continues in cycles maintained through history. In the same way, it mirrors nature and other beings, allowing us to be grounded and interconnected with all aspects of the world.  
+- **Ihsaan**: Don’t rush in your memorization of the Quran. Stay present in the moment.

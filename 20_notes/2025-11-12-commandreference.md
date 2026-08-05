@@ -1,9 +1,7 @@
 ---
 title: CommandReference
-tags: [zk]
+tags: [zk, workflow]
 ---
-
-# CommandReference
 
 # Command Reference
 
@@ -13,7 +11,6 @@ Quick reference for SecondBrain workflows.
 
 ### Core Commands
 
-```bash
 # Create new note
 zk new "Note title"
 zk new --title "maybellama" 00_inbox --extra tags="test" --template note.md
@@ -39,11 +36,9 @@ zk backlinks
 
 # Rebuild index
 zk index
-```
 
 ### Workflow
 
-```bash
 # Navigate to SecondBrain
 cd ~/SecondBrain
 
@@ -52,7 +47,6 @@ zk new "Cloud Monitoring Practice" --edit nvim
 
 # Open most recent note
 nvim $(zk list --sort created- --limit 1 --path-only)
-```
 
 ## Vim/Neovim Essentials
 
@@ -102,7 +96,6 @@ nvim $(zk list --sort created- --limit 1 --path-only)
 
 ### Local Development
 
-```bash
 # Build image
 docker build -t dev-env .
 docker build --no-cache -t dev-env .  # Force rebuild
@@ -126,11 +119,9 @@ docker exec -it secondbrain-docker bash
 
 # Cleanup
 docker system prune -af
-```
 
 ### Colima (macOS)
 
-```bash
 # Start
 colima start --mount $HOME:w --dns 8.8.8.8 --network-address
 docker context use colima
@@ -141,13 +132,11 @@ colima stop
 colima restart
 colima delete
 colima list
-```
 
-## Kubernetes (K3s)
+## Kubernetes (K3T)
 
 ### Pod Management
 
-```bash
 # Get pods
 sudo k3s kubectl get pods -n secondbrain
 
@@ -161,36 +150,30 @@ sudo k3s kubectl logs -n secondbrain -l app=secondbrain
 # Connect to container
 POD_NAME=$(sudo k3s kubectl get pod -n secondbrain -l app=secondbrain -o jsonpath='{.items[0].metadata.name}')
 sudo k3s kubectl exec -it -n secondbrain $POD_NAME -- /bin/bash
-```
 
 ### Deployment
 
-```bash
 # Apply configuration
 sudo k3s kubectl apply -f k8s-deploy.yaml
 
 # Check nodes
 sudo k3s kubectl get nodes
-```
 
 ## GCP Commands
 
 ### VM Management
 
-```bash
 # SSH into VM
 gcloud compute ssh secondbrain-k3s --zone=us-central1-a
 
 # Copy files to VM
 gcloud compute scp docker-compose.yml Dockerfile secondbrain-k3s:~/ --zone=us-central1-a
 gcloud compute scp --recurse ~/SecondBrain secondbrain-k3s:~/ --zone=us-central1-a
-```
 
 ## Ollama
 
 ### Inside Container
 
-```bash
 # Test Ollama connection
 curl http://ollama:11434/api/tags
 
@@ -199,11 +182,9 @@ ollama pull mistral
 
 # Run model
 ollama run mistral
-```
 
 ## Daily Workflow
 
-```bash
 # 1. Navigate to SecondBrain
 cd ~/SecondBrain
 
@@ -218,4 +199,3 @@ nvim $(zk list --sort created- --limit 1 --path-only)
 
 # 5. Review recent notes
 zk list --sort created- --limit 20
-```

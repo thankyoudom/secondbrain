@@ -2,11 +2,12 @@
 title: "Not my first digital, but the oldest I could find. Drew this by hand…"
 date: 2025-06-30
 source-folder: Notes
-tags: []
+tags: [digital-art, art-learning]
 ---
 
 # Not my first digital, but the oldest I could find. Drew this by hand…
 
-Not my first digital, but the oldest I could find. Drew this by hand in 2018, scanned it, put on some threshold, and colored it in Photoshop. no pen tool patience back then ?.
+Not my first digital piece, but the oldest I could find. I drew this by hand in 2018, scanned it, applied a threshold, and colored it in Photoshop. No pen tool patience back then?
 
-finally tryna learn Procreate fr. Taste & patience feel next level, but I basically gotta relearn composition & anatomy ? gonna keep dropping art the rest of the year tho. keep going
+Currently exploring Procreate for taste and patience—feels like a next-level experience. However, I'll need to relearn composition and anatomy. I plan to keep dropping art throughout the rest of the year. Keep going.
+---

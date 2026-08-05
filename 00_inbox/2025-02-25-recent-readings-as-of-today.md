@@ -2,12 +2,16 @@
 title: "recent readings as of today"
 date: 2025-02-25
 source-folder: Notes
-tags: []
+tags: [readings, patients, filtering]
 ---
 
-# recent readings as of today
+# Recent Readings as of Today
 
-search
-better sort , recent readings
-patients last 30 days
-Leon supper user to see all in first filter my patients
+## Search Queries
+- Better sort
+- Recent readings
+
+## Patient Filter
+- Last 30 days
+- Leon supper user to see all in first filter my patients
+---

@@ -1,15 +1,15 @@
 ---
 title: SecondBrain
-tags: [secondbrain]
+tags: [secondbrain, zettelkasten]
 ---
 
 # SecondBrain
 
-# SecondBrain Project
+## SecondBrain Project
 
 A containerized Zettelkasten environment with AI-powered grammar assistance, running on GCP with K3s.
 
-## Overview
+### Overview
 
 This project combines:
 - **Zettelkasten note-taking** with `zk` and Neovim
@@ -17,9 +17,8 @@ This project combines:
 - **Containerization** with Docker for portability
 - **K3s deployment** on GCP for increased compute resources
 
-## Architecture
+### Architecture
 
-```
 ┌─────────────────────────────────────────┐
 │         GCP VM (e2-standard-4)          │
 │  ┌───────────────────────────────────┐  │
@@ -30,13 +29,11 @@ This project combines:
 │  │  └──────────┘    └─────────────┘ │  │
 │  └───────────────────────────────────┘  │
 └─────────────────────────────────────────┘
-```
 
-## Quick Start
+### Quick Start
 
-### Local Development
+#### Local Development
 
-```bash
 # Start Docker environment (macOS with Colima)
 colima start --mount $HOME:w --dns 8.8.8.8
 
@@ -49,24 +46,21 @@ docker run -it --rm \
   -v ~/.vimrc:/home/dev/.vimrc \
   -v ~/.vim:/home/dev/.vim \
   dev-env
-```
 
-### GCP Deployment
+#### GCP Deployment
 
 See [deployment guide](./docs/deployment.md) for full instructions.
 
-## Project Structure
+### Project Structure
 
-```
 secondbrain/
 ├── Dockerfile              # Container definition
 ├── docker-compose.yml      # Local multi-container setup
 ├── k8s-deploy.yaml        # Kubernetes deployment config
 ├── scripts/               # Helper scripts
 └── SecondBrain/          # Your notes (mounted volume)
-```
 
-## Features
+### Features
 
 - **Atomic note-taking** with Zettelkasten methodology
 - **Vim/Neovim** keyboard-driven workflow
@@ -74,13 +68,13 @@ secondbrain/
 - **Portable environment** runs anywhere Docker runs
 - **Cloud deployment** for heavy AI workloads
 
-## Documentation
+### Documentation
 
 - [Workflow Guide](./docs/workflow.md) - Daily usage patterns
 - [Command Reference](./docs/commands.md) - All commands and shortcuts
 - [Deployment Guide](./docs/deployment.md) - GCP setup instructions
 
-## Why This Setup?
+### Why This Setup?
 
 1. **Reproducible** - Same environment everywhere
 2. **Scalable** - Move to cloud when you need more compute

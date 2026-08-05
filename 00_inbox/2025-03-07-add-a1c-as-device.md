@@ -2,16 +2,19 @@
 title: "add A1c as device"
 date: 2025-03-07
 source-folder: Notes
-tags: []
+tags: ["a1c", "health-coach"]
 ---
 
-# add A1c as device
+# Add A1c as Device
 
-bpm/glucose/a1c/psa/bmi
-list of providers/health coaches
-health coaches instead of doctors
+bpm/glucose/a1c/psa/bmi  
+List of providers/health coaches  
+Health coaches instead of doctors  
 CFC powered by SmartView
 
-—————-
-Chicago talk , talk about dad taking pictures for scale
-pictures of food
+---
+
+Chicago talk:  
+- Talk about dad taking pictures for scale  
+- Pictures of food  
+---

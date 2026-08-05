@@ -3,8 +3,8 @@ title: "Got you, Dom. Since you're just starting and aiming to grow your music�
 date: 2025-04-16
 source-folder: Notes
 tags:
-  - needs-review
-  - has-table
+  - music-production
+  - tiktok-branding
 ---
 
 # Got you, Dom. Since you're just starting and aiming to grow your music…
@@ -19,19 +19,19 @@ Got you, Dom. Since you're just starting and aiming to grow your music brand on 
 **Goal:** Make your vibe instantly recognizable — sonically, visually, emotionally.
 
 - **Artist Name/Handle:**
-**“thankyoudom”** is clean — it feels warm, personal, and slightly nostalgic. Run with that.
+  **“thankyoudom”** is clean — it feels warm, personal, and slightly nostalgic. Run with that.
 
 - **Your Pillars (pick 3–4):**
-### These are your *go-to content angles*
-- *Soulful, swung beats / MPC-style grooves*
-- *Dub/jungle FX & rhythms*
-- *Live creative process & samplism*
-- *Cultural or musical throwbacks*
+  These are your *go-to content angles*
+  - Soulful, swung beats / MPC-style grooves
+  - Dub/jungle FX & rhythms
+  - Live creative process & samplism
+  - Cultural or musical throwbacks
 
 - **Aesthetic:**
-- Visuals: Warm tones, VHS textures, gritty overlays, hazy lighting (think Ivy Lab x dub dancehall underground)
-- Fonts/graphics: Try 90s rave/poster fonts or pixel-style retro fonts
-- Logos: Consider a simple animated tag or name stamp at the start of every post
+  - Visuals: Warm tones, VHS textures, gritty overlays, hazy lighting (think Ivy Lab x dub dancehall underground)
+  - Fonts/graphics: Try 90s rave/poster fonts or pixel-style retro fonts
+  - Logos: Consider a simple animated tag or name stamp at the start of every post
 
 ---
 
@@ -52,18 +52,18 @@ Got you, Dom. Since you're just starting and aiming to grow your music brand on 
 ### **3. Profile Setup**
 
 - **Bio Example:**
-> soulful beats x dub FX x jungle bounce
-> let the rhythm build roots
-> [link to your Linktree or BeatStars]
+  > soulful beats x dub FX x jungle bounce  
+  > let the rhythm build roots  
+  > [link to your Linktree or BeatStars]
 
 - **Profile Pic:**
-A clean headshot or stylized logo — aim for consistency across platforms.
+  A clean headshot or stylized logo — aim for consistency across platforms.
 
 - **Pinned Videos:**
-### Always pin
-1. Your best-performing beat
-2. Your origin/brand intro
-3. A challenge or interactive post
+  Always pin
+  1. Your best-performing beat
+  2. Your origin/brand intro
+  3. A challenge or interactive post
 
 ---
 
@@ -78,24 +78,24 @@ A clean headshot or stylized logo — aim for consistency across platforms.
 | Friday | “Flip this” or challenge post |
 | Weekend | Behind the scenes / live Q&A / reposts |
 
-Consistency is king — aim for 3–5x a week minimum.
+Consistency is king — aim for +3–5x a week minimum.
 
 ---
 
 ### **5. Growth Tactics**
 
 - **Duet with Big Creators**
-If you make a beat over a random vocal TikTok that went viral, people *notice*.
+  If you make a beat over a random vocal TikTok that went viral, people *notice*.
 
 - **Tag/Hashtag Strategically**
-### Use these
-- #beats #producer #jdilla #dub #jungle #futurebeats #beatmaker #musicproducer #undergroundsound
+  Use these
+  - #beats #producer #jdilla #dub #jungle #futurebeats #beatmaker #musicproducer #undergroundsound
 
 - **Hop on Trends — But Flip Them**
-Take trending audios and remix them in your style. Make it feel like *your world* took over.
+  Take trending audios and remix them in your style. Make it feel like *your world* took over.
 
 - **Comment = Collab**
-Drop comments on big producer and dancer posts *from your artist voice*, not generic stuff. That gets you seen.
+  Drop comments on big producer and dancer posts *from your artist voice*, not generic stuff. That gets you seen.
 
 ---
 
@@ -115,7 +115,7 @@ Drop comments on big producer and dancer posts *from your artist voice*, not gen
 
 ---
 
-### Want me to help you build your first week of posts or design your visual brand (color scheme, typefaces, logo ideas)?
+Want me to help you build your first week of posts or design your visual brand (color scheme, typefaces, logo ideas)?  
 I got you — just say the word.
 
 Let’s make thankyoudom a *whole experience*.

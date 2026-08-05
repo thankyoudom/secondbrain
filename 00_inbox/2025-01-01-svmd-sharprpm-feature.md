@@ -2,30 +2,42 @@
 title: "SVMD SharpRPM feature"
 date: 2025-01-01
 source-folder: Notes
-tags: []
+tags: svmd, sharprpm
 ---
 
 # SVMD SharpRPM feature
 
-simplify/discuss confirmation
-requirements/ next step
-standalone sharprm ready for ios & andoid tomorrow
-next meeting? with who?
-————
-accountability partner
+## Key Discussion Points
 
-future
-langchan / training on our own data
-language / audio
-sharprpm/svmd working together
+- Simplify and discuss confirmation flow  
+- Define requirements and next steps  
+- Standalone Sharprpm ready for iOS and Android tomorrow  
+- Next meeting: with whom?  
 
-how do we measure success of the program
+## Accountability
 
-quality check of last sprint vs. this sprint followed by a report
+- Assign an accountability partner  
 
-goal of this program/sprint with sharprpm feature
+## Future Directions
 
-test : how long from onboarding
+- Langchan / training on our own data  
+- Language and audio capabilities  
+- Sharprpm/Svmd working together  
 
-———
-Import metric : button timestamp to confirmation display
+## Success Metrics
+
+- How do we measure the success of the program?  
+- Quality check: last sprint vs. this sprint, followed by a report  
+
+## Program Goals
+
+- Define the goal of this program/sprint with the Sharprpm feature  
+
+## Onboarding Testing
+
+- Test: how long from onboarding to confirmation  
+
+## Key Metric
+
+- Import metric: button timestamp to confirmation display  
+---

@@ -1,3 +1,12 @@
+---
+title: My Neovim Cheatsheet
+date: 2026-07-29
+source-folder: notes/neovim
+tags:
+  - neovim
+  - cheatsheet
+---
+
 # My Neovim Cheatsheet
 
 ## Modes

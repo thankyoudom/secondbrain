@@ -3,9 +3,8 @@ title: "Yep, there **are** a few legit free music distributors that let you…"
 date: 2025-04-16
 source-folder: Notes
 tags:
-  - needs-review
-  - has-links
-  - has-table
+  - music-distribution
+  - free-tools
 review-reasons: has-links
 ---
 
@@ -21,14 +20,14 @@ Yep, there **are** a few legit free music distributors that let you get your mus
 - **Price**: Free, but takes **15%** of your royalties.
 - **Stores Supported**: TikTok, Spotify, Apple Music, YouTube Music, Amazon, etc.
 - **Pros**:
-- 100% free to upload.
-- Decent dashboard.
-- You can upgrade to “Premium” (pay once, keep 100%).
+  - 100% free to upload.
+  - Decent dashboard.
+  - You can upgrade to “Premium” (pay once, keep 100%).
 - **Cons**:
-- Slower approval time (sometimes a week+)
-- Payout threshold is a bit high for small earnings.
+  - Slower approval time (sometimes a week+).
+  - Payout threshold is a bit high for small earnings.
 
-[[routenote.com](https://www.routenote.com)](https://www.routenote.com)
+[[routenote.com](https://www.routenote.com)]
 
 ---
 
@@ -36,13 +35,13 @@ Yep, there **are** a few legit free music distributors that let you get your mus
 - **Price**: Free for basic uploads; takes a **15% cut** of royalties.
 - **Stores Supported**: TikTok, Spotify, Apple, etc.
 - **Pros**:
-- Easy-to-use app (iOS/Android).
-- You can distribute directly from your phone.
+  - Easy-to-use app (iOS/Android).
+  - You can distribute directly from your phone.
 - **Cons**:
-- Free plan has limited support.
-- No custom release dates unless you pay.
+  - Free plan has limited support.
+  - No custom release dates unless you pay.
 
-[[amuse.io](https://www.amuse.io)](https://www.amuse.io)
+[[amuse.io](https://www.amuse.io)]
 
 ---
 
@@ -50,35 +49,35 @@ Yep, there **are** a few legit free music distributors that let you get your mus
 - **Price**: Free plan takes **10%** cut.
 - **Stores Supported**: TikTok, Instagram Music, Spotify, Apple, etc.
 - **Pros**:
-- Strong connection with TikTok & Instagram.
-- Great mobile app, clean UI.
-- Special brand deals (if your music gets traction).
+  - Strong connection with TikTok & Instagram.
+  - Great mobile app, clean UI.
+  - Special brand deals (if your music gets traction).
 - **Cons**:
-- More focused on hip-hop/pop scenes.
-- Some advanced features are paid.
+  - More focused on hip-hop/pop scenes.
+  - Some advanced features are paid.
 
-[[unitedmasters.com](https://www.unitedmasters.com)](https://www.unitedmasters.com)
+[[unitedmasters.com](https://www.unitedmasters.com)]
 
 ---
 
 ### **4. Soundrop**
-- **Price**: Free to upload, but charges **$0.99 per cover song** (if applicable)
-- **Cut**: Takes **15% of royalties**
+- **Price**: Free to upload, but charges **$0.99 per cover song** (if applicable).
+- **Cut**: Takes **15% of royalties**.
 - **Stores Supported**: Spotify, Apple Music, TikTok, etc.
 - **Pros**:
-- Good for niche or gaming/indie artists.
-- Easy royalty splits.
+  - Good for niche or gaming/indie artists.
+  - Easy royalty splits.
 - **Cons**:
-- Not as modern UI.
-- Slower customer service.
+  - Not as modern UI.
+  - Slower customer service.
 
-[[soundrop.com](https://www.soundrop.com)](https://www.soundrop.com)
+[[soundrop.com](https://www.soundrop.com)]
 
 ---
 
 ### **Honorable Mentions:**
-- **Level Music**: Free for unsigned artists (invite-only for some features)
-- **FreshTunes**: 100% free, but based in Russia — use with caution depending on your location
+- **Level Music**: Free for unsigned artists (invite-only for some features).
+- **FreshTunes**: 100% free, but based in Russia — use with caution depending on your location.
 
 ---
 

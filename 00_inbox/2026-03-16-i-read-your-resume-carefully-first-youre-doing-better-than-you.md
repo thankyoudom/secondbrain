@@ -3,8 +3,8 @@ title: "I read your resume carefully. First — you’re doing better than you�
 date: 2026-03-16
 source-folder: Notes
 tags:
-  - needs-review
-  - has-table
+  - devops
+  - ai-platform
 ---
 
 # I read your resume carefully. First — you’re doing better than you…
@@ -13,276 +13,234 @@ I read your resume carefully. First — you’re doing better than you think. Th
 
 I’ll give you a clear strategic assessment of where you are and what paths are realistic for you.
 
-?
-
-1. Where You Actually Stand Right Now
+## 1. Where You Actually Stand Right Now
 
 Based on your resume and what I know about you:
 
 ### Your real profile is
-
 Cloud / Full-Stack Systems Engineer with Data + AI exposure
 
 ### You have experience with
-|  | • | React + Node |
-| --- | --- | --- |
-|  | • | Flutter mobile |
-|  | • | Python |
-|  | • | Firebase / Firestore |
-|  | • | Google Cloud |
-|  | • | CI/CD |
-|  | • | Terraform |
-|  | • | Docker |
-|  | • | Computer Vision integration |
-|  | • | Data pipelines + SQL |
-|  | • | ETL automation |
-|  | • | Analytics background |
+- React + Node
+- Flutter mobile
+- Python
+- Firebase / Firestore
+- Google Cloud
+- CI/CD
+- Terraform
+- Docker
+- Computer Vision integration
+- Data pipelines + SQL
+- ETL automation
+- Analytics background
+
 That is a rare combo.
 
 Most engineers are only one of these:
 
-| Role | Skills |
-| --- | --- |
-| Frontend dev | React |
-| Backend dev | APIs |
-| Cloud engineer | Terraform |
-| Data engineer | pipelines |
-| ML engineer | Python models |
+| Role        | Skills             |
+|-------------|--------------------|
+| Frontend dev | React              |
+| Backend dev  | APIs               |
+| Cloud engineer | Terraform        |
+| Data engineer | pipelines         |
+| ML engineer  | Python models      |
+
 You’ve touched all of them.
 
-That’s why your path feels unclear — you could go 4 directions.
+That’s why your path feels unclear — you could go in four directions.
 
-?
-
-2. The DevOps / Platform Engineer Path (Your Current Plan)
+## 2. The DevOps / Platform Engineer Path (Your Current Plan)
 
 ### Your current plan
-
-GCP Security Professional ? DevOps / Platform Engineer ? Masters
+GCP Security Professional → DevOps / Platform Engineer → Masters
 
 This is a very solid path.
 
 Your resume already aligns well with it.
 
 ### You already have
-|  | • | Terraform cert |
-| --- | --- | --- |
-|  | • | GCP ACE |
-|  | • | Docker |
-|  | • | CI/CD |
-|  | • | Cloud Functions |
-|  | • | GKE exposure |
-|  | • | Linux |
+- Terraform cert
+- GCP ACE
+- Docker
+- CI/CD
+- Cloud Functions
+- GKE exposure
+- Linux
+
 You’re 1 year away from being very competitive.
 
 ### But here’s the key insight
-
-?? DevOps alone doesn’t fully leverage your background.
+DevOps alone doesn’t fully leverage your background.
 
 ### You also have
-|  | • | product development |
-| --- | --- | --- |
-|  | • | frontend |
-|  | • | AI integration |
-|  | • | analytics |
-|  | • | creative thinking |
+- Product development
+- Frontend experience
+- AI integration
+- Analytics
+- Creative thinking
+
 DevOps engineers usually don’t build products.
 
 You do.
 
-?
-
-3. The 4 Real Career Paths Available To You
+## 3. The 4 Real Career Paths Available To You
 
 You actually have four strong paths.
 
-Path 1 — Platform / DevOps Engineer (your current plan)
+### Path 1 — Platform / DevOps Engineer (Your Current Plan)
 
-### Focus
-|  | • | Terraform |
-| --- | --- | --- |
-|  | • | Kubernetes |
-|  | • | GCP |
-|  | • | Observability |
-|  | • | CI/CD |
-|  | • | security |
-### Target companies
-|  | • | SaaS |
-| --- | --- | --- |
-|  | • | fintech |
-|  | • | health tech |
-|  | • | infrastructure startups |
-### Salary trajectory
+**Focus**
+- Terraform
+- Kubernetes
+- GCP
+- Observability
+- CI/CD
+- Security
 
-DevOps Engineer: 120k
-Senior: 160k
-Staff: 200k+
+**Target companies**
+- SaaS
+- Fintech
+- Health tech
+- Infrastructure startups
 
-### Pros
-|  | • | strong job market |
-| --- | --- | --- |
-|  | • | clear skills |
-|  | • | remote friendly |
-### Cons
-|  | • | less creative |
-| --- | --- | --- |
-|  | • | not product focused |
-?
+**Salary trajectory**
+- DevOps Engineer: $120k
+- Senior: $160k
+- Staff: $200k+
 
-Path 2 — Data / AI Platform Engineer (very strong fit)
+**Pros**
+- Strong job market
+- Clear skills
+- Remote friendly
+
+**Cons**
+- Less creative
+- Not product focused
+
+### Path 2 — Data / AI Platform Engineer (Very Strong Fit)
 
 This is very aligned with your background.
 
-### You already have
-|  | • | Python |
-| --- | --- | --- |
-|  | • | analytics |
-|  | • | cloud |
-|  | • | AI APIs |
-|  | • | ETL |
-|  | • | pipelines |
-### Focus
-|  | • | ML pipelines |
-| --- | --- | --- |
-|  | • | data infrastructure |
-|  | • | feature stores |
-|  | • | data processing |
-|  | • | AI systems |
-### Tools
-|  | • | Python |
-| --- | --- | --- |
-|  | • | Airflow |
-|  | • | Spark |
-|  | • | Kafka |
-|  | • | BigQuery |
-|  | • | Vertex AI |
-|  | • | Docker |
-|  | • | Terraform |
-This is the role Google hires a lot of.
+**You already have**
+- Python
+- Analytics
+- Cloud
+- AI APIs
+- ETL
+- Pipelines
 
-### Salary trajectory
+**Focus**
+- ML pipelines
+- Data infrastructure
+- Feature stores
+- Data processing
+- AI systems
 
-ML Platform Engineer
-Data Platform Engineer
-AI Infrastructure Engineer
+**Tools**
+- Python
+- Airflow
+- Spark
+- Kafka
+- BigQuery
+- Vertex AI
+- Docker
+- Terraform
 
-### These often reach
+**Salary trajectory**
+- ML Platform Engineer
+- Data Platform Engineer
+- AI Infrastructure Engineer
 
-$160k – $250k
+**These often reach**
+$160k – $250-250k
 
-?
+### Path 3 — Founding / Product Engineer (Your Hidden Strength)
 
-Path 3 — Founding / Product Engineer (your hidden strength)
-
-### Your resume screams
-
+**Your resume screams**
 builder
 
-### You built
-|  | • | mobile app |
-| --- | --- | --- |
-|  | • | cloud backend |
-|  | • | AI feature |
-|  | • | web portal |
-|  | • | CI/CD |
+**You built**
+- Mobile app
+- Cloud backend
+- AI feature
+- Web portal
+- CI/CD
+
 This is startup engineer DNA.
 
-Companies love this.
+**You could be**
+- Founding Engineer
+- Product Engineer
+- Full Stack + Cloud Engineer
 
-### You could be
+**Salary**
+130k–200k + equity
 
-Founding Engineer
-Product Engineer
-Full Stack + Cloud Engineer
+This path fits your creative and technical personality.
 
-### Salary
-
-130k–200k
-+ equity
-
-This path fits your creative + technical personality.
-
-?
-
-Path 4 — Technical Creative / Interactive Systems Engineer
+### Path 4 — Technical Creative / Interactive Systems Engineer
 
 This one is rare but very you.
 
-### Because you have
-|  | • | graphic design degree |
-| --- | --- | --- |
-|  | • | 3D |
-|  | • | ThreeJS |
-|  | • | data visualization |
-|  | • | music production |
-|  | • | engineering |
-### You could eventually work in
-|  | • | generative media |
-| --- | --- | --- |
-|  | • | immersive interfaces |
-|  | • | AI art |
-|  | • | simulation tools |
-### Companies like
-|  | • | Apple |
-| --- | --- | --- |
-|  | • | Google Creative Lab |
-|  | • | design-engineering teams |
+**Because you have**
+- Graphic design degree
+- 3D
+- ThreeJS
+- Data visualization
+- Music production
+- Engineering
+
+**You could eventually work in**
+- Generative media
+- Immersive interfaces
+- AI art
+- Simulation tools
+
+**Companies like**
+- Apple
+- Google Creative Lab
+- Design-engineering teams
+
 But this is a longer path.
 
-?
-
-4. The Masters Question
+## 4. The Masters Question
 
 You asked about a masters degree.
 
-### My honest answer
+**My honest answer**
+Do not rush a masters.
 
-?? Do not rush a masters.
+**First secure a role like**
+- Platform Engineer
+- Data Platform Engineer
+- DevOps Engineer
 
-### First secure a role like
+Work for 2 years.
 
-Platform Engineer
-Data Platform Engineer
-DevOps Engineer
-
-Work 2 years.
-
-### Then consider
-
+**Then consider**
 Best Masters Options
 
-Option 1
-
-MS Computer Science
-(with distributed systems focus)
-
+**Option 1**
+MS Computer Science (with distributed systems focus)  
 Best long term.
 
-?
-
-Option 2
-
-MS Data Science / ML
-
+**Option 2**
+MS Data Science / ML  
 If you lean toward AI.
 
-?
-
-Option 3 (very powerful)
-
+**Option 3 (very powerful)**
 MS Systems Engineering
 
-### Focus
-|  | • | distributed systems |
-| --- | --- | --- |
-|  | • | infrastructure |
-|  | • | reliability |
-|  | • | scaling |
+**Focus**
+- Distributed systems
+- Infrastructure
+- Reliability
+- Scaling
+
 Very aligned with platform engineering.
 
-?
-
-5. One Big Thing You May Be Overlooking
+## 5. One Big Thing You May Be Overlooking
 
 You might be underestimating the power of open source + public work.
 
@@ -290,146 +248,96 @@ For someone like you, this is huge.
 
 You should be building visible engineering credibility.
 
-### Examples
+**Examples**
 
-Build things like
+1. GCP infrastructure template repo  
+`gcp-production-platform-template`  
+Includes:
+- Terraform
+- Kubernetes
+- Monitoring
+- Logging
+- CI/CD
 
-1?? GCP infrastructure template repo
+2. AI healthcare demo system  
+`vital-signs-ai-pipeline`  
+**Pipeline**
+- Device photo
+- Computer vision
+- Data pipeline
+- Dashboard
 
-gcp-production-platform-template
-
-### Includes
-|  | • | terraform |
-| --- | --- | --- |
-|  | • | kubernetes |
-|  | • | monitoring |
-|  | • | logging |
-|  | • | CI/CD |
-?
-
-2?? AI healthcare demo system
-
-vital-signs-ai-pipeline
-
-### Pipeline
-
-device photo
-? computer vision
-? data pipeline
-? dashboard
-
-This matches your real work.
-
-?
-
-3?? engineering blog
-
-### Write about
-
-How I built a medical AI pipeline on GCP
-Terraform patterns
-React + Firebase architecture
+3. Engineering blog  
+**Write about**
+- How I built a medical AI pipeline on GCP
+- Terraform patterns
+- React + Firebase architecture
 
 This attracts recruiters.
 
-?
+## 6. Your Hidden Superpower
 
-6. Your Hidden Superpower
-
-### Most engineers are either
-
-technical
-
-or
-
-creative
+Most engineers are either:
+- Technical
+- Or creative
 
 You are both.
 
-### You have
-|  | • | design |
-| --- | --- | --- |
-|  | • | music |
-|  | • | systems |
-|  | • | cloud |
-|  | • | AI |
+**You have**
+- Design
+- Music
+- Systems
+- Cloud
+- AI
+
 This combination is very rare.
 
-### People like this become
+People like this become:
+- Technical founders
+- Product architects
+- Creative technologists
 
-technical founders
-product architects
-creative technologists
-
-?
-
-7. My Honest Career Advice For You
+## 7. My Honest Career Advice For You
 
 Here is the strategy I would follow if I were you.
 
-Phase 1 (now – 6 months)
+**Phase 1 (now – 6 months)**
+- Finish
+  - GCP Security Professional
+  - Kubernetes deeper knowledge
+  - Terraform advanced
+- Apply for
+  - Platform Engineer
+  - DevOps Engineer
+  - Cloud Engineer
 
-### Finish
+**Phase 2 (2–3 years)**
+- Move toward
+  - Data Platform Engineer
+  - AI Infrastructure Engineer
+  - Staff Platform Engineer
 
-? GCP Security Professional
-? Kubernetes deeper knowledge
-? Terraform advanced
+**Phase 3 (age ~33)**
+- Then consider
+  - Masters in CS or Systems
 
-### Apply for
+## 8. One Final Thought (Important)
 
-Platform Engineer
-DevOps Engineer
-Cloud Engineer
-
-?
-
-Phase 2 (2–3 years)
-
-### Move toward
-
-Data Platform Engineer
-AI Infrastructure Engineer
-Staff Platform Engineer
-
-?
-
-Phase 3 (age ~33)
-
-### Then consider
-
-Masters in CS or Systems
-
-?
-
-8. One Final Thought (important)
-
-### You said
-
+You said:  
 “I don’t feel like I have the foundation I would like”
 
 But look at your resume again.
 
-### You have built
-|  | • | mobile apps |
-| --- | --- | --- |
-|  | • | cloud infrastructure |
-|  | • | analytics systems |
-|  | • | computer vision features |
-|  | • | production deployments |
+**You have built**
+- Mobile apps
+- Cloud infrastructure
+- Analytics systems
+- Computer vision features
+- Production deployments
+
 That is a foundation.
 
-### What you’re actually missing is just
-
+**What you’re actually missing is just**
 1 focused specialization
 
 Once that locks in, your career will accelerate fast.
-
-?
-
-? If you’d like, I can also show you:
-
-1?? The 10 engineering skills that would most accelerate your career right now
-
-2?? The exact job titles you should be applying to (many people miss the right ones)
-
-3?? A 12-month roadmap that could realistically get you to a $150k+ engineering role.

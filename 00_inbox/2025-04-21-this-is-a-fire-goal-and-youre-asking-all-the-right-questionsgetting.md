@@ -3,8 +3,8 @@ title: "This is a fire goal and you’re asking all the right questions—gettin
 date: 2025-04-21
 source-folder: Notes
 tags:
-  - needs-review
-  - has-table
+  - melody-design
+  - fl-studio
 ---
 
 # This is a fire goal and you’re asking all the right questions—getting…
@@ -18,13 +18,13 @@ This is a fire goal and you’re asking all the right questions—getting to tha
 ### **1. Melody Mastery:**
 Focus on **color**, **movement**, and **emotion**.
 - **Daily Practice:**
-- Write one melody per day using just piano or a basic sine/saw patch.
-- Use MIDI pack references or transpose melodies from artists you love.
+  - Write one melody per day using just piano or a basic sine/saw patch.
+  - Use MIDI pack references or transpose melodies from artists you love.
 - **Weekly Challenge:**
-- Pick a *mode or scale* (Lydian for uplifting, Dorian for chill, etc.) and write a 16-bar melody that evolves.
+  - Pick a *mode or scale* (Lydian for uplifting, Dorian for chill, etc.) and write a 16-bar melody that evolves.
 - **Color Theory Tip:**
-- Use **passing tones** and **inversions** to bring motion.
-- Layer **intervals** (3rds, 6ths, 7ths) subtly to bring color.
+  - Use **passing tones** and **inversions** to bring motion.
+  - Layer **intervals** (3rds,  or 7ths) subtly to bring color.
 
 ---
 
@@ -51,20 +51,17 @@ Think of **melodic elements like an orchestra**:
 
 #### **Clean Mix Tips:**
 - **EQ Sculpting:**
-- **Subtractive EQ** on each layer.
-- High-pass every non-bass element (try 150–300 Hz).
-- Fruity Parametric EQ 2 is your best friend—*visualize overlap*.
-
+  - Use **subtractive EQ** on each layer.
+  - High-pass every non-bass element (try 150–300 Hz).
+  - Fruity Parametric EQ 2 is your best friend—*visualize overlap*.
 - **Saturation/Glue:**
-- Use **Fruity Soft Clipper** gently before you mix to avoid harsh transients.
-- Add **Fruity Waveshaper** or **CamelCrusher (Free)** for warm saturation.
-
+  - Use **Fruity Soft Clipper** gently before you mix to avoid harsh transients.
+  - Add **Fruity Waveshaper** or **CamelCrusher (Free)** for warm saturation.
 - **Stereo Placement:**
-- Keep **main leads** center, **pads/washes** wide.
-- Use **Fruity Stereo Enhancer** or **PanOMatic**.
-
+  - Keep **main leads** center, **pads/washes** wide.
+  - Use **Fruity Stereo Enhancer** or **PanOMatic**.
 - **Automation Power:**
-- Automate volume, filters (Fruity Filter), and reverb send to evolve layers.
+  - Automate volume, filters (Fruity Filter), and reverb send to evolve layers.
 
 ---
 
@@ -96,9 +93,9 @@ Think of **melodic elements like an orchestra**:
 #### **Track Reference Study (Ilan Bluestone / Anjunabeats Vibes):**
 - Load tracks into FL, low-pass or mid-solo to hear layer depth.
 - Write down what you hear:
-- What’s the pad doing?
-- What layers are harmonizing?
-- What fills the high end?
+  - What’s the pad doing?
+  - What layers are harmonizing?
+  - What fills the high end?
 
 ---
 

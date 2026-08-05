@@ -2,21 +2,33 @@
 title: "Belle IT site"
 date: 2025-08-07
 source-folder: Notes
-tags: []
+tags: ["belle-it", "it-site"]
 ---
 
-# Belle IT site
+# Belle IT Site
 
-business overview pdf
-Contact link in blog
-Testimonials
-Products
+## Business Overview
+- Business overview PDF available
 
-twitter
-first blog post,
-first post for linkedin
-first post twitter
-cleanup GitHub
-favicon
-birthdate of BelleIT bank account
-chicago videos
+## Contact
+- Contact link in blog
+
+## Testimonials
+- Customer testimonials section
+
+## Products
+- List of products
+
+## Social Media
+- Twitter
+- LinkedIn
+- First post on Twitter
+- First post on LinkedIn
+
+## Development
+- Cleanup GitHub repository
+- Favicon implementation
+
+## Key Details
+- Birthdate of BelleIT bank account
+- Chicago videos

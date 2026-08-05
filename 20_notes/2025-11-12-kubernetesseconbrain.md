@@ -1,9 +1,10 @@
 ---
 title: KubernetesSeconBrain
-tags: [zk]
+tags: [zk, kubernetes]
 ---
 
 # KubernetesSeconBrain
+
 # GCP Deployment Guide
 
 Deploy SecondBrain to Google Cloud Platform with K3s for increased compute resources.
@@ -16,7 +17,6 @@ Deploy SecondBrain to Google Cloud Platform with K3s for increased compute resou
 
 ## 1. Create GCP VM
 
-```bash
 gcloud compute instances create secondbrain-k3s \
   --machine-type=e2-standard-4 \
   --zone=us-central1-a \
@@ -24,7 +24,6 @@ gcloud compute instances create secondbrain-k3s \
   --image-project=ubuntu-os-cloud \
   --project=secondbrain \
   --boot-disk-size=200GB
-```
 
 **Specs:**
 - Machine: e2-standard-4 (4 vCPUs, 16GB RAM)
@@ -42,36 +41,29 @@ gcloud compute instances create secondbrain-k3s \
 
 ### Via Terminal
 
-```bash
 gcloud compute ssh secondbrain-k3s --zone=us-central1-a
-```
 
 ## 3. Install Software on VM
 
 ### Install K3s
 
-```bash
 curl -sfL https://get.k3s.io | sh -
 sleep 30
 sudo k3s kubectl get nodes
-```
 
 Wait until node shows **Ready** status.
 
 ### Install Docker
 
-```bash
 sudo apt update
 sudo apt install -y docker.io
 sudo usermod -aG docker $USER
 newgrp docker
-```
 
 ## 4. Transfer Files
 
 On your **local machine** (new terminal):
 
-```bash
 # Navigate to project directory
 cd /path/to/your/secondbrain/project
 
@@ -86,7 +78,6 @@ gcloud compute scp --recurse scripts/ secondbrain-k3s:~/scripts/ \
 # Copy your notes
 gcloud compute scp --recurse ~/SecondBrain secondbrain-k3s:~/ \
   --zone=us-central1-a
-```
 
 This may take a few minutes depending on your SecondBrain folder size.
 
@@ -94,19 +85,16 @@ This may take a few minutes depending on your SecondBrain folder size.
 
 Back in your **GCP SSH session**:
 
-```bash
 cd ~
 docker build -t secondbrain-docker:latest .
 
 # Import image into k3s
 docker save secondbrain-docker:latest | sudo k3s ctr images import -
-```
 
 ## 6. Create Kubernetes Configuration
 
 Create deployment file:
 
-```bash
 cat > ~/k8s-deploy.yaml << 'EOF'
 apiVersion: v1
 kind: Namespace
@@ -150,9 +138,9 @@ spec:
           mountPath: /root/.ollama
         resources:
           limits:
-            memory: "12Gi"
+            memory: \"12Gi\"
           requests:
-            memory: "4Gi"
+            memory: \"4Gi\"
       volumes:
       - name: ollama-data
         persistentVolumeClaim:
@@ -192,21 +180,21 @@ spec:
         imagePullPolicy: Never
         env:
         - name: OLLAMA_HOST
-          value: "http://ollama:11434"
+          value: \"http://ollama:11434\"
         - name: OLLAMA_NUM_PARALLEL
-          value: "1"
+          value: \"1\"
         - name: OLLAMA_MAX_LOADED_MODELS
-          value: "1"
+          value: \"1\"
         - name: OLLAMA_KEEP_ALIVE
-          value: "5m"
+          value: \"5m\"
         resources:
           limits:
-            memory: "2Gi"
+            memory: \"2Gi\"
           requests:
-            memory: "800Mi"
+            memory: \"800Mi\"
         stdin: true
         tty: true
-        command: ["/bin/bash"]
+        command: [\"/bin/bash\"]
         volumeMounts:
         - name: secondbrain-data
           mountPath: /home/dev/SecondBrain
@@ -216,30 +204,25 @@ spec:
           path: /home/$USER/SecondBrain
           type: Directory
 EOF
-```
 
 ## 7. Deploy to K3s
 
-```bash
 # Apply configuration
 sudo k3s kubectl apply -f k8s-deploy.yaml
 
 # Watch pods start (takes 1-2 minutes)
 sudo k3s kubectl get pods -n secondbrain -w
-```
 
 Press **Ctrl+C** when both pods show `Running` and `1/1` ready.
 
 ## 8. Access Your SecondBrain
 
-```bash
 # Get pod name
 POD_NAME=$(sudo k3s kubectl get pod -n secondbrain -l app=secondbrain \
   -o jsonpath='{.items[0].metadata.name}')
 
 # Connect interactively
 sudo k3s kubectl exec -it -n secondbrain $POD_NAME -- /bin/bash
-```
 
 You're now inside your SecondBrain environment! 🎉
 
@@ -247,7 +230,6 @@ You're now inside your SecondBrain environment! 🎉
 
 Inside the container:
 
-```bash
 # Test Ollama connection
 curl http://ollama:11434/api/tags
 
@@ -256,67 +238,54 @@ ls ~/SecondBrain
 
 # Start working
 vim
-```
 
 ## Useful Management Commands
 
 ### Check Status
 
-```bash
 # Pod status
 sudo k3s kubectl get pods -n secondbrain
 
 # View logs
 sudo k3s kubectl logs -n secondbrain -l app=ollama
 sudo k3s kubectl logs -n secondbrain -l app=secondbrain
-```
 
 ### Reconnect Anytime
 
-```bash
 sudo k3s kubectl exec -it -n secondbrain \
   $(sudo k3s kubectl get pod -n secondbrain -l app=secondbrain \
   -o jsonpath='{.items[0].metadata.name}') -- /bin/bash
-```
 
 ### Update Deployment
 
-```bash
 # After making changes to k8s-deploy.yaml
 sudo k3s kubectl apply -f k8s-deploy.yaml
-```
 
 ### Cleanup
 
-```bash
 # Delete deployment
 sudo k3s kubectl delete -f k8s-deploy.yaml
 
 # Delete namespace (removes everything)
 sudo k3s kubectl delete namespace secondbrain
-```
 
 ## Troubleshooting
 
 ### Pods not starting
 
-```bash
 # Check pod details
 sudo k3s kubectl describe pod -n secondbrain <pod-name>
 
 # Check events
 sudo k3s kubectl get events -n secondbrain
-```
 
 ### Ollama connection issues
 
-```bash
 # Check Ollama service
 sudo k3s kubectl get svc -n secondbrain
 
 # Test from SecondBrain pod
 curl http://ollama.secondbrain.svc.cluster.local:11434/api/tags
-```
 
 ### Out of memory
 
@@ -329,12 +298,10 @@ If Ollama crashes, you may need to:
 
 To save costs:
 
-```bash
 # Stop VM when not in use
 gcloud compute instances stop secondbrain-k3s --zone=us-central1-a
 
 # Start when needed
 gcloud compute instances start secondbrain-k3s --zone=us-central1-a
-```
 
 Only pay for disk storage (~$20/month) when stopped.

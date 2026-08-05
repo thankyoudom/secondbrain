@@ -12,6 +12,13 @@
 # script captures stdout and writes it back to disk itself.
 set -uo pipefail
 VAULT_DIR="${1:-$HOME/Documents/repos/secondbrain}"
+SINGLE_FILE=""
+if [ "${1:-}" = "--file" ]; then
+  VAULT_DIR="$HOME/Documents/repos/secondbrain"
+  SINGLE_FILE="$2"
+elif [ "${2:-}" = "--file" ]; then
+  SINGLE_FILE="$3"
+fi
 LOG_FILE="$VAULT_DIR/.zk-cleanup.log"
 DONE_FILE="$VAULT_DIR/.zk-cleanup-done.txt"
 FILE_LIST="$VAULT_DIR/.zk-cleanup-filelist.txt"
@@ -32,7 +39,23 @@ body_word_count() {
   ' "$1" | wc -w | tr -d ' '
 }
 
-find "$VAULT_DIR" -type f -name '*.md' -not -path "$TRASH_DIR/*" | sort > "$FILE_LIST"
+if [ -n "$SINGLE_FILE" ]; then
+  # single-file mode: run the exact same pipeline below, but on one file,
+  # ignoring DONE_FILE (always reprocess) so a previously-failed file
+  # gets a real retry even if it somehow got marked done before.
+  if [[ "$SINGLE_FILE" != /* ]]; then
+    SINGLE_FILE="$VAULT_DIR/$SINGLE_FILE"
+  fi
+  if [ ! -f "$SINGLE_FILE" ]; then
+    echo "File not found: $SINGLE_FILE"
+    exit 1
+  fi
+  printf '%s\n' "$SINGLE_FILE" > "$FILE_LIST"
+  grep -vF "$SINGLE_FILE" "$DONE_FILE" > "$DONE_FILE.tmp" 2>/dev/null || true
+  mv "$DONE_FILE.tmp" "$DONE_FILE" 2>/dev/null || true
+else
+  find "$VAULT_DIR" -type f -name '*.md' -not -path "$TRASH_DIR/*" | sort > "$FILE_LIST"
+fi
 TOTAL=$(wc -l < "$FILE_LIST" | tr -d ' ')
 COUNT=0
 SKIPPED=0
@@ -88,7 +111,7 @@ $CONTENT
   # tool access (file search etc). On a plain formatting task it went off
   # and pulled unrelated files from across the vault into the output. This
   # needs to be a plain completion, not an agent session.
-  RAW_OUTPUT=$(cd "$VAULT_DIR" && opencode run "$PROMPT" 2>>"$LOG_FILE")
+  RAW_OUTPUT=$(cd "$VAULT_DIR" && opencode run "$PROMPT" < /dev/null 2>>"$LOG_FILE")
 
   # strip the CLI's own "> build · <model>" status line and any stray
   # code-fence wrapper the model might add despite instructions not to
@@ -109,7 +132,7 @@ $CONTENT
   IN_WC=$(printf '%s\n' "$CONTENT" | wc -w | tr -d ' ')
   OUT_WC=$(printf '%s\n' "$CLEANED" | wc -w | tr -d ' ')
   # flag degenerate repetition: count lines appearing 5+ times
-  DUPE_LINES=$(printf '%s\n' "$CLEANED" | sort | uniq -c | awk '$1>=5' | wc -l | tr -d ' ')
+  DUPE_LINES=$(printf '%s\n' "$CLEANED" | grep -v '^[[:space:]]*$' | sort | uniq -c | awk '$1>=15' | wc -l | tr -d ' ')
 
   # sanity checks — do NOT overwrite the original file unless all pass:
   # 1. starts with YAML frontmatter
@@ -130,5 +153,5 @@ $CONTENT
   fi
 done < "$FILE_LIST"
 echo
-echo "Done. $((COUNT - SKIPPED - TRASHED)) processed, $TRASHED trashed, $SKIPPED skipped, $FAILED failed."
+echo "Done. $((COUNT - SKIPPED - TRASHED - FAILED)) processed, $TRASHED trashed, $SKIPPED skipped, $FAILED failed."
 echo "Check $LOG_FILE for details on any failures."

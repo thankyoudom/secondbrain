@@ -2,7 +2,7 @@
 title: "Perfect—let’s dial this in for **music production + photography**, keep…"
 date: 2025-04-15
 source-folder: Notes
-tags: []
+tags: music-production photography
 ---
 
 # Perfect—let’s dial this in for **music production + photography**, keep…
@@ -11,7 +11,7 @@ Perfect—let’s dial this in for **music production + photography**, keep it *
 
 ---
 
-## **Week 1 – "Excavation + Permission to Play" (Music & Photo Edition)**
+## **Week 1 – \"Excavation + Permission to Play\" (Music & Photo Edition)**
 
 ### **Daily Structure**
 - **Morning Pages** *(daily)* – Clear the mental clutter. Think of it like tuning your creative instrument.
@@ -31,7 +31,7 @@ Perfect—let’s dial this in for **music production + photography**, keep it *
 - **Optional**: Add absurd lyrics or vocal effects.
 - **Why**: Loosens perfectionism, reclaims play.
 
-**Day 3 – Sonic Moodboard (Inspired by…)**
+**Day  3 – Sonic Moodboard (Inspired by…)**
 - **Task**: Choose a producer/artist you admire. Don’t listen to them today. Instead, make a 30-sec track or loop *inspired by* their vibe/aesthetic.
 - **Why**: Build your *voice* by channeling—not copying—influence.
 
@@ -49,9 +49,9 @@ Perfect—let’s dial this in for **music production + photography**, keep it *
 
 **Day 7 – Reflection + Taste Audit**
 - **Task**: Journal:
-- What sounds felt fun to make?
-- What surprised you?
-- What do you want to explore more next week?
+  - What sounds felt fun to make?
+  - What surprised you?
+  - What do you want to explore more next week?
 - **Bonus**: Write a letter *from* your inner artist/producer to future you.
 
 ---
@@ -65,3 +65,4 @@ Perfect—let’s dial this in for **music production + photography**, keep it *
 ---
 
 Want me to build out Week 2 next? Or would you rather keep this a loose framework to pull from?
+---
