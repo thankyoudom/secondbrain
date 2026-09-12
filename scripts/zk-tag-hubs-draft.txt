@@ -1,0 +1,82 @@
+# .zk-tag-hubs.txt — DRAFT, review before use.
+# Format: specific-tag=hub-tag
+# Meaning: any note carrying specific-tag gets hub-tag ADDED alongside it
+# (the specific tag is never removed). This is for surfacing clusters in
+# Obsidian's graph/tag pane without losing granularity.
+# Lines starting with # are ignored.
+
+# --- Islam cluster -> hub: islam ---
+islamic-principles=islam
+islamic-values=islam
+islamic-studies=islam
+islamic-philosophy=islam
+islamic-performance=islam
+islamic-minimalism=islam
+islamic-life=islam
+islamic-education=islam
+islamic-art=islam
+islam-wine=islam
+muslim=islam
+muslim-communities=islam
+quran=islam
+quranic-arabic=islam
+hadith=islam
+hikmah=islam
+islamic-finance=islam
+shariah-compliant=islam
+
+# --- Music production cluster -> hub: music-production ---
+music-producer=music-production
+audio-production=music-production
+record-production=music-production
+music-workflows=music-production
+music-production-deals=music-production
+music-producers=music-production
+producer-niches=music-production
+producer-deal=music-production
+production-style=music-production
+production-philosophy=music-production
+
+# --- Mixing cluster -> hub: mixing ---
+mixing-techniques=mixing
+mixing-checklist=mixing
+mix-template=mixing
+audio-mixing=mixing
+
+# --- Cloud cluster -> hub: cloud-engineering ---
+cloud=cloud-engineering
+cloud-devops=cloud-engineering
+cloud-security=cloud-engineering
+cloud-networking=cloud-engineering
+cloud-infrastructure=cloud-engineering
+cloud-computing=cloud-engineering
+cloud-certifications=cloud-engineering
+cloud-certification=cloud-engineering
+gcp-certifications=gcp
+
+# --- Personal growth cluster -> hub: personal-growth ---
+personal-development=personal-growth
+self-development=personal-growth
+self-mastery=personal-growth
+self-reflection=personal-growth
+self-awareness=personal-growth
+self-study=personal-growth
+growth=personal-growth
+
+# --- Stoicism cluster -> hub: stoicism ---
+stoic-philosophy=stoicism
+stoic=stoicism
+
+# --- TikTok cluster -> hub: tiktok ---
+tiktok-growth=tiktok
+tiktok-strategy=tiktok
+tiktok-distribution=tiktok
+tiktok-branding=tiktok
+tiktok-beat-production=tiktok
+social-media-growth=social-media
+social-media-music=social-media
+
+# --- Astrology cluster -> hub: astrology (shakiest one — the individual
+#     sign/placement tags are pretty specific, consider dropping most of
+#     these and keeping only astrological-analysis) ---
+astrological-analysis=astrology

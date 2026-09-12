@@ -1,0 +1,9 @@
+# .zk-tag-aliases.txt — true spelling/formatting duplicates only.
+# These get REPLACED (not appended) since they're the same tag, misspelled.
+# Format: oldtag=canonical-tag
+
+lofi=lo-fi
+lofi-soul=lo-fi
+flstudio=fl-studio
+beatmaking=beat-making
+beat-tapes=beat-tape
