@@ -49,13 +49,35 @@ if [ ! -f "$HUBS_FILE" ]; then
   exit 1
 fi
 
-declare -A HUBMAP
-while IFS='=' read -r k v; do
-  [[ "$k" =~ ^[[:space:]]*# ]] && continue
-  [ -z "$k" ] && continue
-  [ -z "${v:-}" ] && continue
-  HUBMAP["$k"]="$v"
-done < "$HUBS_FILE"
+# NOTE: this script intentionally avoids associative arrays (`declare -A`)
+# and `mapfile`/`readarray` — both are bash 4+ only. macOS ships bash 3.2
+# as /bin/bash (last GPLv2 release; Apple never upgraded it), so any
+# script relying on them fails there with "declare: -A: invalid option"
+# followed by confusing knock-on errors as the rest of the script treats
+# the half-created array as a normal indexed one.
+CLEAN_HUBS="$(mktemp)"
+trap 'rm -f "$CLEAN_HUBS"' EXIT
+grep -v '^[[:space:]]*#' "$HUBS_FILE" | grep -v '^[[:space:]]*$' | grep '=' > "$CLEAN_HUBS" || true
+HUB_COUNT=$(wc -l < "$CLEAN_HUBS" | tr -d ' ')
+
+lookup_hub() {
+  # specific-tag -> hub-tag, or empty if none. Exact-match on the left
+  # side of "key=value" lines in the cleaned hubs file.
+  awk -F'=' -v k="$1" '$1==k{print $2; exit}' "$CLEAN_HUBS"
+}
+
+array_contains() {
+  # array_contains needle "${arr[@]-}"  — bash-3.2-safe: expanding an
+  # empty/unset array under `set -u` with plain "${arr[@]}" throws
+  # "unbound variable" on bash <4.4, so every call site below passes
+  # "${arr[@]-}" (note the -) instead.
+  local needle="$1"; shift
+  local x
+  for x in "$@"; do
+    [ "$x" = "$needle" ] && return 0
+  done
+  return 1
+}
 
 extract_raw_tags() {
   awk '
@@ -91,9 +113,17 @@ build_tag_block() {
 }
 
 rewrite_file_tags() {
-  local file="$1" newblock="$2"
-  awk -v newblock="$newblock" '
-    BEGIN { infm=0; done=0; skipping=0 }
+  local file="$1" newblock="$2" newblock_esc
+  # awk -v assignments containing a literal newline byte fail to parse on
+  # BWK/"one true awk" (macOS /usr/bin/awk, Debian's original-awk) with
+  # "newline in string ... at source line 1", producing empty stdout.
+  # gawk tolerates it silently, which is why this only broke on macOS.
+  # Fix: escape real newlines to the two-char sequence \n in bash first
+  # (safe for -v on every awk), then unescape them back to real newlines
+  # inside the awk program before printing.
+  newblock_esc=$(printf '%s' "$newblock" | awk 'NR>1{printf "\\n"} {printf "%s", $0}')
+  awk -v newblock="$newblock_esc" '
+    BEGIN { infm=0; done=0; skipping=0; gsub(/\\n/, "\n", newblock) }
     NR==1 && /^---[[:space:]]*$/ { infm=1; print; next }
     infm && /^---[[:space:]]*$/ { infm=0; print; next }
     infm && !done && /^tags:[[:space:]]*\[/ { print newblock; done=1; next }
@@ -116,7 +146,7 @@ TOTAL=$(wc -l < "$FILE_LIST" | tr -d ' ')
 COUNT=0
 CHANGED=0
 echo "Found $TOTAL markdown files under $VAULT_DIR"
-echo "Loaded ${#HUBMAP[@]} hub mappings from $HUBS_FILE"
+echo "Loaded $HUB_COUNT hub mappings from $HUBS_FILE"
 echo "Mode: $([ "$APPLY" -eq 1 ] && echo APPLY || echo 'dry run (report only)')"
 echo
 
@@ -129,15 +159,20 @@ while IFS= read -r FILE; do
     continue
   fi
 
-  mapfile -t ORIG_TAGS < <(extract_raw_tags "$FILE" | while IFS= read -r t; do clean_tag "$t"; done | grep -v '^$')
+  ORIG_TAGS=()
+  while IFS= read -r t; do
+    [ -z "$t" ] && continue
+    ORIG_TAGS+=("$t")
+  done < <(extract_raw_tags "$FILE" | while IFS= read -r t; do clean_tag "$t"; done | grep -v '^$')
 
-  declare -A FINAL
+  FINAL_TAGS=()
   ADDED=()
-  for t in "${ORIG_TAGS[@]}"; do
-    FINAL["$t"]=1
-    hub="${HUBMAP[$t]:-}"
-    if [ -n "$hub" ] && [ -z "${FINAL[$hub]:-}" ]; then
-      FINAL["$hub"]=1
+  for t in "${ORIG_TAGS[@]-}"; do
+    [ -z "$t" ] && continue
+    array_contains "$t" "${FINAL_TAGS[@]-}" || FINAL_TAGS+=("$t")
+    hub=$(lookup_hub "$t")
+    if [ -n "$hub" ] && ! array_contains "$hub" "${FINAL_TAGS[@]-}"; then
+      FINAL_TAGS+=("$hub")
       ADDED+=("$hub (via $t)")
     fi
   done
@@ -145,17 +180,23 @@ while IFS= read -r FILE; do
   if [ "${#ADDED[@]}" -gt 0 ]; then
     printf "\r[%d/%d] +hubs: %s -> %s\n" "$COUNT" "$TOTAL" "$REL" "$(IFS=,; echo "${ADDED[*]}")"
     if [ "$APPLY" -eq 1 ]; then
-      NEWBLOCK=$(printf '%s\n' "${!FINAL[@]}" | build_tag_block)
+      NEWBLOCK=$(printf '%s\n' "${FINAL_TAGS[@]-}" | build_tag_block)
       NEW_CONTENT=$(rewrite_file_tags "$FILE" "$NEWBLOCK")
-      printf '%s\n' "$NEW_CONTENT" > "$FILE"
-      CHANGED=$((CHANGED + 1))
-      echo "ADDED to $REL: $(IFS=,; echo "${ADDED[*]}")" >> "$LOG_FILE"
+      # Guard against a failed/empty rewrite ever wiping the file (this is
+      # exactly how the original -v newline bug destroyed content: awk
+      # errored, NEW_CONTENT was empty, and it got written anyway).
+      if [ -z "$NEW_CONTENT" ]; then
+        echo "SKIPPED (empty rewrite output, file left untouched): $REL" >> "$LOG_FILE"
+      else
+        printf '%s\n' "$NEW_CONTENT" > "$FILE"
+        CHANGED=$((CHANGED + 1))
+        echo "ADDED to $REL: $(IFS=,; echo "${ADDED[*]}")" >> "$LOG_FILE"
+      fi
     fi
   else
     printf "\r[%d/%d] no change: %s" "$COUNT" "$TOTAL" "$REL"
   fi
   [ "$APPLY" -eq 1 ] && echo "$FILE" >> "$DONE_FILE"
-  unset FINAL
 done < "$FILE_LIST"
 
 echo

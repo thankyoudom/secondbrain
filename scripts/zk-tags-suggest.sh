@@ -99,9 +99,17 @@ build_normalized_block() {
 }
 
 rewrite_file_tags() {
-  local file="$1" newblock="$2"
-  awk -v newblock="$newblock" '
-    BEGIN { infm=0; done=0; skipping=0 }
+  local file="$1" newblock="$2" newblock_esc
+  # awk -v assignments containing a literal newline byte fail to parse on
+  # BWK/"one true awk" (macOS /usr/bin/awk, Debian's original-awk) with
+  # "newline in string ... at source line 1", producing empty stdout.
+  # gawk tolerates it silently, which is why this only broke on macOS.
+  # Fix: escape real newlines to the two-char sequence \n in bash first
+  # (safe for -v on every awk), then unescape them back to real newlines
+  # inside the awk program before printing.
+  newblock_esc=$(printf '%s' "$newblock" | awk 'NR>1{printf "\\n"} {printf "%s", $0}')
+  awk -v newblock="$newblock_esc" '
+    BEGIN { infm=0; done=0; skipping=0; gsub(/\\n/, "\n", newblock) }
     NR==1 && /^---[[:space:]]*$/ { infm=1; print; next }
     infm && /^---[[:space:]]*$/ { infm=0; print; next }
     infm && !done && /^tags:[[:space:]]*\[/ { print newblock; done=1; next }
@@ -175,7 +183,13 @@ Respond with ONLY the tags, one per line, nothing else — no preamble, no bulle
   if [ "$NUM_LINES" -ge 1 ] && [ "$NUM_LINES" -le $((MAX_TAGS + 2)) ] && [ "$BAD" -eq 0 ]; then
     NEWBLOCK=$(printf '%s\n' "$CLEANED" | build_normalized_block)
     NEW_CONTENT=$(rewrite_file_tags "$FILE" "$NEWBLOCK")
-    if [ "$NEW_CONTENT" != "$(cat "$FILE")" ]; then
+    # Guard against a failed/empty rewrite ever wiping the file (this is
+    # exactly how the original -v newline bug destroyed content: awk
+    # errored, NEW_CONTENT was empty, "$NEW_CONTENT" != "$(cat "$FILE")"
+    # was true, and it got written anyway).
+    if [ -z "$NEW_CONTENT" ]; then
+      echo "SKIPPED (empty rewrite output, file left untouched): $REL" >> "$LOG_FILE"
+    elif [ "$NEW_CONTENT" != "$(cat "$FILE")" ]; then
       printf '%s\n' "$NEW_CONTENT" > "$FILE"
       CHANGED=$((CHANGED + 1))
       echo "OK: $REL -> $(printf '%s\n' "$CLEANED" | tr '\n' ',' | sed 's/,$//')" >> "$LOG_FILE"
