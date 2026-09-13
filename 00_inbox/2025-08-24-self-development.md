@@ -2,7 +2,10 @@
 title: "self development"
 date: 2025-08-24
 source-folder: Notes
-tags: [self-development, mental-models]
+tags:
+  - mental-models
+  - personal-growth
+  - self-development
 ---
 
 # Self Development

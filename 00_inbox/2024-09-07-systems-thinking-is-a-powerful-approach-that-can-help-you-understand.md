@@ -2,7 +2,10 @@
 title: "Systems thinking is a powerful approach that can help you understand…"
 date: 2024-09-07
 source-folder: Notes
-tags: ["systems-thinking", "personal-development"]
+tags:
+  - personal-development
+  - personal-growth
+  - systems-thinking
 ---
 
 # Systems Thinking is a Powerful Approach

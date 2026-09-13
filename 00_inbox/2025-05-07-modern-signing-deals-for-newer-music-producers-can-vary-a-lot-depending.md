@@ -2,7 +2,10 @@
 title: "Modern signing deals for newer music producers can vary a lot depending…"
 date: 2025-05-07
 source-folder: Notes
-tags: [publishing-deal, music-production-deals]
+tags:
+  - music-production
+  - music-production-deals
+  - publishing-deal
 ---
 
 # Modern Signing Deals for Newer Music Producers Can Vary a Lot Depending…

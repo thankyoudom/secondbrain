@@ -4,6 +4,7 @@ date: 2025-05-27
 source-folder: Notes
 tags:
   - music-influence
+  - music-production
   - production-philosophy
 review-reasons: has-attachments
 ---

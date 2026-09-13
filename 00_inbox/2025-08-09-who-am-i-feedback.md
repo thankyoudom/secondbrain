@@ -2,7 +2,10 @@
 title: "who am I - feedback"
 date: 2025-08-09
 source-folder: Notes
-tags: [health-tech, personal-development]
+tags:
+  - health-tech
+  - personal-development
+  - personal-growth
 ---
 
 # Who Am I - Feedback

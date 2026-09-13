@@ -2,7 +2,10 @@
 title: "Got it—you’re asking about Islam’s view on wine from a more liberal…"
 date: 2026-01-22
 source-folder: Notes
-tags: [liberal-interpretation, islam-wine]
+tags:
+  - islam
+  - islam-wine
+  - liberal-interpretation
 ---
 
 # Got it—you’re asking about Islam’s view on wine from a more liberal…

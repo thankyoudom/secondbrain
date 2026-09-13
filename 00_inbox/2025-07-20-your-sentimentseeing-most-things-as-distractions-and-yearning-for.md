@@ -3,6 +3,7 @@ title: "Your sentiment—seeing most things as distractions and yearning for…"
 date: 2025-07-20
 source-folder: Notes
 tags:
+  - islam
   - islamic-minimalism
   - spiritual-focus
 review-reasons: has-attachments

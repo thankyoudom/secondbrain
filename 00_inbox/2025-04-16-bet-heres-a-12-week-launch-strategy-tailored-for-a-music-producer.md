@@ -3,8 +3,9 @@ title: "Bet — here's a **12-week launch strategy** tailored for a music produc
 date: 2025-04-16
 source-folder: Notes
 tags:
-  - music-producer
   - launch-strategy
+  - music-producer
+  - music-production
 ---
 
 # Bet — here's a **12-week launch strategy** tailored for a music producer…

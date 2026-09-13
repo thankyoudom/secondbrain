@@ -2,7 +2,11 @@
 title: "Thank you for sharing such a deeply personal situation. It’s clear…"
 date: 2025-10-21
 source-folder: Notes
-tags: [islamic-principles, stoic-philosophy]
+tags:
+  - islam
+  - islamic-principles
+  - stoic-philosophy
+  - stoicism
 ---
 
 # Thank you for sharing such a deeply personal situation. It’s clear…

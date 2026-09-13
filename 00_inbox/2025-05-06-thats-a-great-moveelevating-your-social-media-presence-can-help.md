@@ -2,7 +2,10 @@
 title: "That’s a great move—elevating your social media presence can help…"
 date: 2025-05-06
 source-folder: Notes
-tags: ["social-media", "music-producer"]
+tags:
+  - music-producer
+  - music-production
+  - social-media
 ---
 
 # That’s a great move—elevating your social media presence can help…

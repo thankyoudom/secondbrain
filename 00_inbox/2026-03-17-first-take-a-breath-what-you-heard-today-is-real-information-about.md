@@ -3,8 +3,9 @@ title: "First — take a breath. What you heard today is real information about�
 date: 2026-03-17
 source-folder: Notes
 tags:
-  - healthcare-data
+  - cloud-engineering
   - cloud-infrastructure
+  - healthcare-data
 ---
 
 # First — take a breath. What you heard today is real information about…

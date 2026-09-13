@@ -2,7 +2,10 @@
 title: "That’s an awesome way to learn ? — running Arch Linux forces you…"
 date: 2025-08-20
 source-folder: Notes
-tags: ["arch-linux", "cloud-devops"]
+tags:
+  - arch-linux
+  - cloud-devops
+  - cloud-engineering
 ---
 
 # That’s an awesome way to learn ? — running Arch Linux forces you…

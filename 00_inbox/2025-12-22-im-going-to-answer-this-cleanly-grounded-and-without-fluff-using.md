@@ -3,8 +3,9 @@ title: "Iâ€™m going to answer this cleanly, grounded, and without fluff, usingâ€
 date: 2025-12-22
 source-folder: Notes
 tags:
-  - relationship-dynamics
   - astrological-analysis
+  - astrology
+  - relationship-dynamics
 review-reasons: has-attachments
 ---
 

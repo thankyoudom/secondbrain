@@ -3,8 +3,9 @@ title: "Isaac Asimov (1920â€“1992) was a legendary American author, biochemistâ€
 date: 2025-07-20
 source-folder: Notes
 tags:
-  - science-fiction
+  - islam
   - islamic-philosophy
+  - science-fiction
 review-reasons: has-attachments
 ---
 

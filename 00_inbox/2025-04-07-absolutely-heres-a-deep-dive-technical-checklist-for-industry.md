@@ -3,8 +3,9 @@ title: "Absolutely. Here's a **deep-dive technical checklist** for industry…"
 date: 2025-04-07
 source-folder: Notes
 tags:
-  - mixing-checklist
   - mastering-preparation
+  - mixing
+  - mixing-checklist
 review-reasons: has-media-links
 ---
 

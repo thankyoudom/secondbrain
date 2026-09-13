@@ -2,7 +2,10 @@
 title: "Absolutely, let's build a TikTok content strategy tailored for you…"
 date: 2025-05-14
 source-folder: Notes
-tags: ["tiktok", "music-producer"]
+tags:
+  - music-producer
+  - music-production
+  - tiktok
 ---
 
 # Absolutely, let's build a TikTok content strategy tailored for you…

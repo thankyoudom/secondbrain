@@ -2,7 +2,10 @@
 title: "That's awesome! With your Terraform 003 certification and GCP Associate…"
 date: 2025-11-08
 source-folder: Notes
-tags: [cloud-certifications, career-advice]
+tags:
+  - career-advice
+  - cloud-certifications
+  - cloud-engineering
 ---
 
 # That's awesome! With your Terraform 003 certification and GCP Associate…

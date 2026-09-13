@@ -2,7 +2,11 @@
 title: "To build an audience on TikTok, Instagram, and YouTube as a music…"
 date: 2024-10-28
 source-folder: Notes
-tags: ["music-producer", "social-media-growth"]
+tags:
+  - music-producer
+  - music-production
+  - social-media
+  - social-media-growth
 ---
 
 # To build an audience on TikTok, Instagram, and YouTube as a music producer

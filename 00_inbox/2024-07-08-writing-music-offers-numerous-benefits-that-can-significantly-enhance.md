@@ -2,7 +2,10 @@
 title: "Writing music offers numerous benefits that can significantly enhance…"
 date: 2024-07-08
 source-folder: Notes
-tags: [self-development, music]
+tags:
+  - music
+  - personal-growth
+  - self-development
 ---
 
 # Writing Music Offers Numerous Benefits That Can Significantly Enhance Life

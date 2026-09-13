@@ -2,7 +2,10 @@
 title: "Marcus Aurelius, the Roman Emperor and Stoic philosopher, offers timeless…"
 date: 2024-09-17
 source-folder: Notes
-tags: ["stoic-philosophy", "personal-growth"]
+tags:
+  - personal-growth
+  - stoic-philosophy
+  - stoicism
 ---
 
 # Marcus Aurelius, the Roman Emperor and Stoic Philosopher: Timeless Advice for a Virtuous Life

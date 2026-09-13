@@ -2,7 +2,11 @@
 title: "Perfect — here’s a **Mix Template** tailored to your production style…"
 date: 2025-04-16
 source-folder: Notes
-tags: ["mix-template", "production-style"]
+tags:
+  - mix-template
+  - mixing
+  - music-production
+  - production-style
 ---
 
 # Perfect — here’s a **Mix Template** tailored to your production style…

@@ -2,7 +2,10 @@
 title: "The intersection of Stoicism, Islamic methodology, and Digital Art…"
 date: 2026-02-19
 source-folder: Notes
-tags: [stoicism, islamic-art]
+tags:
+  - islam
+  - islamic-art
+  - stoicism
 ---
 
 # The intersection of Stoicism, Islamic methodology, and Digital Art…

@@ -3,6 +3,7 @@ title: "Balanced Life"
 date: 2025-08-04
 source-folder: Notes
 tags:
+  - islam
   - islamic-life
   - personal-growth
 review-reasons: has-attachments

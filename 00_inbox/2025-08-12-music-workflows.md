@@ -2,7 +2,10 @@
 title: "music workflows"
 date: 2025-08-12
 source-folder: Notes
-tags: ["analog-aesthetic", "music-workflows"]
+tags:
+  - analog-aesthetic
+  - music-production
+  - music-workflows
 ---
 
 # Music Workflows

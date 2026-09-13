@@ -2,7 +2,10 @@
 title: "Perfect — here’s a full drum FX chain walkthrough in the same step…"
 date: 2025-05-02
 source-folder: Notes
-tags: ["drum-fx", "audio-production"]
+tags:
+  - audio-production
+  - drum-fx
+  - music-production
 ---
 
 # Perfect — here’s a full drum FX chain walkthrough in the same step…

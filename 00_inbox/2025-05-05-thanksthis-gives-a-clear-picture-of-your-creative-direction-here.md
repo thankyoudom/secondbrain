@@ -2,7 +2,10 @@
 title: "Thanks—this gives a clear picture of your creative direction. Here…"
 date: 2025-05-05
 source-folder: Notes
-tags: ["sample-based", "producer-niches"]
+tags:
+  - music-production
+  - producer-niches
+  - sample-based
 ---
 
 # Thanks—this gives a clear picture of your creative direction. Here…

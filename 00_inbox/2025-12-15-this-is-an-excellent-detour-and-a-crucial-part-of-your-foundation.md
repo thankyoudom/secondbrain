@@ -3,8 +3,9 @@ title: "This is an excellent detour and a crucial part of your foundation…"
 date: 2025-12-15
 source-folder: Notes
 tags:
-  - relationship-compatibility
   - astrological-analysis
+  - astrology
+  - relationship-compatibility
 review-reasons: has-attachments
 ---
 

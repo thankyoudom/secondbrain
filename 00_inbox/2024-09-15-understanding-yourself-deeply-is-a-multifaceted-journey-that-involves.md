@@ -2,7 +2,9 @@
 title: "Understanding yourself deeply is a multifaceted journey that involves…"
 date: 2024-09-15
 source-folder: Notes
-tags: [self-awareness, personal-growth]
+tags:
+  - personal-growth
+  - self-awareness
 ---
 
 # Understanding Yourself Deeply: A Multifaceted Journey

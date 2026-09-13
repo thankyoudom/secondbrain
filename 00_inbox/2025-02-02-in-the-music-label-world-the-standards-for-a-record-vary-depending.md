@@ -2,7 +2,10 @@
 title: "In the music label world, the standards for a record vary depending…"
 date: 2025-02-02
 source-folder: Notes
-tags: [music-label, record-production]
+tags:
+  - music-label
+  - music-production
+  - record-production
 ---
 
 # In the music label world, the standards for a record vary depending…

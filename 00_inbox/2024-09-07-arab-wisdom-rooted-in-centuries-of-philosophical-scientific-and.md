@@ -2,7 +2,10 @@
 title: "Arab wisdom, rooted in centuries of philosophical, scientific, and…"
 date: 2024-09-07
 source-folder: Notes
-tags: [murua, hikmah]
+tags:
+  - hikmah
+  - islam
+  - murua
 ---
 
 # Arab Wisdom, Rooted in Centuries of Philosophical, Scientific, and Cultural Achievements

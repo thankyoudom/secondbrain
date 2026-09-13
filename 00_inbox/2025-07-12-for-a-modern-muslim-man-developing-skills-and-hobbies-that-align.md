@@ -2,7 +2,10 @@
 title: "For a modern Muslim man, developing skills and hobbies that align…"
 date: 2025-07-12
 source-folder: Notes
-tags: [financial-literacy, islamic-values]
+tags:
+  - financial-literacy
+  - islam
+  - islamic-values
 ---
 
 # For a modern Muslim man, developing skills and hobbies that align…

@@ -3,6 +3,7 @@ title: "If youâ€™re 30+ and looking to sign a Producer Deal with a record labelâ
 date: 2026-02-16
 source-folder: Notes
 tags:
+  - music-production
   - producer-deal
   - record-label
 ---

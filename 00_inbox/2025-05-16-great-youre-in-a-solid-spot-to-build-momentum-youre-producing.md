@@ -3,8 +3,9 @@ title: "Great, you're in a solid spot to build momentum — you’re producing�
 date: 2025-05-16
 source-folder: Notes
 tags:
-  - tiktok-strategy
   - music-production
+  - tiktok
+  - tiktok-strategy
 review-reasons: has-media-links
 ---
 

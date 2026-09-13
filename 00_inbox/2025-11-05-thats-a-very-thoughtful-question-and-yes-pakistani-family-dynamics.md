@@ -2,7 +2,10 @@
 title: "That’s a very thoughtful question — and yes, Pakistani family dynamics…"
 date: 2025-11-05
 source-folder: Notes
-tags: ["pakistani-family", "islamic-values"]
+tags:
+  - islam
+  - islamic-values
+  - pakistani-family
 ---
 
 # That’s a very thoughtful question — and yes, Pakistani family dynamics…

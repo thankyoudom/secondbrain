@@ -5,6 +5,7 @@ source-folder: Notes
 tags:
   - career-goal
   - personal-development
+  - personal-growth
 review-reasons: has-attachments
 ---
 

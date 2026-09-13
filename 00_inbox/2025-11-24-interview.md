@@ -2,7 +2,11 @@
 title: "interview"
 date: 2025-11-24
 source-folder: Notes
-tags: [vpc-peering, vpn, cloud-networking]
+tags:
+  - cloud-engineering
+  - cloud-networking
+  - vpc-peering
+  - vpn
 ---
 
 # Interview

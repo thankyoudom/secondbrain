@@ -3,8 +3,9 @@ title: "Securing a role with your current trajectory is very realistic, thoughâ€
 date: 2026-02-09
 source-folder: Notes
 tags:
-  - security-as-code
+  - gcp
   - gcp-certifications
+  - security-as-code
 ---
 
 # Securing a role with your current trajectory is very realistic, thoughâ€¦

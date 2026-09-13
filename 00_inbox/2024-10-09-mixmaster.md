@@ -3,8 +3,9 @@ title: "mix/master"
 date: 2024-10-09
 source-folder: Notes
 tags:
-  - mixing
   - audio-production
+  - mixing
+  - music-production
 review-reasons: has-attachments
 ---
 

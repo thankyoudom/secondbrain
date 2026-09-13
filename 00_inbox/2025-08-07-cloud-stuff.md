@@ -4,6 +4,7 @@ date: 2025-08-07
 source-folder: Notes
 tags:
   - cloud
+  - cloud-engineering
   - docker
 review-reasons: has-attachments
 ---

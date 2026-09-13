@@ -4,6 +4,7 @@ date: 2026-03-25
 source-folder: Notes
 tags:
   - optics
+  - personal-growth
   - self-awareness
 ---
 

@@ -2,7 +2,10 @@
 title: "That’s great that you have an internal referral for the software engineer…"
 date: 2025-11-19
 source-folder: Notes
-tags: [cloud, software-engineering]
+tags:
+  - cloud
+  - cloud-engineering
+  - software-engineering
 ---
 
 # That’s great that you have an internal referral for the software engineer…

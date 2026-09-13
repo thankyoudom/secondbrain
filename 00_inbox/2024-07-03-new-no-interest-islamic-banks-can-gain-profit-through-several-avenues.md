@@ -2,7 +2,10 @@
 title: "New no-interest (Islamic) banks can gain profit through several avenues…"
 date: 2024-07-03
 source-folder: Notes
-tags: [islamic-finance, shariah-compliant]
+tags:
+  - islam
+  - islamic-finance
+  - shariah-compliant
 ---
 
 # New no-interest (Islamic) banks can gain profit through several avenues…

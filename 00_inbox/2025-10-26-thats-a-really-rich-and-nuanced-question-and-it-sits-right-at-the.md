@@ -3,8 +3,9 @@ title: "That’s a really rich and nuanced question — and it sits right at the
 date: 2025-10-26
 source-folder: Notes
 tags:
-  - self-mastery
   - cultural-psychology
+  - personal-growth
+  - self-mastery
 review-reasons: has-attachments
 ---
 

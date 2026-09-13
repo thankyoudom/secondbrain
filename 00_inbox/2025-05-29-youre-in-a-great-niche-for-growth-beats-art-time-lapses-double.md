@@ -3,8 +3,9 @@ title: "You're in a great niche for growth â€” beats + art time-lapses = doubleâ
 date: 2025-05-29
 source-folder: Notes
 tags:
-  - tiktok-growth
   - content-strategy
+  - tiktok
+  - tiktok-growth
 review-reasons: has-attachments
 ---
 

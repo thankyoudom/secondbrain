@@ -4,6 +4,7 @@ date: 2026-03-03
 source-folder: Notes
 tags:
   - pattern-questions
+  - personal-growth
   - self-reflection
 ---
 

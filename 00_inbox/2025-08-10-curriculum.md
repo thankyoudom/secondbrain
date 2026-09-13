@@ -2,7 +2,10 @@
 title: "curriculum"
 date: 2025-08-10
 source-folder: Notes
-tags: ["cloud-engineering", "self-study"]
+tags:
+  - cloud-engineering
+  - personal-growth
+  - self-study
 ---
 
 # Curriculum

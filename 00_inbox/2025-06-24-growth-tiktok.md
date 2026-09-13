@@ -3,8 +3,9 @@ title: "growth tiktok"
 date: 2025-06-24
 source-folder: Notes
 tags:
-  - tiktok-growth
   - content-strategy
+  - tiktok
+  - tiktok-growth
 review-reasons: has-attachments
 ---
 

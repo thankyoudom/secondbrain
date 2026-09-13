@@ -2,7 +2,10 @@
 title: "Absolutely — if you're serious about building a personal brand as…"
 date: 2025-05-15
 source-folder: Notes
-tags: [personal-brand, music-producer]
+tags:
+  - music-producer
+  - music-production
+  - personal-brand
 ---
 
 # Absolutely — if you're serious about building a personal brand as…

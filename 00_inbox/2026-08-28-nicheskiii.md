@@ -5,13 +5,14 @@ source-folder: Notes
 tags:
   - career
   - creative-direction
+  - creative-technology
+  - curation
+  - jazz
   - leverage
   - music
-  - jazz
-  - curation
-  - tanx-radio
-  - creative-technology
   - personal-development
+  - personal-growth
+  - tanx-radio
 ---
 
 # next 5 years — leverage, career & creative direction

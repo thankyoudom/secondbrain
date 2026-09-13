@@ -2,7 +2,10 @@
 title: "Thanks for sharing your beat. Here’s what I’ve gathered from the file…"
 date: 2025-04-16
 source-folder: Notes
-tags: ["music-production", "audio-mixing"]
+tags:
+  - audio-mixing
+  - mixing
+  - music-production
 ---
 
 # Thanks for sharing your beat. Here’s what I’ve gathered from the file…

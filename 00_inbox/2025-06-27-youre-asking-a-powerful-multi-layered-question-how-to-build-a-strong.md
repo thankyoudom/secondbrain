@@ -4,6 +4,7 @@ date: 2025-06-27
 source-folder: Notes
 tags:
   - intelligence
+  - islam
   - islamic-performance
 review-reasons: has-attachments
 ---

@@ -2,7 +2,10 @@
 title: "Alright—let’s focus on **Part 2: Stereo Field & Clarity**—specifically…"
 date: 2025-04-16
 source-folder: Notes
-tags: ["stereo-field", "mixing-techniques"]
+tags:
+  - mixing
+  - mixing-techniques
+  - stereo-field
 ---
 
 # Alright—let’s focus on **Part 2: Stereo Field & Clarity**—specifically…

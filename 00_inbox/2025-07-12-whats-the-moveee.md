@@ -2,7 +2,11 @@
 title: "what’s the moveee"
 date: 2025-07-12
 source-folder: Notes
-tags: ["relocation", "education", "muslim-communities"]
+tags:
+  - education
+  - islam
+  - muslim-communities
+  - relocation
 ---
 
 # What’s the Moveee

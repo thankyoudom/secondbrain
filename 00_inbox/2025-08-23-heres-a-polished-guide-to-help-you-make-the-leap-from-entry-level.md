@@ -3,8 +3,9 @@ title: "Here’s a polished guide to help you make the leap from entry-level…"
 date: 2025-08-23
 source-folder: Notes
 tags:
-  - cloud-devops
   - career-transition
+  - cloud-devops
+  - cloud-engineering
 review-reasons: has-attachments
 ---
 

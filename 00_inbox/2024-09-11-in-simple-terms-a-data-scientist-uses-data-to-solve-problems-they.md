@@ -2,7 +2,10 @@
 title: "In simple terms, a data scientist uses data to solve problems. They…"
 date: 2024-09-11
 source-folder: Notes
-tags: ["data-science", "personal-development"]
+tags:
+  - data-science
+  - personal-development
+  - personal-growth
 ---
 
 # In simple terms, a data scientist uses data to solve problems. They…
